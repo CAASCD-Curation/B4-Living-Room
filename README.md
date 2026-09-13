@@ -71,3 +71,5 @@ export default defineConfig([
   },
 ])
 ```
+
+> 自动部署测试：2026-09-13 22:16
