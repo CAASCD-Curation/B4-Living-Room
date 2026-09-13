@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --paper: #f2ede3;
+  --paper-deep: #e9e2d3;
+  --ink: #1b1712;
+  --ink-soft: #4a4238;
+  --line: #d8d0bf;
+  --cinnabar: #c0432b;
+  --ax1: #8a5a2e; /* 边界与阈限 赭棕 */
+  --ax2: #b8860b; /* 媒介与光源 琥珀 */
+  --ax3: #2f4b8f; /* 礼制与阶级 靛蓝 */
+  --ax4: #71805c; /* 情绪语法 灰绿 */
+  --ax5: #a8432a; /* 去界与归真 砖红 */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Noto Sans SC", -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-serif-sc {
+  font-family: "Noto Serif SC", "Songti SC", "SimSun", serif;
+}
+.font-grotesk {
+  font-family: "Space Grotesk", "Noto Sans SC", sans-serif;
+}
+.font-mono-arc {
+  font-family: "Space Mono", "Noto Sans SC", monospace;
+}
+
+/* 档案纸网格背景（图志页散落卡片的底） */
+.blueprint-bg {
+  background-color: var(--paper);
+  background-image:
+    linear-gradient(var(--line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--line) 1px, transparent 1px);
+  background-size: 72px 72px;
+  background-position: center top;
+}
+
+/* 纸面颗粒 */
+.grain::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 60;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* 散落标题：字符从随机位置归位 */
+.scatter-char {
+  display: inline-block;
+  transition: transform 1.8s cubic-bezier(0.22, 1, 0.36, 1), opacity 1.2s ease;
+  will-change: transform;
+}
+
+/* 散落卡片 */
+.work-card {
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s ease;
+  cursor: pointer;
+}
+.work-card:hover {
+  transform: rotate(0deg) translateY(-10px) scale(1.04) !important;
+  box-shadow: 0 24px 48px -16px rgba(27, 23, 18, 0.35);
+  z-index: 40 !important;
+}
+
+/* 轴色标签 */
+.axis-tag {
+  font-size: 11px;
+  line-height: 1;
+  padding: 4px 8px;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+/* 占位档案卡 */
+.placeholder-tile {
+  background:
+    repeating-linear-gradient(-45deg, transparent 0 10px, rgba(27, 23, 18, 0.04) 10px 11px),
+    var(--paper-deep);
+}
+
+/* 列表行 */
+.archive-row {
+  transition: background 0.2s ease;
+}
+.archive-row:hover {
+  background: rgba(27, 23, 18, 0.045);
+}
+
+/* 弹层动画 */
+.modal-mask {
+  animation: fadeIn 0.25s ease both;
+}
+.modal-panel {
+  animation: slideUp 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slideUp {
+  from { opacity: 0; transform: translate(-50%, calc(-50% + 28px)); }
+  to { opacity: 1; transform: translate(-50%, -50%); }
+}
+
+/* 自定义滚动条 */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(27, 23, 18, 0.25);
+  border-radius: 10px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scatter-char,
+  .work-card {
+    transition: none !important;
+  }
+}
