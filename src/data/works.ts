@@ -28,7 +28,9 @@ export const works: Work[] = [
       "虚荣",
       "空洞"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-1.webp"]
   },
   {
@@ -56,7 +58,9 @@ export const works: Work[] = [
       "伪装",
       "荒诞"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-2.webp"]
   },
   {
@@ -83,7 +87,9 @@ export const works: Work[] = [
       "温情",
       "安然"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-3.webp"]
   },
   {
@@ -111,7 +117,9 @@ export const works: Work[] = [
       "柔软",
       "满足"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-4.webp"]
   },
   {
@@ -138,7 +146,9 @@ export const works: Work[] = [
       "感伤",
       "忧郁"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-5.webp"]
   },
   {
@@ -165,7 +175,9 @@ export const works: Work[] = [
       "自由",
       "惬意"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-6.webp"]
   },
   {
@@ -194,7 +206,9 @@ export const works: Work[] = [
       "自嘲",
       "虚无"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-7.webp"]
   },
   {
@@ -222,7 +236,9 @@ export const works: Work[] = [
       "疏离",
       "疲惫"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-8.webp"]
   },
   {
@@ -282,7 +298,9 @@ export const works: Work[] = [
       "宁静",
       "释然"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-10.webp"]
   },
   {
@@ -340,7 +358,9 @@ export const works: Work[] = [
       "浪漫",
       "虚无"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-12.webp"]
   },
   {
@@ -366,7 +386,9 @@ export const works: Work[] = [
       "虚荣",
       "空洞"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-13.webp"]
   },
   {
@@ -393,7 +415,9 @@ export const works: Work[] = [
       "焦虑",
       "惶恐"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-14.webp"]
   },
   {
@@ -420,7 +444,9 @@ export const works: Work[] = [
       "窒息",
       "虚无"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-15.webp"]
   },
   {
@@ -448,7 +474,9 @@ export const works: Work[] = [
       "疏离",
       "冷漠"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-16.webp"]
   },
   {
@@ -507,7 +535,9 @@ export const works: Work[] = [
       "满足",
       "温情"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-18.webp"]
   },
   {
@@ -534,7 +564,9 @@ export const works: Work[] = [
       "冷漠",
       "压抑"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-19.webp"]
   },
   {
@@ -561,7 +593,9 @@ export const works: Work[] = [
       "虚荣",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-20.webp"]
   },
   {
@@ -590,7 +624,9 @@ export const works: Work[] = [
       "庄严",
       "满足"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-21.webp"]
   },
   {
@@ -618,7 +654,9 @@ export const works: Work[] = [
       "感伤",
       "柔软"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-22.webp"]
   },
   {
@@ -646,7 +684,9 @@ export const works: Work[] = [
       "自由",
       "惬意"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-23.webp"]
   },
   {
@@ -674,7 +714,9 @@ export const works: Work[] = [
       "空洞",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-24.webp"]
   },
   {
@@ -701,7 +743,9 @@ export const works: Work[] = [
       "浪漫",
       "惬意"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-25.webp"]
   },
   {
@@ -793,7 +837,9 @@ export const works: Work[] = [
       "宁静",
       "柔软"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-28.webp"]
   },
   {
@@ -882,7 +928,9 @@ export const works: Work[] = [
       "安然",
       "释然"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -911,7 +959,9 @@ export const works: Work[] = [
       "温柔",
       "浪漫"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -939,7 +989,9 @@ export const works: Work[] = [
       "满足",
       "尴尬"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-33.webp"]
   },
   {
@@ -996,7 +1048,9 @@ export const works: Work[] = [
       "权力",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-35.webp"]
   },
   {
@@ -1024,7 +1078,9 @@ export const works: Work[] = [
       "忧郁",
       "迷惘"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-36.webp"]
   },
   {
@@ -1052,7 +1108,9 @@ export const works: Work[] = [
       "浪漫",
       "空洞"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-37.webp"]
   },
   {
@@ -1081,7 +1139,9 @@ export const works: Work[] = [
       "冷漠",
       "疏离"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-38.webp"]
   },
   {
@@ -1109,7 +1169,9 @@ export const works: Work[] = [
       "安然",
       "浪漫"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-39.webp"]
   },
   {
@@ -1137,7 +1199,9 @@ export const works: Work[] = [
       "压抑",
       "释然"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-40.webp"]
   },
   {
@@ -1164,7 +1228,9 @@ export const works: Work[] = [
       "安然",
       "满足"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-41.webp"]
   },
   {
@@ -1192,7 +1258,9 @@ export const works: Work[] = [
       "柔软",
       "浪漫"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-42.webp"]
   },
   {
@@ -1221,7 +1289,9 @@ export const works: Work[] = [
       "温情",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-43.webp"]
   },
   {
@@ -1250,7 +1320,9 @@ export const works: Work[] = [
       "感伤",
       "浪漫"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-44.webp"]
   },
   {
@@ -1278,7 +1350,9 @@ export const works: Work[] = [
       "柔软",
       "满足"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-45.webp"]
   },
   {
@@ -1306,7 +1380,9 @@ export const works: Work[] = [
       "疏离",
       "迷惘"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-46.webp"]
   },
   {
@@ -1333,7 +1409,9 @@ export const works: Work[] = [
       "自嘲",
       "空洞"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -1361,7 +1439,9 @@ export const works: Work[] = [
       "尴尬",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-48.webp"]
   },
   {
@@ -1389,7 +1469,9 @@ export const works: Work[] = [
       "窒息",
       "虚无"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -1416,7 +1498,9 @@ export const works: Work[] = [
       "疲惫",
       "释然"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/A-50.webp"]
   },
   {
@@ -1539,7 +1623,9 @@ export const works: Work[] = [
       "疲惫",
       "自嘲"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-4.webp", "/B-4-2.webp"]
   },
   {
@@ -1599,7 +1685,9 @@ export const works: Work[] = [
       "浪漫",
       "庄严"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-6.webp", "/B-6-2.webp"]
   },
   {
@@ -1628,7 +1716,9 @@ export const works: Work[] = [
       "庄严",
       "空洞"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-7.webp"]
   },
   {
@@ -1657,7 +1747,9 @@ export const works: Work[] = [
       "温情",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-8.webp"]
   },
   {
@@ -1685,7 +1777,9 @@ export const works: Work[] = [
       "尴尬",
       "自嘲"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-9.webp"]
   },
   {
@@ -1744,7 +1838,9 @@ export const works: Work[] = [
       "感伤",
       "疲惫"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-11.webp", "/B-11-2.webp"]
   },
   {
@@ -1836,7 +1932,9 @@ export const works: Work[] = [
       "浪漫",
       "庄严"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-14.webp"]
   },
   {
@@ -1960,7 +2058,9 @@ export const works: Work[] = [
       "庄严",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-18.webp", "/B-18-2.webp"]
   },
   {
@@ -2021,7 +2121,9 @@ export const works: Work[] = [
       "浪漫",
       "庄严"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-20.webp", "/B-20-2.webp"]
   },
   {
@@ -2238,7 +2340,9 @@ export const works: Work[] = [
       "满足",
       "安然"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-27.webp", "/B-27-2.webp"]
   },
   {
@@ -2298,7 +2402,9 @@ export const works: Work[] = [
       "窒息",
       "虚无"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-29.webp"]
   },
   {
@@ -2358,7 +2464,9 @@ export const works: Work[] = [
       "疲惫",
       "虚无"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-31.webp"]
   },
   {
@@ -2388,7 +2496,9 @@ export const works: Work[] = [
       "窒息",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-32.webp"]
   },
   {
@@ -2417,7 +2527,9 @@ export const works: Work[] = [
       "暧昧",
       "浪漫"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-33.webp"]
   },
   {
@@ -2477,7 +2589,9 @@ export const works: Work[] = [
       "压抑",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-35.webp"]
   },
   {
@@ -2506,7 +2620,9 @@ export const works: Work[] = [
       "空洞",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-36.webp"]
   },
   {
@@ -2536,7 +2652,9 @@ export const works: Work[] = [
       "焦虑",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -2566,7 +2684,9 @@ export const works: Work[] = [
       "压抑",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-38.webp"]
   },
   {
@@ -2595,7 +2715,9 @@ export const works: Work[] = [
       "暧昧",
       "尴尬"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-39.webp"]
   },
   {
@@ -2624,7 +2746,9 @@ export const works: Work[] = [
       "浪漫",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-40.webp"]
   },
   {
@@ -2653,7 +2777,9 @@ export const works: Work[] = [
       "焦虑",
       "疲惫"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-41.webp"]
   },
   {
@@ -2682,7 +2808,9 @@ export const works: Work[] = [
       "暧昧",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -2712,7 +2840,9 @@ export const works: Work[] = [
       "庄严",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-43.webp"]
   },
   {
@@ -2803,7 +2933,9 @@ export const works: Work[] = [
       "庄严",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-46.webp"]
   },
   {
@@ -2832,7 +2964,9 @@ export const works: Work[] = [
       "窒息",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/B-47.webp"]
   },
   {
@@ -3275,7 +3409,9 @@ export const works: Work[] = [
       "庄严",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -3303,7 +3439,9 @@ export const works: Work[] = [
       "压抑",
       "释然"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -3359,7 +3497,9 @@ export const works: Work[] = [
       "虚荣",
       "空洞"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/C-15.webp", "/C-15-2.webp"]
   },
   {
@@ -3678,7 +3818,9 @@ export const works: Work[] = [
       "伪装",
       "温情"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/C-26.webp", "/C-26-2.webp", "/C-26-3.webp", "/C-26-4.webp"]
   },
   {
@@ -4055,7 +4197,9 @@ export const works: Work[] = [
       "自嘲",
       "荒诞"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -4170,7 +4314,9 @@ export const works: Work[] = [
       "庄严",
       "荒诞"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -4255,7 +4401,9 @@ export const works: Work[] = [
       "空洞",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -4430,7 +4578,9 @@ export const works: Work[] = [
       "庄严",
       "满足"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-2.webp", "/D-2-2.webp"]
   },
   {
@@ -4488,7 +4638,9 @@ export const works: Work[] = [
       "安然",
       "释然"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-4.webp", "/D-4-2.webp", "/D-4-3.webp", "/D-4-4.webp", "/D-4-5.webp", "/D-4-6.webp", "/D-4-7.webp", "/D-4-8.webp", "/D-4-9.webp", "/D-4-10.webp", "/D-4-11.webp", "/D-4-12.webp", "/D-4-13.webp", "/D-4-14.webp", "/D-4-15.webp", "/D-4-16.webp", "/D-4-17.webp", "/D-4-18.webp", "/D-4-19.webp", "/D-4-20.webp", "/D-4-21.webp", "/D-4-22.webp", "/D-4-23.webp"]
   },
   {
@@ -4544,7 +4696,9 @@ export const works: Work[] = [
       "浪漫",
       "伪装"
     ],
-    "a5": ["/D-6.webp"],
+    "a5": [
+      
+    ],
     "imgs": ["/D-6.webp"]
   },
   {
@@ -4572,7 +4726,9 @@ export const works: Work[] = [
       "庄严",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-7.webp"]
   },
   {
@@ -4600,7 +4756,9 @@ export const works: Work[] = [
       "秩序",
       "高效"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -4714,7 +4872,9 @@ export const works: Work[] = [
       "自由",
       "虚无"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -4771,7 +4931,9 @@ export const works: Work[] = [
       "窒息",
       "虚无"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-14.webp", "/D-14-2.webp", "/D-14-3.webp", "/D-14-4.webp", "/D-14-5.webp"]
   },
   {
@@ -4827,7 +4989,9 @@ export const works: Work[] = [
       "庄严",
       "荒诞"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-16.webp", "/D-16-2.webp", "/D-16-3.webp"]
   },
   {
@@ -4855,7 +5019,9 @@ export const works: Work[] = [
       "权力",
       "排他"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-17.webp"]
   },
   {
@@ -4883,7 +5049,9 @@ export const works: Work[] = [
       "温情",
       "仪式"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-18.webp", "/D-18-2.webp", "/D-18-3.webp", "/D-18-4.webp", "/D-18-5.webp", "/D-18-6.webp"]
   },
   {
@@ -5056,7 +5224,9 @@ export const works: Work[] = [
       "自由",
       "惬意"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -5231,7 +5401,9 @@ export const works: Work[] = [
       "伪装",
       "释然"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": []
   },
   {
@@ -5318,7 +5490,9 @@ export const works: Work[] = [
       "安然",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-33.webp", "/D-33-2.webp", "/D-33-3.webp", "/D-33-4.webp"]
   },
   {
@@ -5345,7 +5519,9 @@ export const works: Work[] = [
       "冷漠",
       "伪装"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-34.webp", "/D-34-2.webp", "/D-34-3.webp"]
   },
   {
@@ -5372,7 +5548,9 @@ export const works: Work[] = [
       "浪漫",
       "慵懒"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-35.webp", "/D-35-2.webp", "/D-35-3.webp", "/D-35-4.webp", "/D-35-5.webp", "/D-35-6.webp", "/D-35-7.webp"]
   },
   {
@@ -5399,7 +5577,9 @@ export const works: Work[] = [
       "治愈",
       "慵懒"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-36.webp", "/D-36-2.webp", "/D-36-3.webp", "/D-36-4.webp"]
   },
   {
@@ -5427,7 +5607,9 @@ export const works: Work[] = [
       "浪漫",
       "温馨"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-37.webp", "/D-37-2.webp", "/D-37-3.webp"]
   },
   {
@@ -5512,7 +5694,9 @@ export const works: Work[] = [
       "自由",
       "浪漫"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-40.webp", "/D-40-2.webp", "/D-40-3.webp", "/D-40-4.webp"]
   },
   {
@@ -5540,7 +5724,9 @@ export const works: Work[] = [
       "窒息",
       "虚无"
     ],
-    "a5": [],
+    "a5": [
+      
+    ],
     "imgs": ["/D-41.webp", "/D-41-2.webp", "/D-41-3.webp"]
   },
   {
@@ -5567,7 +5753,9 @@ export const works: Work[] = [
       "宁静",
       "庄严"
     ],
-    "a5": ["/D-42.webp", "/D-42-2.webp", "/D-42-3.webp", "/D-42-4.webp", "/D-42-5.webp"],
+    "a5": [
+      
+    ],
     "imgs": ["/D-42.webp", "/D-42-2.webp", "/D-42-3.webp", "/D-42-4.webp", "/D-42-5.webp"]
   },
   {
@@ -5654,7 +5842,9 @@ export const works: Work[] = [
       "压抑",
       "伪装"
     ],
-    "a5": ["/D-45.webp", "/D-45-2.webp"],
+    "a5": [
+      
+    ],
     "imgs": ["/D-45.webp", "/D-45-2.webp"]
   },
   {

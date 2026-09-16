@@ -95,6 +95,22 @@ export const STACK_ICONS: { name: FurnitureKey | "plant"; rot: number }[] = [
   { name: "chair", rot: -3 },
 ];
 
+/* 每件家具 = 一个分类入口（首页场景点击 & 右侧栏共用）
+ * tag 均为作品数据中的真实标签（已核对频次） */
+export const FURNITURE_LINKS: {
+  key: FurnitureKey;
+  tag: string;
+  axis: "a1" | "a2" | "a3" | "a4" | "a5";
+}[] = [
+  { key: "sofa", tag: "座次秩序", axis: "a3" }, // 沙发 → 谁坐主位 (61)
+  { key: "table", tag: "社交", axis: "a2" }, // 茶几 → 围坐社交 (39)
+  { key: "lamp", tag: "慵懒", axis: "a4" }, // 落地灯 → 慵懒情绪 (34)
+  { key: "chair", tag: "渗透型-漫游式", axis: "a1" }, // 单椅 → 随处可坐 (31)
+  { key: "shelf", tag: "功能置换", axis: "a5" }, // 书架 → 客厅=书房 (34)
+  { key: "window", tag: "光", axis: "a2" }, // 窗 → 采光与窗光 (13)
+  { key: "tv", tag: "媒介", axis: "a2" }, // 电视 → 面向媒介 (31)
+];
+
 export function PlantIcon(props: SVGProps<SVGSVGElement>) {
   return (
     <svg
