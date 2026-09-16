@@ -119,7 +119,7 @@ export default function Home() {
         <div className="absolute inset-x-0 top-[6%] flex flex-col items-center pointer-events-none z-10">
           <ScatterTitle
             text="客厅图志"
-            className="font-serif-sc font-black text-[15vw] md:text-[10.5vw] leading-none text-[var(--ink)]/90 mix-blend-multiply select-none"
+            className="font-serif-sc font-black text-[8vw] md:text-[5.2vw] leading-none text-[var(--ink)]/90 mix-blend-multiply select-none"
           />
           <ScatterTitle
             text="LIVING ROOM ATLAS"

@@ -33,25 +33,16 @@ function plane(w: number, h: number, x = 0, y = 0, z = 0, ry = 0) {
   return l;
 }
 
-/* 方格网底 */
+/* 方格网底：向远处延伸、铺满画面下方，像画纸上的坐标格 */
 function buildGrid(): THREE.Group {
   const g = new THREE.Group();
-  const grid = new THREE.GridHelper(16, 16, INK, INK);
-  grid.scale.z = 0.75; // 网格 16×16 压成 16×12，与外框一致
+  const grid = new THREE.GridHelper(60, 50, INK, INK);
   const mats = Array.isArray(grid.material) ? grid.material : [grid.material];
   mats.forEach((m) => {
     m.transparent = true;
-    m.opacity = 0.18;
+    m.opacity = 0.14;
   });
   g.add(grid);
-  // 外框一圈稍深的边线，界定空间
-  const W = 16, D = 12;
-  const frame = new THREE.Group();
-  frame.add(box(W, 0.02, 0.02, 0, 0, -D / 2));
-  frame.add(box(W, 0.02, 0.02, 0, 0, D / 2));
-  frame.add(box(0.02, 0.02, D, -W / 2, 0, 0));
-  frame.add(box(0.02, 0.02, D, W / 2, 0, 0));
-  g.add(frame);
   return g;
 }
 
@@ -118,11 +109,9 @@ function buildLounge(): THREE.Group {
   shelf.rotation.y = Math.PI / 2;
   g.add(shelf);
 
-  // 落地窗：玻璃线 + 十字棂
+  // 落地窗：只有玻璃轮廓，不加窗棂
   const win = new THREE.Group();
   win.add(plane(2.4, 2.2, 0, 1.16, 0));
-  win.add(box(0.05, 2.2, 0.1, 0, 1.16, 0));
-  win.add(box(2.4, 0.05, 0.1, 0, 1.16, 0));
   win.position.set(4.6, 0, -D / 2 + 0.35);
   g.add(win);
 
