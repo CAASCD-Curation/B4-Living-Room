@@ -25,12 +25,10 @@ function cyl(rt: number, rb: number, h: number, color: number, x = 0, y = 0, z =
 /* ================= 现代客厅 ================= */
 function buildLounge(): THREE.Group {
   const g = new THREE.Group();
-  const W = 10, D = 8, H = 4.4;
+  const W = 10, D = 8;
 
-  // 地板 / 墙
+  // 地板（无墙 —— 客厅敞开）
   g.add(box(W, 0.12, D, 0xd9cfbc, 0, -0.06, 0)); // 地板
-  g.add(box(W, H, 0.15, 0xece5d6, 0, H / 2, -D / 2)); // 后墙
-  g.add(box(0.15, H, D, 0xe4dccb, -W / 2, H / 2, 0)); // 左墙
 
   // 地毯
   g.add(box(4.6, 0.04, 3.2, 0xb66a45, 0.4, 0.03, 0.4));
@@ -56,8 +54,10 @@ function buildLounge(): THREE.Group {
   g.add(box(0.08, 0.42, 0.08, 0x6b4f35, 0.15, 0.21, 0.5));
   g.add(cyl(0.09, 0.07, 0.12, 0xf2ede3, -0.9, 0.52, 0.2));
 
-  // 电视墙：挂墙电视（发光屏）
-  g.add(box(2.6, 1.5, 0.08, 0x1b1712, -0.6, 2.2, -D / 2 + 0.12));
+  // 落地电视（发光屏，立于地台之上）
+  g.add(box(3.0, 0.35, 0.45, 0x8a6f4d, -0.6, 0.18, -D / 2 + 0.35)); // 电视柜
+  g.add(box(0.5, 0.5, 0.1, 0x1b1712, -0.6, 0.6, -D / 2 + 0.14)); // 支架
+  g.add(box(2.6, 1.5, 0.08, 0x1b1712, -0.6, 1.6, -D / 2 + 0.12)); // 机身
   const screen = new THREE.Mesh(
     new THREE.PlaneGeometry(2.35, 1.28),
     new THREE.MeshStandardMaterial({
@@ -67,9 +67,8 @@ function buildLounge(): THREE.Group {
       roughness: 0.4,
     })
   );
-  screen.position.set(-0.6, 2.2, -D / 2 + 0.17);
+  screen.position.set(-0.6, 1.6, -D / 2 + 0.17);
   g.add(screen);
-  g.add(box(3.0, 0.35, 0.45, 0x8a6f4d, -0.6, 0.55, -D / 2 + 0.35)); // 电视柜
 
   // 落地灯（暖光）
   const lampX = 2.6, lampZ = -2.6;
@@ -106,13 +105,13 @@ function buildLounge(): THREE.Group {
   shelf.rotation.y = Math.PI / 2;
   g.add(shelf);
 
-  // 窗（后墙右侧开口 + 光）
-  g.add(box(2.4, 2.2, 0.1, 0xfdf9ef, 3.2, 2.3, -D / 2 + 0.1));
-  g.add(box(2.6, 0.08, 0.14, 0x8a6f4d, 3.2, 3.42, -D / 2 + 0.12));
-  g.add(box(2.6, 0.08, 0.14, 0x8a6f4d, 3.2, 1.18, -D / 2 + 0.12));
-  g.add(box(0.08, 2.24, 0.14, 0x8a6f4d, 2.0, 2.3, -D / 2 + 0.12));
-  g.add(box(0.08, 2.24, 0.14, 0x8a6f4d, 4.4, 2.3, -D / 2 + 0.12));
-  g.add(box(0.05, 2.2, 0.12, 0x8a6f4d, 3.2, 2.3, -D / 2 + 0.12));
+  // 落地窗架（独立立框，自地面而起）
+  g.add(box(2.4, 2.2, 0.06, 0xfdf9ef, 3.2, 1.16, -D / 2 + 0.1)); // 玻璃光面
+  g.add(box(2.6, 0.08, 0.14, 0x8a6f4d, 3.2, 2.28, -D / 2 + 0.12)); // 上框
+  g.add(box(2.6, 0.08, 0.14, 0x8a6f4d, 3.2, 0.04, -D / 2 + 0.12)); // 下框
+  g.add(box(0.08, 2.32, 0.14, 0x8a6f4d, 2.0, 1.16, -D / 2 + 0.12)); // 左右框
+  g.add(box(0.08, 2.32, 0.14, 0x8a6f4d, 4.4, 1.16, -D / 2 + 0.12));
+  g.add(box(0.05, 2.2, 0.12, 0x8a6f4d, 3.2, 1.16, -D / 2 + 0.12)); // 中梃
 
   // 绿植
   g.add(cyl(0.22, 0.16, 0.4, 0xa8432a, -3.6, 0.2, -2.8));
@@ -121,9 +120,9 @@ function buildLounge(): THREE.Group {
   leaves.castShadow = true;
   g.add(leaves);
 
-  // 挂画
-  g.add(box(1.1, 1.4, 0.06, 0x1b1712, -3.2, 2.5, -D / 2 + 0.1));
-  g.add(box(0.94, 1.24, 0.07, 0xd8b04a, -3.2, 2.5, -D / 2 + 0.12));
+  // 立画（无墙，画框直接立于地板）
+  g.add(box(1.1, 1.4, 0.06, 0x1b1712, -3.2, 0.72, -D / 2 + 0.2, 0.12));
+  g.add(box(0.94, 1.24, 0.07, 0xd8b04a, -3.2, 0.72, -D / 2 + 0.22, 0.12));
 
   return g;
 }

@@ -29,9 +29,7 @@ export const works: Work[] = [
       "空洞"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-1.webp"
-    ]
+    "imgs": ["/A-1.webp"]
   },
   {
     "id": "A-2",
@@ -59,9 +57,7 @@ export const works: Work[] = [
       "荒诞"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-2.webp"
-    ]
+    "imgs": ["/A-2.webp"]
   },
   {
     "id": "A-3",
@@ -88,9 +84,7 @@ export const works: Work[] = [
       "安然"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-3.webp"
-    ]
+    "imgs": ["/A-3.webp"]
   },
   {
     "id": "A-4",
@@ -118,9 +112,7 @@ export const works: Work[] = [
       "满足"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-4.webp"
-    ]
+    "imgs": ["/A-4.webp"]
   },
   {
     "id": "A-5",
@@ -147,9 +139,7 @@ export const works: Work[] = [
       "忧郁"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-5.webp"
-    ]
+    "imgs": ["/A-5.webp"]
   },
   {
     "id": "A-6",
@@ -176,9 +166,7 @@ export const works: Work[] = [
       "惬意"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-6.webp"
-    ]
+    "imgs": ["/A-6.webp"]
   },
   {
     "id": "A-7",
@@ -207,9 +195,7 @@ export const works: Work[] = [
       "虚无"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-7.webp"
-    ]
+    "imgs": ["/A-7.webp"]
   },
   {
     "id": "A-8",
@@ -237,9 +223,7 @@ export const works: Work[] = [
       "疲惫"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-8.webp"
-    ]
+    "imgs": ["/A-8.webp"]
   },
   {
     "id": "A-9",
@@ -270,9 +254,7 @@ export const works: Work[] = [
       "消解",
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/A-9.webp"
-    ]
+    "imgs": ["/A-9.webp"]
   },
   {
     "id": "A-10",
@@ -301,9 +283,7 @@ export const works: Work[] = [
       "释然"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-10.webp"
-    ]
+    "imgs": ["/A-10.webp"]
   },
   {
     "id": "A-11",
@@ -334,9 +314,7 @@ export const works: Work[] = [
       "消解",
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/A-11.webp"
-    ]
+    "imgs": ["/A-11.webp"]
   },
   {
     "id": "A-12",
@@ -363,9 +341,7 @@ export const works: Work[] = [
       "虚无"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-12.webp"
-    ]
+    "imgs": ["/A-12.webp"]
   },
   {
     "id": "A-13",
@@ -391,9 +367,7 @@ export const works: Work[] = [
       "空洞"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-13.webp"
-    ]
+    "imgs": ["/A-13.webp"]
   },
   {
     "id": "A-14",
@@ -420,9 +394,7 @@ export const works: Work[] = [
       "惶恐"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-14.webp"
-    ]
+    "imgs": ["/A-14.webp"]
   },
   {
     "id": "A-15",
@@ -449,9 +421,7 @@ export const works: Work[] = [
       "虚无"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-15.webp"
-    ]
+    "imgs": ["/A-15.webp"]
   },
   {
     "id": "A-16",
@@ -479,9 +449,7 @@ export const works: Work[] = [
       "冷漠"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-16.webp"
-    ]
+    "imgs": ["/A-16.webp"]
   },
   {
     "id": "A-17",
@@ -512,9 +480,7 @@ export const works: Work[] = [
       "消解",
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/A-17.webp"
-    ]
+    "imgs": ["/A-17.webp"]
   },
   {
     "id": "A-18",
@@ -542,9 +508,7 @@ export const works: Work[] = [
       "温情"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-18.webp"
-    ]
+    "imgs": ["/A-18.webp"]
   },
   {
     "id": "A-19",
@@ -571,9 +535,7 @@ export const works: Work[] = [
       "压抑"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-19.webp"
-    ]
+    "imgs": ["/A-19.webp"]
   },
   {
     "id": "A-20",
@@ -600,9 +562,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-20.webp"
-    ]
+    "imgs": ["/A-20.webp"]
   },
   {
     "id": "A-21",
@@ -631,9 +591,7 @@ export const works: Work[] = [
       "满足"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-21.webp"
-    ]
+    "imgs": ["/A-21.webp"]
   },
   {
     "id": "A-22",
@@ -661,9 +619,7 @@ export const works: Work[] = [
       "柔软"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-22.webp"
-    ]
+    "imgs": ["/A-22.webp"]
   },
   {
     "id": "A-23",
@@ -691,9 +647,7 @@ export const works: Work[] = [
       "惬意"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-23.webp"
-    ]
+    "imgs": ["/A-23.webp"]
   },
   {
     "id": "A-24",
@@ -721,9 +675,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-24.webp"
-    ]
+    "imgs": ["/A-24.webp"]
   },
   {
     "id": "A-25",
@@ -750,9 +702,7 @@ export const works: Work[] = [
       "惬意"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-25.webp"
-    ]
+    "imgs": ["/A-25.webp"]
   },
   {
     "id": "A-26",
@@ -783,9 +733,7 @@ export const works: Work[] = [
       "物质",
       "陈列"
     ],
-    "imgs": [
-      "/img/A-26.webp"
-    ]
+    "imgs": ["/A-26.webp"]
   },
   {
     "id": "A-27",
@@ -818,9 +766,7 @@ export const works: Work[] = [
       "消解",
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/A-27.webp"
-    ]
+    "imgs": ["/A-27.webp"]
   },
   {
     "id": "A-28",
@@ -848,9 +794,7 @@ export const works: Work[] = [
       "柔软"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-28.webp"
-    ]
+    "imgs": ["/A-28.webp"]
   },
   {
     "id": "A-29",
@@ -881,9 +825,7 @@ export const works: Work[] = [
       "物质",
       "去形式化"
     ],
-    "imgs": [
-      "/img/A-29.webp"
-    ]
+    "imgs": ["/A-29.webp"]
   },
   {
     "id": "A-30",
@@ -913,9 +855,7 @@ export const works: Work[] = [
       "消解",
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/A-30.webp"
-    ]
+    "imgs": ["/A-30.webp"]
   },
   {
     "id": "A-31",
@@ -1000,9 +940,7 @@ export const works: Work[] = [
       "尴尬"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-33.webp"
-    ]
+    "imgs": ["/A-33.webp"]
   },
   {
     "id": "A-34",
@@ -1032,9 +970,7 @@ export const works: Work[] = [
     "a5": [
       "物质"
     ],
-    "imgs": [
-      "/img/A-34.webp"
-    ]
+    "imgs": ["/A-34.webp"]
   },
   {
     "id": "A-35",
@@ -1061,9 +997,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-35.webp"
-    ]
+    "imgs": ["/A-35.webp"]
   },
   {
     "id": "A-36",
@@ -1091,9 +1025,7 @@ export const works: Work[] = [
       "迷惘"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-36.webp"
-    ]
+    "imgs": ["/A-36.webp"]
   },
   {
     "id": "A-37",
@@ -1121,9 +1053,7 @@ export const works: Work[] = [
       "空洞"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-37.webp"
-    ]
+    "imgs": ["/A-37.webp"]
   },
   {
     "id": "A-38",
@@ -1152,9 +1082,7 @@ export const works: Work[] = [
       "疏离"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-38.webp"
-    ]
+    "imgs": ["/A-38.webp"]
   },
   {
     "id": "A-39",
@@ -1182,9 +1110,7 @@ export const works: Work[] = [
       "浪漫"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-39.webp"
-    ]
+    "imgs": ["/A-39.webp"]
   },
   {
     "id": "A-40",
@@ -1212,9 +1138,7 @@ export const works: Work[] = [
       "释然"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-40.webp"
-    ]
+    "imgs": ["/A-40.webp"]
   },
   {
     "id": "A-41",
@@ -1241,9 +1165,7 @@ export const works: Work[] = [
       "满足"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-41.webp"
-    ]
+    "imgs": ["/A-41.webp"]
   },
   {
     "id": "A-42",
@@ -1271,9 +1193,7 @@ export const works: Work[] = [
       "浪漫"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-42.webp"
-    ]
+    "imgs": ["/A-42.webp"]
   },
   {
     "id": "A-43",
@@ -1302,9 +1222,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-43.webp"
-    ]
+    "imgs": ["/A-43.webp"]
   },
   {
     "id": "A-44",
@@ -1333,9 +1251,7 @@ export const works: Work[] = [
       "浪漫"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-44.webp"
-    ]
+    "imgs": ["/A-44.webp"]
   },
   {
     "id": "A-45",
@@ -1363,9 +1279,7 @@ export const works: Work[] = [
       "满足"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-45.webp"
-    ]
+    "imgs": ["/A-45.webp"]
   },
   {
     "id": "A-46",
@@ -1393,9 +1307,7 @@ export const works: Work[] = [
       "迷惘"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-46.webp"
-    ]
+    "imgs": ["/A-46.webp"]
   },
   {
     "id": "A-47",
@@ -1450,9 +1362,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-48.webp"
-    ]
+    "imgs": ["/A-48.webp"]
   },
   {
     "id": "A-49",
@@ -1507,9 +1417,7 @@ export const works: Work[] = [
       "释然"
     ],
     "a5": [],
-    "imgs": [
-      "/img/A-50.webp"
-    ]
+    "imgs": ["/A-50.webp"]
   },
   {
     "id": "B-1",
@@ -1539,9 +1447,7 @@ export const works: Work[] = [
     "a5": [
       "边界消融"
     ],
-    "imgs": [
-      "/img/B-1.webp"
-    ]
+    "imgs": ["/B-1.webp"]
   },
   {
     "id": "B-2",
@@ -1572,9 +1478,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/B-2.webp"
-    ]
+    "imgs": ["/B-2.webp"]
   },
   {
     "id": "B-3",
@@ -1607,10 +1511,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/B-3.webp",
-      "/img/B-3-2.webp"
-    ]
+    "imgs": ["/B-3.webp", "/B-3-2.webp"]
   },
   {
     "id": "B-4",
@@ -1639,10 +1540,7 @@ export const works: Work[] = [
       "自嘲"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-4.webp",
-      "/img/B-4-2.webp"
-    ]
+    "imgs": ["/B-4.webp", "/B-4-2.webp"]
   },
   {
     "id": "B-5",
@@ -1673,10 +1571,7 @@ export const works: Work[] = [
     "a5": [
       "边界消融"
     ],
-    "imgs": [
-      "/img/B-5.webp",
-      "/img/B-5-2.webp"
-    ]
+    "imgs": ["/B-5.webp", "/B-5-2.webp"]
   },
   {
     "id": "B-6",
@@ -1705,10 +1600,7 @@ export const works: Work[] = [
       "庄严"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-6.webp",
-      "/img/B-6-2.webp"
-    ]
+    "imgs": ["/B-6.webp", "/B-6-2.webp"]
   },
   {
     "id": "B-7",
@@ -1737,9 +1629,7 @@ export const works: Work[] = [
       "空洞"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-7.webp"
-    ]
+    "imgs": ["/B-7.webp"]
   },
   {
     "id": "B-8",
@@ -1768,9 +1658,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-8.webp"
-    ]
+    "imgs": ["/B-8.webp"]
   },
   {
     "id": "B-9",
@@ -1798,9 +1686,7 @@ export const works: Work[] = [
       "自嘲"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-9.webp"
-    ]
+    "imgs": ["/B-9.webp"]
   },
   {
     "id": "B-10",
@@ -1831,9 +1717,7 @@ export const works: Work[] = [
     "a5": [
       "负边界·非住宅"
     ],
-    "imgs": [
-      "/img/B-10.webp"
-    ]
+    "imgs": ["/B-10.webp"]
   },
   {
     "id": "B-11",
@@ -1861,10 +1745,7 @@ export const works: Work[] = [
       "疲惫"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-11.webp",
-      "/img/B-11-2.webp"
-    ]
+    "imgs": ["/B-11.webp", "/B-11-2.webp"]
   },
   {
     "id": "B-12",
@@ -1896,9 +1777,7 @@ export const works: Work[] = [
     "a5": [
       "布局拆解"
     ],
-    "imgs": [
-      "/img/B-12.webp"
-    ]
+    "imgs": ["/B-12.webp"]
   },
   {
     "id": "B-13",
@@ -1929,9 +1808,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/B-13.webp"
-    ]
+    "imgs": ["/B-13.webp"]
   },
   {
     "id": "B-14",
@@ -1960,9 +1837,7 @@ export const works: Work[] = [
       "庄严"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-14.webp"
-    ]
+    "imgs": ["/B-14.webp"]
   },
   {
     "id": "B-15",
@@ -1993,10 +1868,7 @@ export const works: Work[] = [
     "a5": [
       "布局拆解"
     ],
-    "imgs": [
-      "/img/B-15.webp",
-      "/img/B-15-2.webp"
-    ]
+    "imgs": ["/B-15.webp", "/B-15-2.webp"]
   },
   {
     "id": "B-16",
@@ -2027,10 +1899,7 @@ export const works: Work[] = [
     "a5": [
       "边界消融"
     ],
-    "imgs": [
-      "/img/B-16.webp",
-      "/img/B-16-2.webp"
-    ]
+    "imgs": ["/B-16.webp", "/B-16-2.webp"]
   },
   {
     "id": "B-17",
@@ -2063,11 +1932,7 @@ export const works: Work[] = [
     "a5": [
       "边界消融"
     ],
-    "imgs": [
-      "/img/B-17.webp",
-      "/img/B-17-2.webp",
-      "/img/B-17-3.webp"
-    ]
+    "imgs": ["/B-17.webp", "/B-17-2.webp", "/B-17-3.webp"]
   },
   {
     "id": "B-18",
@@ -2096,10 +1961,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-18.webp",
-      "/img/B-18-2.webp"
-    ]
+    "imgs": ["/B-18.webp", "/B-18-2.webp"]
   },
   {
     "id": "B-19",
@@ -2131,10 +1993,7 @@ export const works: Work[] = [
     "a5": [
       "负边界·非住宅"
     ],
-    "imgs": [
-      "/img/B-19.webp",
-      "/img/B-19-2.webp"
-    ]
+    "imgs": ["/B-19.webp", "/B-19-2.webp"]
   },
   {
     "id": "B-20",
@@ -2163,10 +2022,7 @@ export const works: Work[] = [
       "庄严"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-20.webp",
-      "/img/B-20-2.webp"
-    ]
+    "imgs": ["/B-20.webp", "/B-20-2.webp"]
   },
   {
     "id": "B-21",
@@ -2198,9 +2054,7 @@ export const works: Work[] = [
     "a5": [
       "边界消融"
     ],
-    "imgs": [
-      "/img/B-21.webp"
-    ]
+    "imgs": ["/B-21.webp"]
   },
   {
     "id": "B-22",
@@ -2231,10 +2085,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/B-22.webp",
-      "/img/B-22-2.webp"
-    ]
+    "imgs": ["/B-22.webp", "/B-22-2.webp"]
   },
   {
     "id": "B-23",
@@ -2265,12 +2116,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/B-23.webp",
-      "/img/B-23-2.webp",
-      "/img/B-23-3.webp",
-      "/img/B-23-4.webp"
-    ]
+    "imgs": ["/B-23.webp", "/B-23-2.webp", "/B-23-3.webp", "/B-23-4.webp"]
   },
   {
     "id": "B-24",
@@ -2301,10 +2147,7 @@ export const works: Work[] = [
     "a5": [
       "边界消融"
     ],
-    "imgs": [
-      "/img/B-24.webp",
-      "/img/B-24-2.webp"
-    ]
+    "imgs": ["/B-24.webp", "/B-24-2.webp"]
   },
   {
     "id": "B-25",
@@ -2336,12 +2179,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/B-25.webp",
-      "/img/B-25-2.webp",
-      "/img/B-25-3.webp",
-      "/img/B-25-4.webp"
-    ]
+    "imgs": ["/B-25.webp", "/B-25-2.webp", "/B-25-3.webp", "/B-25-4.webp"]
   },
   {
     "id": "B-26",
@@ -2372,10 +2210,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/B-26.webp",
-      "/img/B-26-2.webp"
-    ]
+    "imgs": ["/B-26.webp", "/B-26-2.webp"]
   },
   {
     "id": "B-27",
@@ -2404,10 +2239,7 @@ export const works: Work[] = [
       "安然"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-27.webp",
-      "/img/B-27-2.webp"
-    ]
+    "imgs": ["/B-27.webp", "/B-27-2.webp"]
   },
   {
     "id": "B-28",
@@ -2438,10 +2270,7 @@ export const works: Work[] = [
       "布局拆解",
       "负边界·非住宅"
     ],
-    "imgs": [
-      "/img/B-28.webp",
-      "/img/B-28-2.webp"
-    ]
+    "imgs": ["/B-28.webp", "/B-28-2.webp"]
   },
   {
     "id": "B-29",
@@ -2470,9 +2299,7 @@ export const works: Work[] = [
       "虚无"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-29.webp"
-    ]
+    "imgs": ["/B-29.webp"]
   },
   {
     "id": "B-30",
@@ -2532,9 +2359,7 @@ export const works: Work[] = [
       "虚无"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-31.webp"
-    ]
+    "imgs": ["/B-31.webp"]
   },
   {
     "id": "B-32",
@@ -2564,9 +2389,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-32.webp"
-    ]
+    "imgs": ["/B-32.webp"]
   },
   {
     "id": "B-33",
@@ -2595,9 +2418,7 @@ export const works: Work[] = [
       "浪漫"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-33.webp"
-    ]
+    "imgs": ["/B-33.webp"]
   },
   {
     "id": "B-34",
@@ -2657,9 +2478,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-35.webp"
-    ]
+    "imgs": ["/B-35.webp"]
   },
   {
     "id": "B-36",
@@ -2688,9 +2507,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-36.webp"
-    ]
+    "imgs": ["/B-36.webp"]
   },
   {
     "id": "B-37",
@@ -2750,9 +2567,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-38.webp"
-    ]
+    "imgs": ["/B-38.webp"]
   },
   {
     "id": "B-39",
@@ -2781,9 +2596,7 @@ export const works: Work[] = [
       "尴尬"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-39.webp"
-    ]
+    "imgs": ["/B-39.webp"]
   },
   {
     "id": "B-40",
@@ -2812,9 +2625,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-40.webp"
-    ]
+    "imgs": ["/B-40.webp"]
   },
   {
     "id": "B-41",
@@ -2843,9 +2654,7 @@ export const works: Work[] = [
       "疲惫"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-41.webp"
-    ]
+    "imgs": ["/B-41.webp"]
   },
   {
     "id": "B-42",
@@ -2904,9 +2713,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-43.webp"
-    ]
+    "imgs": ["/B-43.webp"]
   },
   {
     "id": "B-44",
@@ -2938,9 +2745,7 @@ export const works: Work[] = [
     "a5": [
       "布局拆解"
     ],
-    "imgs": [
-      "/img/B-44.webp"
-    ]
+    "imgs": ["/B-44.webp"]
   },
   {
     "id": "B-45",
@@ -2999,9 +2804,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-46.webp"
-    ]
+    "imgs": ["/B-46.webp"]
   },
   {
     "id": "B-47",
@@ -3030,9 +2833,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/B-47.webp"
-    ]
+    "imgs": ["/B-47.webp"]
   },
   {
     "id": "B-48",
@@ -3062,9 +2863,7 @@ export const works: Work[] = [
     "a5": [
       "边界消融"
     ],
-    "imgs": [
-      "/img/B-48.webp"
-    ]
+    "imgs": ["/B-48.webp"]
   },
   {
     "id": "B-49",
@@ -3096,11 +2895,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/B-49-legacy.webp",
-      "/img/B-49.webp",
-      "/img/B-49-2.webp"
-    ]
+    "imgs": ["/B-49.webp", "/B-49-2.webp"]
   },
   {
     "id": "B-50",
@@ -3132,9 +2927,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/B-50.webp"
-    ]
+    "imgs": ["/B-50.webp"]
   },
   {
     "id": "C-1",
@@ -3163,9 +2956,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/C-1.webp"
-    ]
+    "imgs": ["/C-1.webp"]
   },
   {
     "id": "C-2",
@@ -3569,10 +3360,7 @@ export const works: Work[] = [
       "空洞"
     ],
     "a5": [],
-    "imgs": [
-      "/img/C-15.webp",
-      "/img/C-15-2.webp"
-    ]
+    "imgs": ["/C-15.webp", "/C-15-2.webp"]
   },
   {
     "id": "C-16",
@@ -3601,11 +3389,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/C-16.webp",
-      "/img/C-16-2.webp",
-      "/img/C-16-3.webp"
-    ]
+    "imgs": ["/C-16.webp", "/C-16-2.webp", "/C-16-3.webp"]
   },
   {
     "id": "C-17",
@@ -3634,9 +3418,7 @@ export const works: Work[] = [
     "a5": [
       "边界消融"
     ],
-    "imgs": [
-      "/img/C-17.webp"
-    ]
+    "imgs": ["/C-17.webp"]
   },
   {
     "id": "C-18",
@@ -3665,13 +3447,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/C-18.webp",
-      "/img/C-18-2.webp",
-      "/img/C-18-3.webp",
-      "/img/C-18-4.webp",
-      "/img/C-18-5.webp"
-    ]
+    "imgs": ["/C-18.webp", "/C-18-2.webp", "/C-18-3.webp", "/C-18-4.webp", "/C-18-5.webp"]
   },
   {
     "id": "C-19",
@@ -3700,9 +3476,7 @@ export const works: Work[] = [
     "a5": [
       "布局拆解"
     ],
-    "imgs": [
-      "/img/C-19.webp"
-    ]
+    "imgs": ["/C-19.webp"]
   },
   {
     "id": "C-20",
@@ -3731,10 +3505,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/C-20.webp",
-      "/img/C-20-2.webp"
-    ]
+    "imgs": ["/C-20.webp", "/C-20-2.webp"]
   },
   {
     "id": "C-21",
@@ -3763,10 +3534,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/C-21.webp",
-      "/img/C-21-2.webp"
-    ]
+    "imgs": ["/C-21.webp", "/C-21-2.webp"]
   },
   {
     "id": "C-22",
@@ -3796,12 +3564,7 @@ export const works: Work[] = [
     "a5": [
       "布局拆解"
     ],
-    "imgs": [
-      "/img/C-22.webp",
-      "/img/C-22-2.webp",
-      "/img/C-22-3.webp",
-      "/img/C-22-4.webp"
-    ]
+    "imgs": ["/C-22.webp", "/C-22-2.webp", "/C-22-3.webp", "/C-22-4.webp"]
   },
   {
     "id": "C-23",
@@ -3830,10 +3593,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/C-23.webp",
-      "/img/C-23-2.webp"
-    ]
+    "imgs": ["/C-23.webp", "/C-23-2.webp"]
   },
   {
     "id": "C-24",
@@ -3862,9 +3622,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/C-24.webp"
-    ]
+    "imgs": ["/C-24.webp"]
   },
   {
     "id": "C-25",
@@ -3893,10 +3651,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/C-25.webp",
-      "/img/C-25-2.webp"
-    ]
+    "imgs": ["/C-25.webp", "/C-25-2.webp"]
   },
   {
     "id": "C-26",
@@ -3924,12 +3679,7 @@ export const works: Work[] = [
       "温情"
     ],
     "a5": [],
-    "imgs": [
-      "/img/C-26.webp",
-      "/img/C-26-2.webp",
-      "/img/C-26-3.webp",
-      "/img/C-26-4.webp"
-    ]
+    "imgs": ["/C-26.webp", "/C-26-2.webp", "/C-26-3.webp", "/C-26-4.webp"]
   },
   {
     "id": "C-27",
@@ -3958,12 +3708,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/C-27.webp",
-      "/img/C-27-2.webp",
-      "/img/C-27-3.webp",
-      "/img/C-27-4.webp"
-    ]
+    "imgs": ["/C-27.webp", "/C-27-2.webp", "/C-27-3.webp", "/C-27-4.webp"]
   },
   {
     "id": "C-28",
@@ -4686,10 +4431,7 @@ export const works: Work[] = [
       "满足"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-2.webp",
-      "/img/D-2-2.webp"
-    ]
+    "imgs": ["/D-2.webp", "/D-2-2.webp"]
   },
   {
     "id": "D-3",
@@ -4719,11 +4461,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/D-3.webp",
-      "/img/D-3-2.webp",
-      "/img/D-3-3.webp"
-    ]
+    "imgs": ["/D-3.webp", "/D-3-2.webp", "/D-3-3.webp"]
   },
   {
     "id": "D-4",
@@ -4751,28 +4489,7 @@ export const works: Work[] = [
       "释然"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-4.webp",
-      "/img/D-4-2.webp",
-      "/img/D-4-3.webp",
-      "/img/D-4-4.webp",
-      "/img/D-4-5.webp",
-      "/img/D-4-6.webp",
-      "/img/D-4-7.webp",
-      "/img/D-4-8.webp",
-      "/img/D-4-9.webp",
-      "/img/D-4-10.webp",
-      "/img/D-4-11.webp",
-      "/img/D-4-12.webp",
-      "/img/D-4-13.webp",
-      "/img/D-4-14.webp",
-      "/img/D-4-15.webp",
-      "/img/D-4-16.webp",
-      "/img/D-4-17.webp",
-      "/img/D-4-18.webp",
-      "/img/D-4-19.webp",
-      "/img/D-4-20.webp"
-    ]
+    "imgs": ["/D-4.webp", "/D-4-2.webp", "/D-4-3.webp", "/D-4-4.webp", "/D-4-5.webp", "/D-4-6.webp", "/D-4-7.webp", "/D-4-8.webp", "/D-4-9.webp", "/D-4-10.webp", "/D-4-11.webp", "/D-4-12.webp", "/D-4-13.webp", "/D-4-14.webp", "/D-4-15.webp", "/D-4-16.webp", "/D-4-17.webp", "/D-4-18.webp", "/D-4-19.webp", "/D-4-20.webp", "/D-4-21.webp", "/D-4-22.webp", "/D-4-23.webp"]
   },
   {
     "id": "D-5",
@@ -4801,9 +4518,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/D-5.webp"
-    ]
+    "imgs": ["/D-5.webp"]
   },
   {
     "id": "D-6",
@@ -4829,8 +4544,8 @@ export const works: Work[] = [
       "浪漫",
       "伪装"
     ],
-    "a5": [],
-    "imgs": []
+    "a5": ["/D-6.webp"],
+    "imgs": ["/D-6.webp"]
   },
   {
     "id": "D-7",
@@ -4858,9 +4573,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-7.webp"
-    ]
+    "imgs": ["/D-7.webp"]
   },
   {
     "id": "D-8",
@@ -4946,9 +4659,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/D-10.webp"
-    ]
+    "imgs": ["/D-10.webp"]
   },
   {
     "id": "D-11",
@@ -4977,9 +4688,7 @@ export const works: Work[] = [
     "a5": [
       "边界消融"
     ],
-    "imgs": [
-      "/img/D-11.webp"
-    ]
+    "imgs": []
   },
   {
     "id": "D-12",
@@ -5006,11 +4715,7 @@ export const works: Work[] = [
       "虚无"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-12.webp",
-      "/img/D-12-2.webp",
-      "/img/D-12-3.webp"
-    ]
+    "imgs": []
   },
   {
     "id": "D-13",
@@ -5039,11 +4744,7 @@ export const works: Work[] = [
     "a5": [
       "功能置换"
     ],
-    "imgs": [
-      "/img/D-13.webp",
-      "/img/D-13-2.webp",
-      "/img/D-13-3.webp"
-    ]
+    "imgs": ["/D-13.webp", "/D-13-2.webp", "/D-13-3.webp"]
   },
   {
     "id": "D-14",
@@ -5071,13 +4772,7 @@ export const works: Work[] = [
       "虚无"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-14.webp",
-      "/img/D-14-2.webp",
-      "/img/D-14-3.webp",
-      "/img/D-14-4.webp",
-      "/img/D-14-5.webp"
-    ]
+    "imgs": ["/D-14.webp", "/D-14-2.webp", "/D-14-3.webp", "/D-14-4.webp", "/D-14-5.webp"]
   },
   {
     "id": "D-15",
@@ -5106,11 +4801,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/D-15.webp",
-      "/img/D-15-2.webp",
-      "/img/D-15-3.webp"
-    ]
+    "imgs": ["/D-15.webp", "/D-15-2.webp", "/D-15-3.webp"]
   },
   {
     "id": "D-16",
@@ -5137,11 +4828,7 @@ export const works: Work[] = [
       "荒诞"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-16.webp",
-      "/img/D-16-2.webp",
-      "/img/D-16-3.webp"
-    ]
+    "imgs": ["/D-16.webp", "/D-16-2.webp", "/D-16-3.webp"]
   },
   {
     "id": "D-17",
@@ -5169,9 +4856,7 @@ export const works: Work[] = [
       "排他"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-17.webp"
-    ]
+    "imgs": ["/D-17.webp"]
   },
   {
     "id": "D-18",
@@ -5199,14 +4884,7 @@ export const works: Work[] = [
       "仪式"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-18.webp",
-      "/img/D-18-2.webp",
-      "/img/D-18-3.webp",
-      "/img/D-18-4.webp",
-      "/img/D-18-5.webp",
-      "/img/D-18-6.webp"
-    ]
+    "imgs": ["/D-18.webp", "/D-18-2.webp", "/D-18-3.webp", "/D-18-4.webp", "/D-18-5.webp", "/D-18-6.webp"]
   },
   {
     "id": "D-19",
@@ -5641,12 +5319,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-33.webp",
-      "/img/D-33-2.webp",
-      "/img/D-33-3.webp",
-      "/img/D-33-4.webp"
-    ]
+    "imgs": ["/D-33.webp", "/D-33-2.webp", "/D-33-3.webp", "/D-33-4.webp"]
   },
   {
     "id": "D-34",
@@ -5673,11 +5346,7 @@ export const works: Work[] = [
       "伪装"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-34.webp",
-      "/img/D-34-2.webp",
-      "/img/D-34-3.webp"
-    ]
+    "imgs": ["/D-34.webp", "/D-34-2.webp", "/D-34-3.webp"]
   },
   {
     "id": "D-35",
@@ -5704,15 +5373,7 @@ export const works: Work[] = [
       "慵懒"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-35.webp",
-      "/img/D-35-2.webp",
-      "/img/D-35-3.webp",
-      "/img/D-35-4.webp",
-      "/img/D-35-5.webp",
-      "/img/D-35-6.webp",
-      "/img/D-35-7.webp"
-    ]
+    "imgs": ["/D-35.webp", "/D-35-2.webp", "/D-35-3.webp", "/D-35-4.webp", "/D-35-5.webp", "/D-35-6.webp", "/D-35-7.webp"]
   },
   {
     "id": "D-36",
@@ -5739,12 +5400,7 @@ export const works: Work[] = [
       "慵懒"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-36.webp",
-      "/img/D-36-2.webp",
-      "/img/D-36-3.webp",
-      "/img/D-36-4.webp"
-    ]
+    "imgs": ["/D-36.webp", "/D-36-2.webp", "/D-36-3.webp", "/D-36-4.webp"]
   },
   {
     "id": "D-37",
@@ -5772,11 +5428,7 @@ export const works: Work[] = [
       "温馨"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-37.webp",
-      "/img/D-37-2.webp",
-      "/img/D-37-3.webp"
-    ]
+    "imgs": ["/D-37.webp", "/D-37-2.webp", "/D-37-3.webp"]
   },
   {
     "id": "D-38",
@@ -5805,9 +5457,7 @@ export const works: Work[] = [
     "a5": [
       "边界消融"
     ],
-    "imgs": [
-      "/img/D-38.webp"
-    ]
+    "imgs": ["/D-38.webp"]
   },
   {
     "id": "D-39",
@@ -5836,14 +5486,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/D-39.webp",
-      "/img/D-39-2.webp",
-      "/img/D-39-3.webp",
-      "/img/D-39-4.webp",
-      "/img/D-39-5.webp",
-      "/img/D-39-6.webp"
-    ]
+    "imgs": ["/D-39.webp", "/D-39-2.webp", "/D-39-3.webp", "/D-39-4.webp", "/D-39-5.webp", "/D-39-6.webp"]
   },
   {
     "id": "D-40",
@@ -5870,12 +5513,7 @@ export const works: Work[] = [
       "浪漫"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-40.webp",
-      "/img/D-40-2.webp",
-      "/img/D-40-3.webp",
-      "/img/D-40-4.webp"
-    ]
+    "imgs": ["/D-40.webp", "/D-40-2.webp", "/D-40-3.webp", "/D-40-4.webp"]
   },
   {
     "id": "D-41",
@@ -5903,11 +5541,7 @@ export const works: Work[] = [
       "虚无"
     ],
     "a5": [],
-    "imgs": [
-      "/img/D-41.webp",
-      "/img/D-41-2.webp",
-      "/img/D-41-3.webp"
-    ]
+    "imgs": ["/D-41.webp", "/D-41-2.webp", "/D-41-3.webp"]
   },
   {
     "id": "D-42",
@@ -5933,8 +5567,8 @@ export const works: Work[] = [
       "宁静",
       "庄严"
     ],
-    "a5": [],
-    "imgs": []
+    "a5": ["/D-42.webp", "/D-42-2.webp", "/D-42-3.webp", "/D-42-4.webp", "/D-42-5.webp"],
+    "imgs": ["/D-42.webp", "/D-42-2.webp", "/D-42-3.webp", "/D-42-4.webp", "/D-42-5.webp"]
   },
   {
     "id": "D-43",
@@ -5963,13 +5597,7 @@ export const works: Work[] = [
     "a5": [
       "边界消融"
     ],
-    "imgs": [
-      "/img/D-43.webp",
-      "/img/D-43-2.webp",
-      "/img/D-43-3.webp",
-      "/img/D-43-4.webp",
-      "/img/D-43-5.webp"
-    ]
+    "imgs": ["/D-43.webp", "/D-43-2.webp", "/D-43-3.webp"]
   },
   {
     "id": "D-44",
@@ -5999,7 +5627,7 @@ export const works: Work[] = [
     "a5": [
       "负边界·非住宅"
     ],
-    "imgs": []
+    "imgs": ["/D-44.webp", "/D-44-2.webp"]
   },
   {
     "id": "D-45",
@@ -6026,8 +5654,8 @@ export const works: Work[] = [
       "压抑",
       "伪装"
     ],
-    "a5": [],
-    "imgs": []
+    "a5": ["/D-45.webp", "/D-45-2.webp"],
+    "imgs": ["/D-45.webp", "/D-45-2.webp"]
   },
   {
     "id": "D-46",
@@ -6056,11 +5684,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/D-46.webp",
-      "/img/D-46-2.webp",
-      "/img/D-46-3.webp"
-    ]
+    "imgs": []
   },
   {
     "id": "D-47",
@@ -6119,10 +5743,7 @@ export const works: Work[] = [
     "a5": [
       "拒绝表演"
     ],
-    "imgs": [
-      "/img/D-48.webp",
-      "/img/D-48-2.webp"
-    ]
+    "imgs": []
   },
   {
     "id": "D-49",
@@ -6152,10 +5773,7 @@ export const works: Work[] = [
     "a5": [
       "负边界·非住宅"
     ],
-    "imgs": [
-      "/img/D-49.webp",
-      "/img/D-49-2.webp"
-    ]
+    "imgs": []
   },
   {
     "id": "D-50",

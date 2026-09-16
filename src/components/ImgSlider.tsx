@@ -71,20 +71,22 @@ export default function ImgSlider({ imgs, alt, className = "", imgClassName = "o
         →
       </button>
 
-      {/* 圆点 + 计数 */}
-      <div
-        className="absolute bottom-1.5 left-1/2 -translate-x-1/2 z-10 flex items-center gap-1 bg-[var(--ink)]/45 px-1.5 py-1"
-        onClick={(e) => e.stopPropagation()}
-      >
-        {imgs.map((_, k) => (
-          <button
-            key={k}
-            aria-label={`第 ${k + 1} 张`}
-            onClick={(e) => { e.stopPropagation(); go(k); }}
-            className={`w-1.5 h-1.5 rounded-full transition-colors ${k === i ? "bg-[var(--paper)]" : "bg-[var(--paper)]/40"}`}
-          />
-        ))}
-      </div>
+      {/* 圆点 + 计数（图多时只保留计数，避免圆点溢出） */}
+      {n <= 10 && (
+        <div
+          className="absolute bottom-1.5 left-1/2 -translate-x-1/2 z-10 flex items-center gap-1 bg-[var(--ink)]/45 px-1.5 py-1"
+          onClick={(e) => e.stopPropagation()}
+        >
+          {imgs.map((_, k) => (
+            <button
+              key={k}
+              aria-label={`第 ${k + 1} 张`}
+              onClick={(e) => { e.stopPropagation(); go(k); }}
+              className={`w-1.5 h-1.5 rounded-full transition-colors ${k === i ? "bg-[var(--paper)]" : "bg-[var(--paper)]/40"}`}
+            />
+          ))}
+        </div>
+      )}
       <div className="absolute top-1.5 right-1.5 z-10 font-mono-arc text-[10px] tracking-widest bg-[var(--ink)]/45 text-[var(--paper)] px-1.5 py-0.5">
         {i + 1}/{n}
       </div>

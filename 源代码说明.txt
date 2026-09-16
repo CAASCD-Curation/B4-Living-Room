@@ -1,0 +1,34 @@
+客厅图志 · 源代码包说明
+================================
+
+这是网站的完整源代码（React + TypeScript + Vite + Tailwind + Three.js）。
+
+【目录结构】
+  index.html         入口页面（含首屏加载占位）
+  vite.config.ts     构建配置（publicDir 指向 public_root，资源平铺到根目录）
+  package.json       依赖清单
+  tailwind.config.js / postcss.config.js / tsconfig*.json  配置
+  src/               全部源代码
+    main.tsx         应用入口
+    App.tsx          路由 + 全局光标
+    index.css        全局样式（封面/建筑/楼层/长廊/翻卡）
+    pages/           Home(封面+大楼) Atlas(全部图志) System(分类体系)
+    components/      Scene3D(3D客厅) Building(楼) FloorSection(层) RoomCell(翻卡窗)
+                     Cursor(双环光标) ImgSlider(多图) useDragScroll(拖拽惯性)
+    data/            works.ts(200条作品数据) floors.ts(6层分组)
+  public_root/       部署用静态资源（图片250张+字体，已平铺到根）
+  public/            原始资源（img/ 字体备份，构建时未直接使用）
+
+【如何运行 / 构建】
+  1. 安装 Node.js 18+
+  2. 解压后进入目录，执行：  npm install
+  3. 本地预览：  npm run dev     （默认 http://localhost:3000）
+  4. 打包：      npm run build   （产物在 dist/，可直接部署）
+
+【部署】
+  npm run build 后，把 dist/ 里的所有文件上传到 GitHub/Gitee Pages
+  或任何静态托管即可。资源全是相对路径，放任何域名/路径都能跑。
+
+【说明】
+  - node_modules 未包含在包内（太大），用 npm install 重装。
+  - dist/ 也建议删了重新 npm run build 生成，保证最新。

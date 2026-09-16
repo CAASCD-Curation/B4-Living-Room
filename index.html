@@ -4,16 +4,42 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="客厅图志 Living Room Atlas —— 一座关于「客厅」的概念档案：200 条素材，4 大形态，5 条分类轴，32 种情绪。" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700;900&family=Noto+Sans+SC:wght@400;500;700&family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap"
-      rel="stylesheet"
-    />
+    <link rel="stylesheet" href="./fonts.css" />
     <title>客厅图志 · Living Room Atlas</title>
+    <style>
+      /* 首屏加载占位：JS 加载完成前显示，避免白屏 */
+      #boot {
+        position: fixed; inset: 0; z-index: 999;
+        background: #f2ede3; color: #1b1712;
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+        gap: 14px; font-family: "Noto Serif SC", "Songti SC", serif;
+      }
+      #boot .t { font-size: 28px; font-weight: 900; letter-spacing: .2em; }
+      #boot .s { font-size: 11px; letter-spacing: .4em; opacity: .55; }
+      #boot .bar { width: 120px; height: 2px; background: rgba(27,23,18,.15); overflow: hidden; }
+      #boot .bar::after {
+        content: ""; display: block; height: 100%; width: 40%;
+        background: #c0432b; animation: bootslide 1.1s ease-in-out infinite;
+      }
+      @keyframes bootslide { 0%{transform:translateX(-100%)} 100%{transform:translateX(300%)} }
+    </style>
   </head>
   <body>
+    <div id="boot">
+      <div class="t">客厅图志</div>
+      <div class="bar"></div>
+      <div class="s">LIVING ROOM ATLAS</div>
+    </div>
     <div id="root"></div>
+    <script>
+      // React 挂载后移除加载占位
+      new MutationObserver((o, obs) => {
+        if (document.getElementById("root")?.childElementCount) {
+          document.getElementById("boot")?.remove();
+          obs.disconnect();
+        }
+      }).observe(document.getElementById("root"), { childList: true });
+    </script>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

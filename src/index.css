@@ -136,3 +136,243 @@ body {
     transition: none !important;
   }
 }
+
+/* ================= 双环光标 ================= */
+.has-cursor, .has-cursor * { cursor: none !important; }
+.cursor-dot, .cursor-ring {
+  position: fixed; top: 0; left: 0; z-index: 9999; pointer-events: none;
+  border-radius: 50%; translate: -50% -50%;
+}
+.cursor-dot { width: 6px; height: 6px; background: var(--ink); }
+.cursor-ring {
+  width: 34px; height: 34px;
+  border: 1.5px solid rgba(27,23,18,0.45);
+  transition: width .25s ease, height .25s ease, border-color .25s ease, background-color .25s ease;
+}
+.cursor-ring--accent { width: 56px; height: 56px; }
+@media (pointer: coarse) { .cursor-dot, .cursor-ring { display: none; } }
+
+/* ================= 首页：封面 → 建筑过渡 ================= */
+.home-wrap { position: relative; height: 100vh; overflow: hidden; }
+/* 未进入大楼前禁止整页滚动（仅首页生效；其它页面 body 无 entered 类，但选择器要求存在 .home-wrap） */
+body:not(.entered):has(.home-wrap) { overflow: hidden; }
+.cover {
+  position: absolute; inset: 0; z-index: 20;
+  transition: transform .95s cubic-bezier(0.65,0,0.2,1), opacity .8s ease;
+  will-change: transform, opacity;
+}
+.home-wrap.is-entered .cover {
+  transform: translateY(-46vh) scale(0.62);
+  opacity: 0;
+  pointer-events: none;
+}
+.building-wrap {
+  position: absolute; inset: 0; z-index: 10;
+  transform: translateY(100vh);
+  transition: transform 1.05s cubic-bezier(0.65,0,0.2,1);
+  will-change: transform;
+}
+.home-wrap.is-entered .building-wrap { transform: translateY(0); }
+.home-wrap.is-entered { overflow: visible; height: auto; }
+/* 进入后封面彻底移出文档流，避免遮挡滚动 */
+.home-wrap.is-entered .cover { position: absolute; }
+.building-wrap { overflow: hidden; }
+.home-wrap.is-entered .building-wrap { position: relative; overflow: visible; }
+body:not(.entered) .home-wrap ~ * { display: none; }
+body.entered { overflow-y: auto; }
+
+/* ================= 建筑剖面 ================= */
+.floor-section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  transition: background-color .6s ease;
+  position: relative;
+  /* 楼板：底部厚楼板；外立面竖影跟随楼面实际收窄（--gap 由 JS 测量） */
+  border-bottom: clamp(10px, 1.4vh, 18px) solid rgba(27,23,18,0.55);
+  box-shadow:
+    inset 0 -6px 0 rgba(255,255,255,0.22),
+    inset 0 2px 0 rgba(27,23,18,0.25),
+    inset var(--gap, 0px) 0 0 rgba(27,23,18,0.20),
+    inset calc(var(--gap, 0px) * -1) 0 0 rgba(27,23,18,0.20);
+  background-color: color-mix(in srgb, var(--floor-bg, #d8d0bf) 82%, #1b1712); /* 楼面两侧的"楼缝"比楼面深 */
+}
+/* 每层楼面：自上而下逐层收窄，形成塔楼轮廓（收窄量不超过电梯井宽度，保证布局稳定） */
+.floor-plate {
+  height: 88vh;
+  margin: 0 auto;
+  width: calc(100% - var(--inset, 0px) * 2);
+  background: var(--plate-bg, transparent);
+  display: flex;
+  position: relative;
+  /* 与相邻层的亮暗交替，强化一层一层的感觉 */
+  box-shadow:
+    inset 0 0 0 1.5px rgba(27,23,18,0.22),
+    inset 0 14px 24px -18px rgba(27,23,18,0.35),
+    inset 0 -10px 0 rgba(255,255,255,0.14);
+}
+/* 大楼外框：整栋楼左右两侧的厚墙 */
+.building {
+  scroll-snap-type: y mandatory;
+  border-left: clamp(12px, 1.6vw, 26px) solid rgba(27,23,18,0.5);
+  border-right: clamp(12px, 1.6vw, 26px) solid rgba(27,23,18,0.5);
+  box-shadow: inset 0 0 0 2px rgba(255,255,255,0.15);
+}
+/* 电梯井 */
+.floor-shaft {
+  width: clamp(88px, 11vw, 168px);
+  flex-shrink: 0;
+  border-right: 2px solid rgba(27,23,18,0.35);
+  display: flex; flex-direction: column; align-items: center;
+  padding-top: 15vh; gap: 10px;
+  background:
+    repeating-linear-gradient(0deg, transparent 0 46px, rgba(27,23,18,0.10) 46px 47px),
+    rgba(27,23,18,0.03);
+}
+.floor-shaft-num { font-family: var(--font-serif, serif); font-weight: 900; font-size: clamp(28px, 3.4vw, 52px); line-height: 1; }
+.floor-shaft-name { writing-mode: vertical-rl; letter-spacing: .35em; font-size: 13px; font-weight: 600; color: var(--ink); opacity: .85; }
+.floor-shaft-en { font-size: 9px; letter-spacing: .3em; color: var(--ink-soft); }
+.floor-shaft-count { font-size: 9px; letter-spacing: .2em; color: var(--ink-soft); }
+.floor-shaft-line { width: 2px; flex: 1; margin: 12px 0 0; opacity: .55; }
+/* 楼层指示条 */
+.building-rail {
+  position: fixed; right: 14px; top: 50%; transform: translateY(-50%);
+  z-index: 60; display: flex; flex-direction: column; gap: 12px;
+}
+.building-rail-dot {
+  width: 10px; height: 10px; border-radius: 50%;
+  border: 1.5px solid rgba(27,23,18,0.4); background: transparent;
+  position: relative; transition: all .25s ease;
+}
+.building-rail-dot.is-active { transform: scale(1.35); }
+.building-rail-label {
+  position: absolute; right: 18px; top: 50%; transform: translateY(-50%);
+  font-family: monospace; font-size: 10px; letter-spacing: .15em;
+  color: var(--ink-soft); opacity: 0; transition: opacity .2s ease;
+}
+.building-rail-dot:hover .building-rail-label,
+.building-rail-dot.is-active .building-rail-label { opacity: 1; }
+
+/* ================= 横向长廊 ================= */
+.floor-hall { flex: 1; overflow-x: auto; overflow-y: hidden; scrollbar-width: none; }
+.floor-hall::-webkit-scrollbar { display: none; }
+.floor-hall.dragging { cursor: grabbing; }
+.floor-hall-inner {
+  display: flex; align-items: center; gap: clamp(28px, 3.4vw, 64px);
+  padding: 0 clamp(24px, 6vw, 120px);
+  height: 100%; width: max-content;
+}
+.floor-intro { width: clamp(200px, 20vw, 320px); flex-shrink: 0; }
+.floor-intro p { font-size: clamp(14px, 1.2vw, 18px); line-height: 1.9; color: var(--ink); }
+.floor-intro-hint { display: inline-block; margin-top: 14px; font-size: 10px; letter-spacing: .25em; color: var(--ink-soft); }
+.floor-hall-end {
+  flex-shrink: 0; font-size: 10px; letter-spacing: .3em; color: var(--ink-soft);
+  writing-mode: vertical-rl; opacity: .5;
+}
+
+/* ================= 剖面房间（窗框/玻璃/厚墙） ================= */
+.room-scene { perspective: 1400px; }
+.room-card {
+  position: relative;
+  width: clamp(250px, 24vw, 380px);
+  aspect-ratio: 4 / 5;
+  transform-style: preserve-3d;
+  transition: transform .7s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.room-card.is-flipped { transform: rotateY(180deg); }
+.room-face {
+  position: absolute; inset: 0;
+  backface-visibility: hidden; -webkit-backface-visibility: hidden;
+}
+.room-front { transform: rotateY(0deg); }
+.room-back { transform: rotateY(180deg); }
+
+.room-wall {
+  position: absolute; inset: 0;
+  background:
+    linear-gradient(160deg, rgba(255,255,255,0.55), rgba(0,0,0,0.06) 55%, rgba(0,0,0,0.16)),
+    repeating-linear-gradient(0deg, transparent 0 26px, rgba(27,23,18,0.05) 26px 27px),
+    #d8cfbc;
+  border: 1px solid rgba(27,23,18,0.28);
+  /* 厚墙阴影 */
+  box-shadow:
+    inset 0 0 0 6px rgba(27,23,18,0.06),
+    inset -14px 0 24px -12px rgba(27,23,18,0.35),
+    inset 14px 0 24px -12px rgba(255,255,255,0.5),
+    10px 14px 0 -2px rgba(27,23,18,0.18),
+    0 24px 44px -18px rgba(27,23,18,0.4);
+  display: flex; flex-direction: column; align-items: center;
+  padding: clamp(16px, 1.6vw, 26px);
+}
+.room-window {
+  position: relative; flex: 1; width: 100%; overflow: hidden;
+  border: clamp(8px, 0.9vw, 14px) solid #6b4f35; /* 木窗框 */
+  box-shadow:
+    inset 0 0 22px rgba(0,0,0,0.45),
+    0 2px 0 rgba(255,255,255,0.35),
+    0 0 0 1px rgba(27,23,18,0.4);
+  background: #241f19;
+}
+.room-view { width: 100%; height: 100%; object-fit: cover; display: block; }
+.room-view--empty {
+  display: flex; align-items: center; justify-content: center;
+  background: linear-gradient(140deg, #4a4237, #2c2721); color: rgba(242,237,227,0.5);
+}
+/* 玻璃反光 */
+.room-glass {
+  position: absolute; inset: 0; pointer-events: none;
+  background:
+    linear-gradient(115deg, rgba(255,255,255,0.34) 0%, rgba(255,255,255,0.10) 18%, transparent 32%),
+    linear-gradient(295deg, rgba(255,255,255,0.12) 0%, transparent 26%);
+  mix-blend-mode: screen;
+}
+/* 十字窗棂 */
+.room-frame-h { position: absolute; left: 0; right: 0; top: 50%; height: 7px; transform: translateY(-50%); background: #6b4f35; box-shadow: 0 1px 2px rgba(0,0,0,0.5); }
+.room-frame-v { position: absolute; top: 0; bottom: 0; left: 50%; width: 7px; transform: translateX(-50%); background: #6b4f35; box-shadow: 1px 0 2px rgba(0,0,0,0.5); }
+/* 窗台 */
+.room-sill {
+  position: absolute; left: -14px; right: -14px; bottom: -14px; height: 14px;
+  background: linear-gradient(#efe6d4, #b8a98c);
+  box-shadow: 0 3px 6px rgba(0,0,0,0.4);
+}
+.room-caption { padding-top: 14px; text-align: center; }
+.room-name {
+  display: block; font-family: var(--font-serif, serif); font-weight: 700;
+  font-size: clamp(13px, 1.05vw, 16px); color: var(--ink);
+  max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.room-meta { font-family: monospace; font-size: 9px; letter-spacing: .18em; color: var(--ink-soft); }
+
+/* 背面信息卡 */
+.room-back {
+  background: var(--paper, #f2ede3);
+  border: 2px solid;
+  box-shadow: 10px 14px 0 -2px rgba(27,23,18,0.18), 0 24px 44px -18px rgba(27,23,18,0.4);
+  padding: clamp(16px, 1.6vw, 24px);
+  display: flex; flex-direction: column; gap: 10px; overflow: hidden;
+}
+.room-back-title { font-family: var(--font-serif, serif); font-weight: 900; font-size: clamp(16px, 1.4vw, 21px); color: var(--ink); line-height: 1.35; margin-top: 4px; }
+.room-back-sub { font-family: monospace; font-size: 10px; letter-spacing: .12em; color: var(--ink-soft); margin-top: 2px; }
+.room-back-desc {
+  font-size: clamp(11.5px, 0.95vw, 13.5px); line-height: 1.75; color: var(--ink);
+  border-left: 2px solid rgba(27,23,18,0.25); padding-left: 10px;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+}
+.room-back-axes { display: flex; flex-direction: column; gap: 5px; margin-top: auto; }
+.room-back-axis { display: flex; gap: 8px; font-size: 10.5px; align-items: baseline; }
+.room-back-axis-label {
+  flex-shrink: 0; font-family: monospace; font-size: 9px; letter-spacing: .2em;
+  color: var(--paper); background: rgba(27,23,18,0.72); padding: 1px 6px;
+}
+.room-back-axis-vals { color: var(--ink); opacity: .85; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.room-back-imgs { height: 74px; border: 1px solid rgba(27,23,18,0.25); flex-shrink: 0; }
+
+@media (max-width: 768px) {
+  .floor-shaft { width: 64px; padding-top: 10vh; }
+  .floor-shaft-name { font-size: 11px; letter-spacing: .25em; }
+  .room-card { width: 68vw; }
+  .building-rail { right: 8px; }
+}
