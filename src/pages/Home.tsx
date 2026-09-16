@@ -3,6 +3,8 @@ import Scene3D from "@/components/Scene3D";
 import Nav from "@/components/Nav";
 import Building from "@/components/Building";
 import Preloader from "@/components/Preloader";
+import FurnitureRail from "@/components/FurnitureRail";
+import type { FurnitureKey } from "@/components/FurnitureIcons";
 import { works } from "@/data/works";
 
 /* 散落字符入场 */
@@ -49,6 +51,7 @@ export default function Home() {
   const [entered, setEntered] = useState(false);
   const [coverGone, setCoverGone] = useState(false);
   const [booted, setBooted] = useState(false);
+  const [focus, setFocus] = useState<FurnitureKey | null>(null);
   const wrapRef = useRef<HTMLDivElement>(null);
 
   /* entered 状态同步到 body（独立 effect，避免被清理函数误删） */
@@ -112,8 +115,9 @@ export default function Home() {
       {!coverGone && (
       <div className="cover">
         <div className="absolute inset-0 top-10">
-          <Scene3D />
+          <Scene3D focusKey={focus} />
         </div>
+        <FurnitureRail active={focus} onPick={(k) => setFocus((f) => (f === k ? null : k))} />
         <div className="absolute inset-x-0 top-[6%] flex flex-col items-center pointer-events-none z-10">
           <ScatterTitle
             text="客厅图志"

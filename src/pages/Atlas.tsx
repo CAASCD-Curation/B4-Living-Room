@@ -16,19 +16,31 @@ function hashRand(id: string, salt: number) {
 }
 
 /* 散落卡片 */
-function WorkCard({ work, onOpen }: { work: Work; onOpen: (w: Work) => void }) {
-  const rot = (hashRand(work.id, 7) - 0.5) * 10; // -5° ~ 5°
-  const jx = (hashRand(work.id, 13) - 0.5) * 26;
-  const jy = (hashRand(work.id, 29) - 0.5) * 18;
-  const z = Math.round(hashRand(work.id, 43) * 20);
+function WorkCard({ work, onOpen, salt }: { work: Work; onOpen: (w: Work) => void; salt: number }) {
+  const rot = (hashRand(work.id, salt) - 0.5) * 10; // -5° ~ 5°
+  const jx = (hashRand(work.id, salt * 2 + 1) - 0.5) * 26;
+  const jy = (hashRand(work.id, salt * 3 + 7) - 0.5) * 18;
+  const z = Math.round(hashRand(work.id, salt * 5 + 3) * 20);
+
+  const chips = [
+    ...work.a1.map((t): [string, string] => [t, "var(--ax1)"]),
+    ...work.a2.map((t): [string, string] => [t, "var(--ax2)"]),
+    ...work.a3.map((t): [string, string] => [t, "var(--ax3)"]),
+    ...work.a4.map((t): [string, string] => [t, "var(--ax4)"]),
+    ...work.a5.map((t): [string, string] => [t, "var(--ax5)"]),
+  ].slice(0, 3);
 
   return (
     <div
-      className="work-card relative bg-[#faf7ef] p-2 pb-3 border border-[var(--ink)]/15 shadow-md"
+      className="work-card group relative bg-[#faf7ef] p-2 pb-3 border border-[var(--ink)]/15 shadow-md"
       style={{ transform: `rotate(${rot}deg) translate(${jx}px, ${jy}px)`, zIndex: z }}
       onClick={() => onOpen(work)}
     >
-      <div className="aspect-[4/3] overflow-hidden bg-[var(--paper-deep)]">
+      {/* 档案角标 */}
+      <span className="absolute -top-2 -right-1 z-10 bg-[var(--cinnabar)] text-[var(--paper)] font-mono-arc text-[9px] px-1.5 py-0.5 rotate-3 shadow-sm">
+        {work.id}
+      </span>
+      <div className="relative aspect-[4/3] overflow-hidden bg-[var(--paper-deep)]">
         {work.imgs.length > 0 ? (
           <ImgSlider imgs={work.imgs} alt={work.name} />
         ) : (
@@ -37,10 +49,20 @@ function WorkCard({ work, onOpen }: { work: Work; onOpen: (w: Work) => void }) {
             <span className="font-mono-arc text-[9px] tracking-[0.25em] text-[var(--ink)]/35 mt-1.5">IMAGE TBD</span>
           </div>
         )}
+        {/* 悬停滑出：分类轴标签 */}
+        {chips.length > 0 && (
+          <div className="card-chips">
+            {chips.map(([t, c]) => (
+              <span key={t} className="card-chip" style={{ color: c }}>
+                <i />{t}
+              </span>
+            ))}
+          </div>
+        )}
       </div>
       <div className="mt-2 px-0.5 flex items-baseline justify-between gap-2">
         <span className="font-serif-sc font-bold text-[13px] leading-tight line-clamp-1">{work.name}</span>
-        <span className="font-mono-arc text-[10px] text-[var(--ink-soft)] shrink-0">{work.id}</span>
+        <span className="font-mono-arc text-[10px] text-[var(--ink-soft)] shrink-0">{work.year ?? "—"}</span>
       </div>
     </div>
   );
@@ -122,6 +144,13 @@ export default function Atlas() {
   const [axisFilter, setAxisFilter] = useState<Record<string, string[]>>({});
   const [query, setQuery] = useState("");
   const [opened, setOpened] = useState<Work | null>(null);
+  const [salt, setSalt] = useState(7);
+
+  /* 掷签：从当前筛选结果中随机打开一件 */
+  const drawOne = () => {
+    if (!filtered.length) return;
+    setOpened(filtered[Math.floor(Math.random() * filtered.length)]);
+  };
 
   const toggleAxisTag = (axisKey: string, tag: string) => {
     setAxisFilter((prev) => {
@@ -164,24 +193,43 @@ export default function Atlas() {
             </p>
           </div>
 
-          {/* 网格 / 列表切换 */}
-          <div className="flex items-center gap-1 border border-[var(--ink)]/25 rounded-full p-1">
-            {(
-              [
-                { k: "grid", label: "网格" },
-                { k: "list", label: "列表" },
-              ] as { k: ViewMode; label: string }[]
-            ).map((v) => (
+          {/* 网格 / 列表切换 + 掷签 + 重新散落 */}
+          <div className="flex items-center gap-2">
+            <button
+              onClick={drawOne}
+              disabled={!filtered.length}
+              title="从当前结果中随机打开一件"
+              className="px-4 py-1.5 border border-[var(--cinnabar)] text-[var(--cinnabar)] text-xs tracking-widest font-medium rounded-full hover:bg-[var(--cinnabar)] hover:text-[var(--paper)] transition-all disabled:opacity-30 disabled:pointer-events-none"
+            >
+              掷签 ↻
+            </button>
+            {view === "grid" && (
               <button
-                key={v.k}
-                onClick={() => setView(v.k)}
-                className={`px-4 py-1.5 rounded-full text-xs tracking-widest font-medium transition-all ${
-                  view === v.k ? "bg-[var(--ink)] text-[var(--paper)]" : "text-[var(--ink-soft)] hover:text-[var(--ink)]"
-                }`}
+                onClick={() => setSalt((s) => s + 1)}
+                title="重新随机散落卡片"
+                className="px-4 py-1.5 border border-[var(--ink)]/30 text-[var(--ink-soft)] text-xs tracking-widest rounded-full hover:border-[var(--ink)] hover:text-[var(--ink)] transition-all"
               >
-                {v.label}
+                重新散落
               </button>
-            ))}
+            )}
+            <div className="flex items-center gap-1 border border-[var(--ink)]/25 rounded-full p-1">
+              {(
+                [
+                  { k: "grid", label: "网格" },
+                  { k: "list", label: "列表" },
+                ] as { k: ViewMode; label: string }[]
+              ).map((v) => (
+                <button
+                  key={v.k}
+                  onClick={() => setView(v.k)}
+                  className={`px-4 py-1.5 rounded-full text-xs tracking-widest font-medium transition-all ${
+                    view === v.k ? "bg-[var(--ink)] text-[var(--paper)]" : "text-[var(--ink-soft)] hover:text-[var(--ink)]"
+                  }`}
+                >
+                  {v.label}
+                </button>
+              ))}
+            </div>
           </div>
         </div>
 
@@ -236,7 +284,7 @@ export default function Atlas() {
         ) : view === "grid" ? (
           <div className="mt-12 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-6 gap-y-12">
             {filtered.map((w) => (
-              <WorkCard key={w.id} work={w} onOpen={setOpened} />
+              <WorkCard key={w.id} work={w} onOpen={setOpened} salt={salt} />
             ))}
           </div>
         ) : (

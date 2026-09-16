@@ -402,3 +402,88 @@ body.entered { overflow-y: auto; }
   .room-card { width: 68vw; }
   .building-rail { right: 8px; }
 }
+
+/* ================= 预加载：家具线稿叠加加载 ================= */
+.preloader-stack { position: relative; width: 84px; height: 84px; }
+.preloader-stack svg {
+  position: absolute; inset: 0; margin: auto; width: 48px; height: 48px;
+  color: var(--ink); opacity: 0;
+  transform: translate(var(--tx, 0px), calc(var(--ty, 0px) + 18px)) scale(0.55) rotate(var(--rot, 0deg));
+  animation: stackIn 0.55s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  animation-delay: var(--d, 0s);
+}
+.preloader.is-done .preloader-stack svg {
+  animation: stackOut 0.45s cubic-bezier(0.65, 0, 0.2, 1) forwards;
+  animation-delay: var(--d, 0s);
+}
+@keyframes stackIn {
+  to {
+    opacity: 1;
+    transform: translate(var(--tx, 0px), var(--ty, 0px)) scale(1) rotate(var(--rot, 0deg));
+  }
+}
+@keyframes stackOut {
+  to {
+    opacity: 0;
+    transform: translate(var(--tx, 0px), calc(var(--ty, 0px) - 30px)) scale(0.6) rotate(var(--rot, 0deg));
+  }
+}
+
+/* ================= 路由转场：墨色幕布 + 叠加家具线稿 ================= */
+.route-veil { position: fixed; inset: 0; z-index: 90000; pointer-events: none; }
+.route-veil-panel {
+  position: absolute; inset: 0; background: var(--ink);
+  display: flex; align-items: center; justify-content: center;
+}
+.route-veil.in .route-veil-panel { animation: veilIn 0.42s cubic-bezier(0.7, 0, 0.3, 1) forwards; }
+.route-veil.out .route-veil-panel { animation: veilOut 0.52s cubic-bezier(0.7, 0, 0.3, 1) forwards; }
+@keyframes veilIn { from { transform: translateY(101%); } to { transform: translateY(0); } }
+@keyframes veilOut { from { transform: translateY(0); } to { transform: translateY(-101%); } }
+.route-veil-icons { display: flex; align-items: center; }
+.route-veil-icons svg {
+  width: 46px; height: 46px; color: var(--paper);
+  margin: 0 -8px; opacity: 0; transform: translateY(16px) scale(0.7);
+  animation: veilIcon 0.4s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  animation-delay: var(--d, 0s);
+}
+.route-veil.out .route-veil-icons svg {
+  animation: veilIconOut 0.3s ease-in forwards;
+  animation-delay: var(--d, 0s);
+}
+@keyframes veilIcon { to { opacity: 1; transform: translateY(0) scale(1); } }
+@keyframes veilIconOut { to { opacity: 0; transform: translateY(-18px) scale(0.75); } }
+
+/* ================= 首页展品小模型栏 ================= */
+.rail-vertical { writing-mode: vertical-rl; }
+.rail-btn {
+  display: flex; flex-direction: column; align-items: center; gap: 2px;
+  padding: 7px 9px; color: rgba(27, 23, 18, 0.55);
+  transition: color 0.25s ease, transform 0.25s cubic-bezier(0.22, 1, 0.36, 1);
+  position: relative;
+}
+.rail-btn:hover { color: var(--ink); transform: translateX(-3px); }
+.rail-btn.is-active { color: var(--cinnabar); }
+.rail-btn.is-active svg { filter: drop-shadow(0 0 6px rgba(192, 67, 43, 0.35)); }
+.rail-label {
+  font-size: 9px; letter-spacing: 0.15em; opacity: 0;
+  transform: translateX(4px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+.rail-btn:hover .rail-label, .rail-btn.is-active .rail-label { opacity: 1; transform: translateX(0); }
+
+/* ================= 图志卡：悬停滑出轴标签 ================= */
+.card-chips {
+  position: absolute; left: 0; right: 0; bottom: 0;
+  display: flex; flex-wrap: wrap; gap: 4px 8px;
+  padding: 6px 8px;
+  background: linear-gradient(to top, rgba(250, 247, 239, 0.97) 55%, rgba(250, 247, 239, 0));
+  transform: translateY(102%); opacity: 0;
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.25s ease;
+  pointer-events: none;
+}
+.group:hover .card-chips { transform: translateY(0); opacity: 1; }
+.card-chip {
+  display: inline-flex; align-items: center; gap: 4px;
+  font-size: 9.5px; line-height: 1; white-space: nowrap;
+}
+.card-chip i { width: 5px; height: 5px; border-radius: 50%; background: currentColor; display: inline-block; }

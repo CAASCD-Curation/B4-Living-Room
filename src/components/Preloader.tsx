@@ -1,7 +1,9 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, type CSSProperties } from "react";
+import FurnitureIcon, { STACK_ICONS, PlantIcon } from "./FurnitureIcons";
 
-/* 首屏预加载：品牌字逐字浮现 + 细进度条 + 百分比，完成后整体上滑退出
- * （参考旧版档案馆站点 https://4m1weakhk903e.aiforce.cloud/app/app_17e3crpkd5j 的加载方式） */
+/* 首屏预加载：品牌字逐字浮现 + 家具线稿图标「叠加加载」+ 细进度条 + 百分比，
+ * 完成后图标散开、面板上滑退出
+ * （参考 thisplaceofmine 的叠加式加载与旧版档案馆的进度条） */
 export default function Preloader({ onDone }: { onDone: () => void }) {
   const [pct, setPct] = useState(0);
   const [done, setDone] = useState(false);
@@ -44,6 +46,21 @@ export default function Preloader({ onDone }: { onDone: () => void }) {
 
   return (
     <div className={`preloader ${done ? "is-done" : ""}`} aria-hidden>
+      <div className="preloader-stack">
+        {STACK_ICONS.map((ic, i) => {
+          const style = {
+            "--d": `${0.25 + i * 0.16}s`,
+            "--rot": `${ic.rot}deg`,
+            "--tx": `${ic.tx}px`,
+            "--ty": `${ic.ty}px`,
+          } as CSSProperties;
+          return ic.name === "plant" ? (
+            <PlantIcon key={i} style={style} />
+          ) : (
+            <FurnitureIcon key={i} name={ic.name} style={style} />
+          );
+        })}
+      </div>
       <div className="preloader-brand font-serif-sc">
         {Array.from("客厅图志").map((ch, i) => (
           <span key={i} style={{ animationDelay: `${0.15 + i * 0.12}s` }}>
