@@ -403,55 +403,31 @@ body.entered { overflow-y: auto; }
   .building-rail { right: 8px; }
 }
 
-/* ================= 预加载：家具线稿叠加加载 ================= */
-.preloader-stack { position: relative; width: 84px; height: 84px; }
+/* ================= 预加载：家具线稿横向依次跳跃 ================= */
+.preloader-stack { display: flex; align-items: flex-end; gap: 16px; height: 56px; }
 .preloader-stack svg {
-  position: absolute; inset: 0; margin: auto; width: 48px; height: 48px;
-  color: var(--ink); opacity: 0;
-  transform: translate(var(--tx, 0px), calc(var(--ty, 0px) + 18px)) scale(0.55) rotate(var(--rot, 0deg));
-  animation: stackIn 0.55s cubic-bezier(0.22, 1, 0.36, 1) forwards;
-  animation-delay: var(--d, 0s);
+  width: 42px; height: 42px; color: var(--ink);
+  opacity: 0;
+  animation:
+    stackIn 0.4s cubic-bezier(0.22, 1, 0.36, 1) forwards,
+    stackHop 1.4s ease-in-out infinite;
+  animation-delay: var(--d, 0s), calc(var(--d, 0s) + 0.4s);
 }
 .preloader.is-done .preloader-stack svg {
-  animation: stackOut 0.45s cubic-bezier(0.65, 0, 0.2, 1) forwards;
+  animation: stackOut 0.4s cubic-bezier(0.65, 0, 0.2, 1) forwards;
   animation-delay: var(--d, 0s);
 }
 @keyframes stackIn {
-  to {
-    opacity: 1;
-    transform: translate(var(--tx, 0px), var(--ty, 0px)) scale(1) rotate(var(--rot, 0deg));
-  }
+  from { opacity: 0; transform: translateY(14px) rotate(var(--rot, 0deg)); }
+  to { opacity: 1; transform: translateY(0) rotate(var(--rot, 0deg)); }
+}
+@keyframes stackHop {
+  0%, 100% { transform: translateY(0) rotate(var(--rot, 0deg)); }
+  35% { transform: translateY(-13px) rotate(var(--rot, 0deg)); }
 }
 @keyframes stackOut {
-  to {
-    opacity: 0;
-    transform: translate(var(--tx, 0px), calc(var(--ty, 0px) - 30px)) scale(0.6) rotate(var(--rot, 0deg));
-  }
+  to { opacity: 0; transform: translateY(-24px) rotate(var(--rot, 0deg)); }
 }
-
-/* ================= 路由转场：墨色幕布 + 叠加家具线稿 ================= */
-.route-veil { position: fixed; inset: 0; z-index: 90000; pointer-events: none; }
-.route-veil-panel {
-  position: absolute; inset: 0; background: var(--ink);
-  display: flex; align-items: center; justify-content: center;
-}
-.route-veil.in .route-veil-panel { animation: veilIn 0.42s cubic-bezier(0.7, 0, 0.3, 1) forwards; }
-.route-veil.out .route-veil-panel { animation: veilOut 0.52s cubic-bezier(0.7, 0, 0.3, 1) forwards; }
-@keyframes veilIn { from { transform: translateY(101%); } to { transform: translateY(0); } }
-@keyframes veilOut { from { transform: translateY(0); } to { transform: translateY(-101%); } }
-.route-veil-icons { display: flex; align-items: center; }
-.route-veil-icons svg {
-  width: 46px; height: 46px; color: var(--paper);
-  margin: 0 -8px; opacity: 0; transform: translateY(16px) scale(0.7);
-  animation: veilIcon 0.4s cubic-bezier(0.22, 1, 0.36, 1) forwards;
-  animation-delay: var(--d, 0s);
-}
-.route-veil.out .route-veil-icons svg {
-  animation: veilIconOut 0.3s ease-in forwards;
-  animation-delay: var(--d, 0s);
-}
-@keyframes veilIcon { to { opacity: 1; transform: translateY(0) scale(1); } }
-@keyframes veilIconOut { to { opacity: 0; transform: translateY(-18px) scale(0.75); } }
 
 /* ================= 首页展品小模型栏 ================= */
 .rail-vertical { writing-mode: vertical-rl; }
@@ -465,11 +441,10 @@ body.entered { overflow-y: auto; }
 .rail-btn.is-active { color: var(--cinnabar); }
 .rail-btn.is-active svg { filter: drop-shadow(0 0 6px rgba(192, 67, 43, 0.35)); }
 .rail-label {
-  font-size: 9px; letter-spacing: 0.15em; opacity: 0;
-  transform: translateX(4px);
-  transition: opacity 0.2s ease, transform 0.2s ease;
+  font-size: 9px; letter-spacing: 0.1em; opacity: 0.75;
+  transition: opacity 0.2s ease;
 }
-.rail-btn:hover .rail-label, .rail-btn.is-active .rail-label { opacity: 1; transform: translateX(0); }
+.rail-btn:hover .rail-label { opacity: 1; }
 
 /* ================= 图志卡：悬停滑出轴标签 ================= */
 .card-chips {

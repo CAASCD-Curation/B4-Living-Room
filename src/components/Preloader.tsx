@@ -49,10 +49,8 @@ export default function Preloader({ onDone }: { onDone: () => void }) {
       <div className="preloader-stack">
         {STACK_ICONS.map((ic, i) => {
           const style = {
-            "--d": `${0.25 + i * 0.16}s`,
+            "--d": `${0.2 + i * 0.14}s`,
             "--rot": `${ic.rot}deg`,
-            "--tx": `${ic.tx}px`,
-            "--ty": `${ic.ty}px`,
           } as CSSProperties;
           return ic.name === "plant" ? (
             <PlantIcon key={i} style={style} />

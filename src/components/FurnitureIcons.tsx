@@ -86,13 +86,13 @@ export default function FurnitureIcon({
   );
 }
 
-/* 供转场/预加载使用的小组合（含植物） */
-export const STACK_ICONS: { name: FurnitureKey | "plant"; rot: number; tx: number; ty: number }[] = [
-  { name: "sofa", rot: -6, tx: -5, ty: 3 },
-  { name: "lamp", rot: 4, tx: 5, ty: -3 },
-  { name: "window", rot: -3, tx: -3, ty: -5 },
-  { name: "plant", rot: 7, tx: 4, ty: 4 },
-  { name: "chair", rot: -5, tx: 0, ty: 0 },
+/* 供预加载使用的小图标（横向排列、依次跳跃） */
+export const STACK_ICONS: { name: FurnitureKey | "plant"; rot: number }[] = [
+  { name: "sofa", rot: -4 },
+  { name: "lamp", rot: 3 },
+  { name: "window", rot: -2 },
+  { name: "plant", rot: 4 },
+  { name: "chair", rot: -3 },
 ];
 
 export function PlantIcon(props: SVGProps<SVGSVGElement>) {

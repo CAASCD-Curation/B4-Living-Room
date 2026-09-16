@@ -1,4 +1,5 @@
-import { useMemo, useState } from "react";
+import { useMemo, useState, useEffect } from "react";
+import { useSearchParams } from "react-router";
 import Nav from "@/components/Nav";
 import WorkModal from "@/components/WorkModal";
 import ImgSlider from "@/components/ImgSlider";
@@ -145,6 +146,17 @@ export default function Atlas() {
   const [query, setQuery] = useState("");
   const [opened, setOpened] = useState<Work | null>(null);
   const [salt, setSalt] = useState(7);
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  /* 从首页分类入口跳入：?axis=a3&tag=座次秩序 → 自动套用该标签筛选 */
+  useEffect(() => {
+    const axis = searchParams.get("axis");
+    const tag = searchParams.get("tag");
+    if (tag && axis && ["a1", "a2", "a3", "a4", "a5"].includes(axis)) {
+      setAxisFilter({ [axis]: [tag] });
+    }
+    if (axis || tag) setSearchParams({}, { replace: true });
+  }, [searchParams, setSearchParams]);
 
   /* 掷签：从当前筛选结果中随机打开一件 */
   const drawOne = () => {
