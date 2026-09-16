@@ -1,12 +1,12 @@
 import { useNavigate } from "react-router";
 import FurnitureIcon, { FURNITURE_ITEMS, FURNITURE_LINKS } from "./FurnitureIcons";
 
-/* 右侧分类入口栏：与首页 3D 场景里的家具点击共用同一份映射 */
+/* 左侧分类入口栏：与首页 3D 场景里的家具点击共用同一份映射 */
 export default function FurnitureRail() {
   const navigate = useNavigate();
 
   return (
-    <div className="absolute right-4 md:right-8 top-1/2 -translate-y-1/2 z-20 hidden lg:flex flex-col items-center">
+    <div className="absolute left-4 md:left-8 top-1/2 -translate-y-1/2 z-30 hidden lg:flex flex-col items-center">
       <span className="rail-vertical font-mono-arc text-[9px] tracking-[0.35em] text-[var(--ink-soft)] mb-3">
         分类 · BROWSE
       </span>
