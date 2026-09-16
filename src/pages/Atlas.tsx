@@ -3,7 +3,7 @@ import Nav from "@/components/Nav";
 import WorkModal from "@/components/WorkModal";
 import ImgSlider from "@/components/ImgSlider";
 import { works } from "@/data/works";
-import { CATEGORY_META, type Category, type Work } from "@/types/work";
+import type { Work } from "@/types/work";
 import { AXES } from "@/data/system";
 
 type ViewMode = "grid" | "list";
@@ -119,7 +119,6 @@ function AxisFilter({
 
 export default function Atlas() {
   const [view, setView] = useState<ViewMode>("grid");
-  const [cat, setCat] = useState<Category | "ALL">("ALL");
   const [axisFilter, setAxisFilter] = useState<Record<string, string[]>>({});
   const [query, setQuery] = useState("");
   const [opened, setOpened] = useState<Work | null>(null);
@@ -136,7 +135,6 @@ export default function Atlas() {
 
   const filtered = useMemo(() => {
     return works.filter((w) => {
-      if (cat !== "ALL" && w.cat !== cat) return false;
       for (const [axisKey, tags] of Object.entries(axisFilter)) {
         const arr = w[axisKey as "a1" | "a2" | "a3" | "a4" | "a5"];
         if (!tags.some((t) => arr.includes(t))) return false;
@@ -148,7 +146,7 @@ export default function Atlas() {
       }
       return true;
     });
-  }, [cat, axisFilter, query]);
+  }, [axisFilter, query]);
 
   const activeTags = Object.entries(axisFilter).flatMap(([k, ts]) => ts.map((t) => ({ axisKey: k, tag: t })));
 
@@ -187,45 +185,8 @@ export default function Atlas() {
           </div>
         </div>
 
-        {/* 筛选区 */}
+        {/* 筛选区：按 5 条分类轴检索（不再按 A/B/C/D 分类） */}
         <div className="mt-5 space-y-3">
-          <div className="flex flex-wrap items-center gap-2">
-            <button
-              onClick={() => setCat("ALL")}
-              className={`px-3.5 py-1.5 rounded-full text-xs border transition-colors ${
-                cat === "ALL"
-                  ? "bg-[var(--ink)] text-[var(--paper)] border-[var(--ink)]"
-                  : "border-[var(--ink)]/25 text-[var(--ink-soft)] hover:border-[var(--ink)]/60"
-              }`}
-            >
-              全部 <span className="font-mono-arc text-[10px]">({works.length})</span>
-            </button>
-            {(Object.keys(CATEGORY_META) as Category[]).map((c) => {
-              const n = works.filter((w) => w.cat === c).length;
-              return (
-                <button
-                  key={c}
-                  onClick={() => setCat(c)}
-                  className={`px-3.5 py-1.5 rounded-full text-xs border transition-colors ${
-                    cat === c
-                      ? "bg-[var(--cinnabar)] text-[var(--paper)] border-[var(--cinnabar)]"
-                      : "border-[var(--ink)]/25 text-[var(--ink-soft)] hover:border-[var(--ink)]/60"
-                  }`}
-                >
-                  {c} · {CATEGORY_META[c].label}{" "}
-                  <span className="font-mono-arc text-[10px]">({n})</span>
-                </button>
-              );
-            })}
-
-            <input
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              placeholder="检索名称 / 出处 / 地区…"
-              className="ml-auto bg-transparent border-b border-[var(--ink)]/30 focus:border-[var(--cinnabar)] outline-none text-sm px-1 py-1.5 w-52 placeholder:text-[var(--ink-soft)]/60"
-            />
-          </div>
-
           <div className="flex flex-wrap items-center gap-2">
             <span className="text-[10px] font-mono-arc tracking-widest text-[var(--ink-soft)] mr-1">分类轴 →</span>
             {AXES.map((ax, i) => (
@@ -239,6 +200,12 @@ export default function Atlas() {
                 清空筛选
               </button>
             )}
+            <input
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              placeholder="检索名称 / 出处 / 地区…"
+              className="ml-auto bg-transparent border-b border-[var(--ink)]/30 focus:border-[var(--cinnabar)] outline-none text-sm px-1 py-1.5 w-52 placeholder:text-[var(--ink-soft)]/60"
+            />
           </div>
 
           {activeTags.length > 0 && (

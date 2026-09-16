@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import Scene3D from "@/components/Scene3D";
 import Nav from "@/components/Nav";
 import Building from "@/components/Building";
+import Preloader from "@/components/Preloader";
 import { works } from "@/data/works";
 
 /* 散落字符入场 */
@@ -47,6 +48,7 @@ export default function Home() {
   const imgCount = works.reduce((s, w) => s + w.imgs.length, 0);
   const [entered, setEntered] = useState(false);
   const [coverGone, setCoverGone] = useState(false);
+  const [booted, setBooted] = useState(false);
   const wrapRef = useRef<HTMLDivElement>(null);
 
   /* entered 状态同步到 body（独立 effect，避免被清理函数误删） */
@@ -103,6 +105,7 @@ export default function Home() {
 
   return (
     <div ref={wrapRef} className={`home-wrap ${entered ? "is-entered" : ""}`}>
+      {!booted && <Preloader onDone={() => setBooted(true)} />}
       <Nav />
 
       {/* 封面：3D 客厅 */}
