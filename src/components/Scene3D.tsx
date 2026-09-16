@@ -123,10 +123,12 @@ function buildFurniture(): { root: THREE.Group; clickables: THREE.Group[] } {
 }
 
 /* ================= 组件 ================= */
-export default function Scene3D() {
+export default function Scene3D({ onEnter }: { onEnter?: () => void }) {
   const mountRef = useRef<HTMLDivElement>(null);
   const navigate = useNavigate();
   const [tip, setTip] = useState<{ x: number; y: number; label: string } | null>(null);
+  const onEnterRef = useRef(onEnter);
+  onEnterRef.current = onEnter;
 
   useEffect(() => {
     const mount = mountRef.current!;
@@ -221,6 +223,7 @@ export default function Scene3D() {
     let downPos: { x: number; y: number } | null = null;
     let moved = 0;
     let pinchDist = 0;
+    let limitAcc = 0; // 缩放到极限后继续下滚的累计量
 
     const panBy = (dx: number, dy: number) => {
       // 像素 → 地面单位（随距离线性缩放）
@@ -303,8 +306,19 @@ export default function Scene3D() {
 
     const onWheel = (e: WheelEvent) => {
       e.preventDefault();
-      distance = THREE.MathUtils.clamp(distance * Math.exp(e.deltaY * 0.0011), 10, 55);
+      const raw = distance * Math.exp(e.deltaY * 0.0011);
+      distance = THREE.MathUtils.clamp(raw, 10, 55);
       updateCamera();
+      // 已经缩到最小视野（滑到底）还继续往下滚 → 进入楼层图志
+      if (raw >= 55 && e.deltaY > 0) {
+        limitAcc += e.deltaY;
+        if (limitAcc > 240) {
+          limitAcc = -1e9; // 只触发一次
+          onEnterRef.current?.();
+        }
+      } else if (limitAcc > 0) {
+        limitAcc = Math.max(0, limitAcc - Math.abs(e.deltaY));
+      }
     };
 
     const el = renderer.domElement;

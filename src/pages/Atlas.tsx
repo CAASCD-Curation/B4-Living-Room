@@ -147,6 +147,8 @@ export default function Atlas() {
   const [opened, setOpened] = useState<Work | null>(null);
   const [salt, setSalt] = useState(7);
   const [searchParams, setSearchParams] = useSearchParams();
+  /* 密度滑块：卡片最小宽度 120(最密) ~ 320px(最大) */
+  const [cardMin, setCardMin] = useState(190);
 
   /* 从首页分类入口跳入：?axis=a3&tag=座次秩序 → 自动套用该标签筛选 */
   useEffect(() => {
@@ -224,6 +226,23 @@ export default function Atlas() {
                 重新散落
               </button>
             )}
+            {/* 密度滑块：左右滑动控制卡片大小与资料密度 */}
+            {view === "grid" && (
+              <div className="flex items-center gap-2 px-1" title="资料密度 / 卡片大小">
+                <span className="text-[10px] font-mono-arc tracking-widest text-[var(--ink-soft)]">密</span>
+                <input
+                  type="range"
+                  min={120}
+                  max={320}
+                  step={10}
+                  value={cardMin}
+                  onChange={(e) => setCardMin(Number(e.target.value))}
+                  className="atlas-slider w-28 md:w-36"
+                  aria-label="资料密度"
+                />
+                <span className="text-[10px] font-mono-arc tracking-widest text-[var(--ink-soft)]">大</span>
+              </div>
+            )}
             <div className="flex items-center gap-1 border border-[var(--ink)]/25 rounded-full p-1">
               {(
                 [
@@ -294,7 +313,10 @@ export default function Atlas() {
             <p className="text-sm mt-2">试试清空筛选或换个关键词</p>
           </div>
         ) : view === "grid" ? (
-          <div className="mt-12 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-6 gap-y-12">
+          <div
+            className="mt-12 grid gap-x-6 gap-y-12"
+            style={{ gridTemplateColumns: `repeat(auto-fill, minmax(${cardMin}px, 1fr))` }}
+          >
             {filtered.map((w) => (
               <WorkCard key={w.id} work={w} onOpen={setOpened} salt={salt} />
             ))}

@@ -41,14 +41,14 @@ export default function Home() {
       {!coverGone && (
       <div className="cover">
         <div className="absolute inset-0">
-          <Scene3D />
+          <Scene3D onEnter={enter} />
         </div>
         <FurnitureRail />
         <div className="absolute bottom-0 left-0 right-0 z-10 px-5 md:px-10 pb-5">
           <div className="flex items-end justify-between text-xs md:text-sm">
             <div className="font-medium text-[var(--ink-soft)]">
               <div>一座关于「客厅」的概念档案</div>
-              <div className="font-mono-arc text-[10px] tracking-widest mt-1 opacity-70">滚轮缩放 · 拖拽平移 · 点击家具进入分类</div>
+              <div className="font-mono-arc text-[10px] tracking-widest mt-1 opacity-70">滚轮缩放 · 放到最大再往下滚进入楼层 · 点击家具进分类</div>
             </div>
             <div className="text-center font-mono-arc text-[11px] tracking-widest">
               <span className="text-[var(--cinnabar)] font-bold">{works.length}</span> 条目

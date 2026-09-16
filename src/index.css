@@ -446,6 +446,35 @@ body.entered { overflow-y: auto; }
 }
 .rail-btn:hover .rail-label { opacity: 1; }
 
+/* ================= 图志页密度滑块 ================= */
+.atlas-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 2px;
+  background: rgba(27, 23, 18, 0.25);
+  border-radius: 2px;
+  outline: none;
+  cursor: ew-resize;
+}
+.atlas-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--paper);
+  border: 2px solid var(--cinnabar);
+  transition: transform 0.15s ease;
+}
+.atlas-slider::-webkit-slider-thumb:hover { transform: scale(1.25); }
+.atlas-slider::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--paper);
+  border: 2px solid var(--cinnabar);
+}
+
 /* ================= 图志卡：悬停滑出轴标签 ================= */
 .card-chips {
   position: absolute; left: 0; right: 0; bottom: 0;
