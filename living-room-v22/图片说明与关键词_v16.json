@@ -1,0 +1,5132 @@
+{
+  "version": 16,
+  "archiveCount": 143,
+  "exhibitionCount": 5,
+  "displayOrder": [
+    "title",
+    "author/date",
+    "background",
+    "selectionReason",
+    "keywords",
+    "values"
+  ],
+  "notes": "文学类作者和年代指文本，不指配图摄影。社会素材的SOURCE DATE指文本来源时间。作者缺项以佚名标识；滑动文字用作品名。",
+  "records": [
+    {
+      "id": "M-A1",
+      "title": "《大使们》",
+      "englishTitle": "The Ambassadors",
+      "author": "小汉斯·荷尔拜因",
+      "authorEnglish": "Hans Holbein the Younger",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1533",
+      "dateLabel": "DATE",
+      "slidingLabel": "Hans Holbein the Younger",
+      "source": "小汉斯·荷尔拜因 · 1533",
+      "year": "1533",
+      "yearShown": "1533",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "荷尔拜因于1533年绘制的双人肖像，让两位人物与地球仪、乐器、书本同处一室。满幅器物与精细服饰共同构成身份展示，也让室内成为知识与地位的舞台。",
+      "selectionReason": "两人之间的陈设既建立联系，也保留距离。它让沙发主题从坐具延伸到共同占据房间时，物件如何安排身份与相处位置。",
+      "keywords": [
+        "身份展示",
+        "社交距离",
+        "共同停留"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A2",
+      "title": "《宫娥》",
+      "englishTitle": "Las Meninas",
+      "author": "迭戈·委拉斯开兹",
+      "authorEnglish": "Diego Velázquez",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1656",
+      "dateLabel": "DATE",
+      "slidingLabel": "Diego Velázquez",
+      "source": "迭戈·委拉斯开兹 · 1656",
+      "year": "1656",
+      "yearShown": "1656",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "委拉斯开兹在1656年的《宫娥》中，将画家、少女、侍从和远处镜面纳入同一室内。人物的朝向、门口的身影与前后层次，使观看本身成为画面的内容。",
+      "selectionReason": "谁被围绕、谁站在边缘、谁从门口观看，形成清楚的空间关系。它为沙发主题提供了座位之外的中心位置与权力视角。",
+      "keywords": [
+        "观看位置",
+        "目光回应",
+        "空间门槛",
+        "座次秩序"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A24",
+      "title": "《橡果夫人的客厅》",
+      "englishTitle": "Mrs Acorn's Living Room",
+      "author": "爱德华·霍珀",
+      "authorEnglish": "Edward Hopper",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1926",
+      "dateLabel": "DATE",
+      "slidingLabel": "Edward Hopper",
+      "source": "爱德华·霍珀，1926",
+      "year": "1926",
+      "yearShown": "1926",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "旁观"
+      },
+      "background": "霍珀于1926年旅居缅因州罗克兰一间寄宿屋时，画下这处会客室。簧风琴、雕花座椅与繁密地毯保留了维多利亚式陈设，空房间成为旧时生活的痕迹。",
+      "selectionReason": "原本用于待客的房间此刻无人，座椅与乐器仍暗示着共同停留的可能。它让沙发主题看见人离开之后，陈设怎样保存社交记忆。",
+      "keywords": [
+        "待客礼仪",
+        "物件记忆",
+        "共同停留"
+      ],
+      "sources": [
+        {
+          "title": "MoMA｜Edward Hopper, Mrs. Acorn’s Parlor, 1926",
+          "url": "https://www.moma.org/collection/works/33771"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A36",
+      "title": "《窗边的女人》",
+      "englishTitle": "Woman at a Window",
+      "author": "卡斯帕·大卫·弗里德里希",
+      "authorEnglish": "Caspar David Friedrich",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1822",
+      "dateLabel": "DATE",
+      "slidingLabel": "Caspar David Friedrich",
+      "source": "弗里德里希，1822",
+      "year": "1822",
+      "yearShown": "1822",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "弗里德里希在1822年的这幅画中，只让观者看见窗前女子的背影。窄长的窗、深色墙面与明亮外景相互衬托，室内的安静通过一个向外望的身体被感知。",
+      "selectionReason": "人物没有就座，却以停留的姿态占据属于自己的窗边位置。它让沙发主题触及独处时的个人领地，以及室内与外界的边界。",
+      "keywords": [
+        "身体姿态",
+        "个人领地",
+        "空间门槛",
+        "观看位置"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A40",
+      "title": "《意外归来》",
+      "englishTitle": "They Did Not Expect Him",
+      "author": "伊利亚·列宾",
+      "authorEnglish": "Ilya Repin",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1884",
+      "dateLabel": "DATE",
+      "slidingLabel": "Ilya Repin",
+      "source": "列宾，1884–1888",
+      "year": "1884",
+      "yearShown": "1884",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "旁观"
+      },
+      "background": "列宾的《意外归来》以一名男子走入家中为叙事中心。桌边、座椅旁与门口的人物各自回应这次进入，静止的家具因身体突然转向而成为情节的一部分。",
+      "selectionReason": "一位来者改变了整间房的目光和身体朝向。它让沙发主题聚焦家庭空间如何容纳重逢，以及谁能从门口重新进入共同生活。",
+      "keywords": [
+        "目光回应",
+        "家庭围坐",
+        "空间门槛",
+        "身体姿态"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B1",
+      "title": "吴公馆客厅",
+      "englishTitle": "The Wu Residence",
+      "author": "茅盾",
+      "authorEnglish": "Mao Dun",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1933",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Mao Dun",
+      "source": "茅盾《子夜》· 1933",
+      "year": "1933",
+      "yearShown": "1933",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "茅盾《子夜》将上海都市生活与工商、金融角力编织在一起。吴公馆是家事和社会往来的交汇点，客厅由此带着资本、身份与人情网络的压力。",
+      "selectionReason": "适合把沙发看作社会关系的接点：主人怎样迎接、宾客如何靠近，都能把表面的交谈转化为身份与距离的展示。",
+      "keywords": [
+        "待客礼仪",
+        "身份展示",
+        "社交距离"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B2",
+      "title": "尹公馆客厅",
+      "englishTitle": "The Yin Residence",
+      "author": "白先勇",
+      "authorEnglish": "Pai Hsien-yung",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1965",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Pai Hsien-yung",
+      "source": "白先勇《永远的尹雪艳》（《台北人》）· 1965",
+      "year": "1965",
+      "yearShown": "1965",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "白先勇《永远的尹雪艳》收于《台北人》，围绕尹雪艳与往来宾客展开。台北的聚会牵动上海旧梦，热闹的社交生活同时保存着失落的时代记忆。",
+      "selectionReason": "尹公馆使共同停留具有召集力：熟客围聚、反复来访，座位既维持交情，也让旧身份与群体归属继续被表演。",
+      "keywords": [
+        "共同停留",
+        "共用桌面",
+        "身份展示",
+        "待客礼仪"
+      ],
+      "sources": [
+        {
+          "title": "香港中文大学出版社：《臺北人》",
+          "url": "https://cup.cuhk.edu.hk/index.php?product_id=685&route=product%2Fproduct"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B3",
+      "title": "西门庆府邸厅堂",
+      "englishTitle": "The Hall of Ximen Qing",
+      "author": "兰陵笑笑生",
+      "authorEnglish": "Lanling Xiaoxiao Sheng",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "明万历时期",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lanling Xiaoxiao Sheng",
+      "source": "兰陵笑笑生《金瓶梅》· 明万历",
+      "year": "",
+      "yearShown": "1573–1620",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "兰陵笑笑生《金瓶梅》以西门庆一家为中心，把生意、权势与家庭欲望写进日常生活。府中厅堂兼有家内秩序与对外交往的性质，礼数背后连接着利益。",
+      "selectionReason": "厅堂让座位成为关系的刻度。谁被迎入、谁占主位、谁在旁陪坐，可以用来观察亲疏、权力与待客礼法怎样交织。",
+      "keywords": [
+        "座次秩序",
+        "待客礼仪",
+        "身份展示",
+        "空间门槛"
+      ],
+      "sources": [
+        {
+          "title": "《金瓶梅词话》公版文本（维基文库）",
+          "url": "https://zh.wikisource.org/wiki/金瓶梅詞話"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B6",
+      "title": "安娜·帕夫洛夫娜的晚会客厅",
+      "englishTitle": "Anna Pavlovna's Evening Salon",
+      "author": "列夫·托尔斯泰",
+      "authorEnglish": "Leo Tolstoy",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1865–69",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Leo Tolstoy",
+      "source": "托尔斯泰《战争与和平》· 1865–69",
+      "year": "1865–69",
+      "yearShown": "1865",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "托尔斯泰《战争与和平》从安娜·帕夫洛夫娜的社交晚会展开贵族世界。主人不断照看谈话与宾客组合，政治见解、婚姻筹划和身份礼仪在客厅里相遇。",
+      "selectionReason": "这处客厅让围坐成为被组织的社交。座位与谈话小组的安排既制造相遇，也决定谁获得注意、谁能接近圈子的中心。",
+      "keywords": [
+        "座位重组",
+        "座次秩序",
+        "目光回应",
+        "身份展示"
+      ],
+      "sources": [
+        {
+          "title": "《战争与和平》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/2600/2600-h/2600-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B7",
+      "title": "鲍赛昂夫人的沙龙",
+      "englishTitle": "Madame de Beauséant's Salon",
+      "author": "奥诺雷·德·巴尔扎克",
+      "authorEnglish": "Honoré de Balzac",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1834",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Honoré de Balzac",
+      "source": "巴尔扎克《高老头》（《人间喜剧》）· 1834",
+      "year": "1834",
+      "yearShown": "1834",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "巴尔扎克《高老头》把拉斯蒂涅的上升欲望放进巴黎社会。鲍赛昂夫人的沙龙向他展示上流交往的规则，优雅、名望与情感受挫共同构成这处社交空间。",
+      "selectionReason": "被允许进入沙龙，就意味着获得一种接近权。座具在这里适合呈现社交门槛，以及主人与新来者之间尚未消失的距离。",
+      "keywords": [
+        "空间门槛",
+        "待客礼仪",
+        "身份展示",
+        "社交距离"
+      ],
+      "sources": [
+        {
+          "title": "《高老头》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/1237/1237-h/1237-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B8",
+      "title": "沃比萨尔城堡客厅",
+      "englishTitle": "The Drawing Room at La Vaubyessard",
+      "author": "居斯塔夫·福楼拜",
+      "authorEnglish": "Gustave Flaubert",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1857",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Gustave Flaubert",
+      "source": "福楼拜《包法利夫人》· 1857",
+      "year": "1857",
+      "yearShown": "1857",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "福楼拜《包法利夫人》写爱玛对爱情、奢华与另一种生活的向往。沃比萨尔城堡的社交体验加深了她对自身生活的比较，华丽室内成为欲望与落差的参照。",
+      "selectionReason": "它使座位具有观看与比较的意味：同处华丽室内未必等于属于其中，观看他人生活的位置本身，也会显露阶层距离。",
+      "keywords": [
+        "观看位置",
+        "身份展示",
+        "社交距离",
+        "空间门槛"
+      ],
+      "sources": [
+        {
+          "title": "《包法利夫人》（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/ebooks/2413"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B14",
+      "title": "会客厅（drawing room）",
+      "englishTitle": "The Drawing Room",
+      "author": "简·奥斯汀",
+      "authorEnglish": "Jane Austen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1813",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Jane Austen",
+      "source": "简·奥斯汀《傲慢与偏见》（1813）",
+      "year": "1813",
+      "yearShown": "1813",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "简·奥斯汀《傲慢与偏见》通过拜访、谈话与婚姻选择，刻画英国乡绅社会。会客厅是观察礼貌、性格和经济地位的日常场所，人物也在交往中修正判断。",
+      "selectionReason": "请坐、陪谈与彼此注视，让座位成为认识他人的起点。它适合呈现正式待客怎样逐步转为亲近，也怎样保留社交距离。",
+      "keywords": [
+        "待客礼仪",
+        "社交距离",
+        "目光回应",
+        "共同停留"
+      ],
+      "sources": [
+        {
+          "title": "《傲慢与偏见》（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/ebooks/1342"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B20",
+      "title": "伍尔顿庄园会客厅",
+      "englishTitle": "Drawing Room at the Manor House, Woolton",
+      "author": "奥斯卡·王尔德",
+      "authorEnglish": "Oscar Wilde",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1895",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Oscar Wilde",
+      "source": "奥斯卡·王尔德\n《不可儿戏》, 1895",
+      "year": "",
+      "yearShown": "1895",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "王尔德《不可儿戏》用假名、婚约与身世误会讽刺上流礼俗。伍尔顿庄园的会客厅是人物汇合的室内场景，轻快对话里不断显出阶层与婚姻资格的审查。",
+      "selectionReason": "体面的会客安排为机锋与试探提供舞台。坐下交谈看似轻松，谁有资格进入婚姻与社交圈，却仍由身份判断支配。",
+      "keywords": [
+        "待客礼仪",
+        "身份展示",
+        "社交距离",
+        "空间门槛"
+      ],
+      "sources": [
+        {
+          "title": "《不可儿戏》原文及场景表（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/844/844-h/844-h.htm"
+        }
+      ],
+      "originalRecord": {
+        "title": "维多利亚乡间宅邸客厅（原文 morning-room/drawing-room）",
+        "source": "奥斯卡·王尔德\n《不可儿戏》, 1895",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-B21",
+      "title": "罗马沙龙客厅（奥斯蒙德宅邸接待厅）",
+      "englishTitle": "The Roman Salon of Gilbert Osmond",
+      "author": "亨利·詹姆斯",
+      "authorEnglish": "Henry James",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1881",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Henry James",
+      "source": "亨利·詹姆斯《一位女士的画像》, 1881",
+      "year": "1881",
+      "yearShown": "1881",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "亨利·詹姆斯《一位女士的画像》追随伊莎贝尔对自由与婚姻的选择。奥斯蒙德的罗马居所把鉴赏、体面和控制联系起来，接待厅也容纳着她对关系的辨认。",
+      "selectionReason": "精致的会客空间可以同时提供接近与约束。座位间的目光、沉默和停留，使审美品味背后的婚姻权力有了可感的距离。",
+      "keywords": [
+        "身份展示",
+        "目光回应",
+        "私人边界",
+        "共同停留"
+      ],
+      "sources": [
+        {
+          "title": "《一位女士的画像》下卷原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/2834/2834-h/2834-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B24",
+      "title": "克拉丽莎·达洛维家 drawing-room（客厅宴会厅）",
+      "englishTitle": "Clarissa Dalloway's Drawing Room",
+      "author": "弗吉尼亚·伍尔芙",
+      "authorEnglish": "Virginia Woolf",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1925",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Virginia Woolf",
+      "source": "弗吉尼亚·伍尔芙《达洛维夫人》 1925",
+      "year": "",
+      "yearShown": "1925",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "伍尔芙《达洛维夫人》沿着克拉丽莎筹办聚会的一天，串联伦敦生活与个人回忆。家中的会客空间承接宾客相遇，也映照女主人对于联结和孤独的感受。",
+      "selectionReason": "聚会把不同人生暂时汇入同一处客厅。座位与停留位置适合观察主人如何促成联结，以及热闹之中仍然存在的个人距离。",
+      "keywords": [
+        "共同停留",
+        "待客礼仪",
+        "社交距离",
+        "座位重组"
+      ],
+      "sources": [
+        {
+          "title": "《达洛维夫人》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/71865/71865-h/71865-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B25",
+      "title": "旅途客栈的座敷",
+      "englishTitle": "Guest Rooms at Inns Along the Journey",
+      "author": "川端康成",
+      "authorEnglish": "Yasunari Kawabata",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1926",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Yasunari Kawabata",
+      "source": "川端康成《伊豆的舞女》1926",
+      "year": "",
+      "yearShown": "1926",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "川端康成《伊豆的舞女》写青年旅人与巡回艺人相遇的旅程。旅宿中的交谈与短暂相处，使好奇、羞涩和善意在陌生人的关系间流动，也映出身份差异。",
+      "selectionReason": "旅宿让并不熟悉的人短暂共享室内。席地停留与交谈的位置，能够呈现观看、接近和礼数怎样调节初识者之间的距离。",
+      "keywords": [
+        "共同停留",
+        "观看位置",
+        "待客礼仪",
+        "社交距离"
+      ],
+      "sources": [
+        {
+          "title": "汤本馆官网：川端康成与写作地",
+          "url": "https://www.yumotokan-izu2019.com/yumotokan"
+        },
+        {
+          "title": "静冈县官方旅游指南：《伊豆的舞女》与福田家",
+          "url": "https://hellonavi.jp/spot/1157"
+        }
+      ],
+      "originalRecord": {
+        "title": "汤本馆 / 木赁宿的「お座敷」（宴会厅房）",
+        "source": "川端康成《伊豆的舞女》1926",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-B27",
+      "title": "河街船总顺顺家「吊脚楼」（临窗看龙舟的楼厅）",
+      "englishTitle": "Shunshun's Riverside Stilt House",
+      "author": "沈从文",
+      "authorEnglish": "Shen Congwen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1934",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Shen Congwen",
+      "source": "沈从文《边城》1934",
+      "year": "",
+      "yearShown": "1934",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "沈从文《边城》把翠翠的成长与湘西水边社会的人情联系起来。顺顺一家连接航运、邻里和婚恋往来，临河楼厅也把家中的待客引向外部的节日生活。",
+      "selectionReason": "临窗的位置把待客与共同观看连接起来。人们面向同一处外景时，短暂形成共享经验，座位也成为进入地方人情的媒介。",
+      "keywords": [
+        "观看位置",
+        "共同停留",
+        "待客礼仪",
+        "共用空间"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B29",
+      "title": "鲁四老爷家堂屋",
+      "englishTitle": "Fourth Uncle Lu's Main Hall",
+      "author": "鲁迅",
+      "authorEnglish": "Lu Xun",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1924",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lu Xun",
+      "source": "鲁迅《祝福》1924",
+      "year": "1924",
+      "yearShown": "1924",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "鲁迅《祝福》通过祥林嫂的遭遇揭示礼教与社会排斥。鲁四老爷家的堂屋连接年节仪式和家庭权威，整齐的礼俗秩序与她逐渐失去的位置形成冷峻对照。",
+      "selectionReason": "堂屋提醒人们，进入共同空间并不等于被接纳。谁有权坐定、谁只能在旁服侍，使座位成为观察礼俗与排斥的切入口。",
+      "keywords": [
+        "座次秩序",
+        "空间门槛",
+        "身份展示",
+        "社交距离"
+      ],
+      "sources": [
+        {
+          "title": "鲁迅《祝福》公版文本（维基文库）",
+          "url": "https://zh.wikisource.org/wiki/祝福"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B30",
+      "title": "杨宅",
+      "englishTitle": "The Yang Residence",
+      "author": "老舍",
+      "authorEnglish": "Lao She",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1936",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lao She",
+      "source": "老舍《骆驼祥子》1936",
+      "year": "1936",
+      "yearShown": "1936",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "老舍《骆驼祥子》写人力车夫祥子谋求独立生活的愿望及其破灭。杨宅是他劳动经历中的一处雇主家庭，家中的日常需求显出雇佣双方不同的生活位置。",
+      "selectionReason": "主人能够安坐的日常依赖他人的奔忙。把杨宅放入座具主题，可以从休息资格与服务关系，观察同一屋檐下的不平等。",
+      "keywords": [
+        "身体姿态",
+        "日常习惯",
+        "身份展示",
+        "空间门槛"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B33",
+      "title": "窦公馆客厅",
+      "englishTitle": "The Dou Residence",
+      "author": "白先勇",
+      "authorEnglish": "Pai Hsien-yung",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1966",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Pai Hsien-yung",
+      "source": "白先勇《游园惊梦》1966",
+      "year": "1966",
+      "yearShown": "1966",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "白先勇《游园惊梦》借钱夫人赴窦公馆宴饮，将眼前社交与往昔记忆交错展开。客厅的热闹牵动身世与旧情，人与人的称呼、礼数都带着时间留下的层次。",
+      "selectionReason": "公馆的聚坐把旧交情重新放入眼前的身份关系。共同停留既延续熟悉感，也让人感到自己在旧圈子中的位置已经变化。",
+      "keywords": [
+        "共同停留",
+        "身份展示",
+        "待客礼仪",
+        "社交距离"
+      ],
+      "sources": [
+        {
+          "title": "香港中文大学出版社：《臺北人》",
+          "url": "https://cup.cuhk.edu.hk/index.php?product_id=685&route=product%2Fproduct"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B34",
+      "title": "庄之蝶家客厅",
+      "englishTitle": "Zhuang Zhidie's Living Room",
+      "author": "贾平凹",
+      "authorEnglish": "Jia Pingwa",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1993",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Jia Pingwa",
+      "source": "贾平凹《废都》1993",
+      "year": "1993",
+      "yearShown": "1993",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "贾平凹《废都》以庄之蝶等人的都市生活，展开名望、欲望与文化处境的纠葛。作家家中的客厅连接私人情感和外部往来，日常会面也带着声名造成的压力。",
+      "selectionReason": "文人的居所也可能成为围绕名望运转的会客场。座位让来访、陪坐与靠近发生在私人空间，凸显主人身份与边界的交涉。",
+      "keywords": [
+        "身份展示",
+        "待客礼仪",
+        "私人边界",
+        "共同停留"
+      ],
+      "sources": [
+        {
+          "title": "华北理工大学数字图书馆：《废都》书籍信息",
+          "url": "https://se.zhangyue.com/book/detail?appId=d4229492&bookId=12609743&bookType=1"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B35",
+      "title": "老屋堂屋",
+      "englishTitle": "The Main Hall of the Old House",
+      "author": "鲁迅",
+      "authorEnglish": "Lu Xun",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1921",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lu Xun",
+      "source": "鲁迅《故乡》1921",
+      "year": "1921",
+      "yearShown": "1921",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "鲁迅《故乡》由返乡与搬家的经历，展开童年记忆和现实隔阂。老屋里的重逢把闰土等故人带回眼前，昔日亲近与今日身份距离在熟悉空间中彼此映照。",
+      "selectionReason": "旧屋并不会自动恢复旧日关系。重逢时能否自然坐近、平等相谈，使座位成为理解记忆、身份与疏离怎样交织的线索。",
+      "keywords": [
+        "物件记忆",
+        "社交距离",
+        "共同停留",
+        "身份展示"
+      ],
+      "sources": [
+        {
+          "title": "鲁迅《故乡》公版文本（维基文库）",
+          "url": "https://zh.wikisource.org/zh-hans/故乡"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B36",
+      "title": "马尼洛夫家客厅",
+      "englishTitle": "Manilov's Living Room",
+      "author": "尼古拉·果戈理",
+      "authorEnglish": "Nikolai Gogol",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1842",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Nikolai Gogol",
+      "source": "果戈理《死魂灵》1842",
+      "year": "1842",
+      "yearShown": "1842",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "果戈理《死魂灵》通过乞乞科夫拜访地主的经历讽刺俄国社会。马尼洛夫家中的招待充满客套与亲热的姿态，表面的友善和空洞的生活趣味彼此映衬。",
+      "selectionReason": "过分周到的请坐与陪谈可以成为关系表演。它提示座位除了提供休息，也能够制造亲密的外观，遮住双方真正的目的。",
+      "keywords": [
+        "待客礼仪",
+        "身体姿态",
+        "社交距离",
+        "身份展示"
+      ],
+      "sources": [
+        {
+          "title": "《死魂灵》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/1081/1081-h/1081-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B37",
+      "title": "葛朗台家堂屋",
+      "englishTitle": "The Grandet Family's Main Hall",
+      "author": "奥诺雷·德·巴尔扎克",
+      "authorEnglish": "Honoré de Balzac",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1833",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Honoré de Balzac",
+      "source": "巴尔扎克《欧也妮·葛朗台》1833",
+      "year": "1833",
+      "yearShown": "1833",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "巴尔扎克《欧也妮·葛朗台》把家庭情感置于财富与占有欲的控制之下。葛朗台家的厅堂连着日常起居和来客往还，看似朴素的生活背后是严密的金钱秩序。",
+      "selectionReason": "一家人共用室内，并不意味着同样有权安排生活。围桌、就坐与节制的日常，能让财产权力如何支配家庭关系变得可见。",
+      "keywords": [
+        "家庭围坐",
+        "共用桌面",
+        "日常习惯",
+        "座次秩序"
+      ],
+      "sources": [
+        {
+          "title": "《欧也妮·葛朗台》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/1715/1715-h/1715-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B38",
+      "title": "拉莫尔侯爵府沙龙",
+      "englishTitle": "The Marquis de La Mole's Salon",
+      "author": "司汤达",
+      "authorEnglish": "Stendhal",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1830",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Stendhal",
+      "source": "司汤达《红与黑》1830",
+      "year": "1830",
+      "yearShown": "1830",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "司汤达《红与黑》追随于连在阶层社会中的追求与矛盾。拉莫尔侯爵府的沙龙把贵族礼俗和社交判断集中起来，成为他观察上流生活、寻求位置的一处场所。",
+      "selectionReason": "沙龙使坐在一起仍有等级差别。新人怎样进入谈话、获得注视，与主人如何分配接近的机会，共同显出社交中的门槛。",
+      "keywords": [
+        "空间门槛",
+        "身份展示",
+        "社交距离",
+        "目光回应"
+      ],
+      "sources": [
+        {
+          "title": "《红与黑》（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/ebooks/44747"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B39",
+      "title": "塞利梅纳的沙龙",
+      "englishTitle": "Célimène's Salon",
+      "author": "莫里哀",
+      "authorEnglish": "Molière",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1666",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Molière",
+      "source": "莫里哀《恨世者》1666",
+      "year": "1666",
+      "yearShown": "1666",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "莫里哀《恨世者》把阿尔赛斯特的直率与塞利梅纳的社交方式放在冲突中。围绕她展开的来访和谈话，使沙龙成为真诚、讨好与名誉相互较量的场所。",
+      "selectionReason": "同一处聚坐可以容纳朋友、追求者和相互评判的人。座位间的关注与回应，让亲密的表示和社交表演之间保持不确定性。",
+      "keywords": [
+        "目光回应",
+        "社交距离",
+        "共同停留",
+        "身份展示"
+      ],
+      "sources": [
+        {
+          "title": "《恨世者》原文（维基文库）",
+          "url": "https://en.wikisource.org/wiki/The_Misanthrope_(Moli%C3%A8re)"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B42",
+      "title": "温德米尔勋爵家的客厅",
+      "englishTitle": "Lord Windermere's Drawing Room",
+      "author": "奥斯卡·王尔德",
+      "authorEnglish": "Oscar Wilde",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1892",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Oscar Wilde",
+      "source": "王尔德《温夫人的扇子》\n1892",
+      "year": "1892",
+      "yearShown": "1892",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "王尔德《温夫人的扇子》借婚姻猜疑、社交名誉与身份秘密展开喜剧。温德米尔家的客厅是体面生活向外展示的界面，来访者的言谈不断改变人物的判断。",
+      "selectionReason": "家中的请坐与会面把私人关系放进社交目光。座位适合呈现礼貌如何容纳试探，以及名誉压力怎样限制亲近与信任。",
+      "keywords": [
+        "待客礼仪",
+        "身份展示",
+        "社交距离",
+        "目光回应"
+      ],
+      "sources": [
+        {
+          "title": "《温夫人的扇子》原文（Project Gutenberg）",
+          "url": "https://m.gutenberg.org/files/790/790-h/790-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B43",
+      "title": "荣国府正厅",
+      "englishTitle": "The Main Hall of Rongguo House",
+      "author": "曹雪芹",
+      "authorEnglish": "Cao Xueqin",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1740",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Cao Xueqin",
+      "source": "曹雪芹《红楼梦》（清乾隆年间，约1740s–1760s）",
+      "year": "1740",
+      "yearShown": "1740",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "曹雪芹《红楼梦》以贾府的盛衰与人物情感，细写家族社会的日常。荣国府的厅堂连着正式礼仪和身份秩序，座次、迎送与称谓共同标示家内外的关系。",
+      "selectionReason": "厅堂中的位置不是随意选择。主客、长幼与亲疏通过就坐次序被反复确认，使座具成为家族礼法与关系结构的具体载体。",
+      "keywords": [
+        "座次秩序",
+        "待客礼仪",
+        "身份展示",
+        "空间门槛"
+      ],
+      "sources": [
+        {
+          "title": "《红楼梦》公版文本（维基文库）",
+          "url": "https://zh.wikisource.org/wiki/紅樓夢"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B45",
+      "title": "苏文纨的客厅沙龙",
+      "englishTitle": "Su Wenwan's Salon",
+      "author": "钱钟书",
+      "authorEnglish": "Qian Zhongshu",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1947",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Qian Zhongshu",
+      "source": "钱钟书《围城》（1947）",
+      "year": "1947",
+      "yearShown": "1947",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "钱钟书《围城》以讽刺笔法描摹知识人的爱情、婚姻和社交困境。苏文纨的客厅聚集谈笑与评价，文化趣味的展示常与情感试探、优越感和彼此竞争交织。",
+      "selectionReason": "围坐交谈提供了展示才识和试探情感的机会。座位使距离足够亲近，却仍容许礼貌与机锋在彼此之间维持缓冲。",
+      "keywords": [
+        "共同停留",
+        "身份展示",
+        "目光回应",
+        "社交距离"
+      ],
+      "sources": [
+        {
+          "title": "西北大学现代学院：浅议《围城》中的空间意象",
+          "url": "https://www.xdxd.cn/jxtd/jgyd/jlyd/2023-11-30/57186.html"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B48",
+      "title": "维尔迪兰夫人的沙龙",
+      "englishTitle": "Madame Verdurin's Salon",
+      "author": "马塞尔·普鲁斯特",
+      "authorEnglish": "Marcel Proust",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1913",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Marcel Proust",
+      "source": "普鲁斯特《追忆似水年华》（1913起）",
+      "year": "1913",
+      "yearShown": "1913",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "普鲁斯特《追忆似水年华》通过回忆、爱情和社交观察追索时间。维尔迪兰夫人的小圈子以共同趣味凝聚来客，也用默契与排他性不断划分归属和距离。",
+      "selectionReason": "反复相聚让座位获得圈内人的熟悉感，也形成进入圈子的条件。共同停留既生产亲密，也能维持一套隐含的接纳规则。",
+      "keywords": [
+        "共同停留",
+        "身份展示",
+        "社交距离",
+        "空间门槛"
+      ],
+      "sources": [
+        {
+          "title": "《追忆似水年华·在斯万家那边》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/7178/7178-h/7178-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C15",
+      "title": "世界文学客厅",
+      "englishTitle": "The World Literature Living Room",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2022",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The World Literature Living Room",
+      "source": "中国日报网江苏频道 2022《让\"文学之都\"可感可知 南京文学客厅开启文学浪漫夜》",
+      "year": "",
+      "yearShown": "2022",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "南京世界文学客厅于2022年开放，以院落、展览与文学活动连接城市读者。所配入口图把“客厅”写在面向街区的界面上，呼应中国日报网所报道的文学公共空间实践。",
+      "selectionReason": "它把待客从家庭扩展到城市：一道入口、一处可坐下的庭院和共同阅读的理由，能够让陌生人获得停留的位置。",
+      "keywords": [
+        "待客礼仪",
+        "空间门槛",
+        "共同停留",
+        "共用空间"
+      ],
+      "sources": [
+        {
+          "title": "中国日报网：“文学之都”南京打造“世界文学客厅”",
+          "url": "https://js.chinadaily.com.cn/a/202204/25/WS626614a0a3101c3ee7ad2477.html"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C17",
+      "title": "城市客厅（公共空间构想）",
+      "englishTitle": "The City as a Living Room",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2021",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The City as a Living Room",
+      "source": "城市公共空间构想；澎湃新闻2021年前海城市客厅报道为主题参照",
+      "year": "2021",
+      "yearShown": "2021",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "这组公共空间构想把绿化、坡道与廊架连成城市的接待网络。穿行路径与可停留的边缘彼此交织，让原本分散的公共活动获得一处可以共同使用的场所。",
+      "selectionReason": "坡道与平台先安排人怎样抵达、相遇和驻足，再决定座位可以放在哪里，为沙发之外的公共相处提供空间线索。",
+      "keywords": [
+        "空间门槛",
+        "共同停留",
+        "共用空间"
+      ],
+      "sources": [
+        {
+          "title": "澎湃新闻：一座世界级的“城市客厅”，如何叠加前海的未来",
+          "url": "https://www.thepaper.cn/newsDetail_forward_11017267"
+        }
+      ],
+      "originalRecord": {
+        "title": "城市客厅 群展",
+        "source": "澎湃新闻《深圳表情｜一座世界级的“城市客厅”，如何叠加前海的未来》2021",
+        "year": "2021"
+      }
+    },
+    {
+      "id": "M-D2",
+      "title": "园景中的公共停留面（参考图）",
+      "englishTitle": "Places to Pause in a Garden",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Places to Pause in a Garden",
+      "source": "园景与公共休憩面",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "草坡、树木与建筑之间铺设着弯曲的公共休憩面。行走路径和停留位置相互交织，使座具从一件独立家具延伸为连接庭院与建筑的连续界面。",
+      "selectionReason": "长椅式边缘将座位融进地形，人可以沿着曲线选择靠近或分开；它为多人共处而不必交谈提供了尺度参照。",
+      "keywords": [
+        "共同停留",
+        "社交距离",
+        "共用空间",
+        "座位重组"
+      ],
+      "sources": [],
+      "originalRecord": {
+        "title": "武汉华润光谷润璟",
+        "source": "路易·康（Louis Kahn）",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-D6",
+      "title": "沙龙与咖啡馆",
+      "englishTitle": "The Salon and the Café",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Salon and the Café",
+      "source": "哈贝马斯《公共领域的结构转型》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "本条以哈贝马斯《公共领域的结构转型》中的沙龙与咖啡馆讨论为思想参照。配图表现店面外并排落座的人，借具体坐席观察私人交谈怎样与街道上的公共生活相接。",
+      "selectionReason": "一张面向街道的长凳可以同时支持同伴交谈和观看路人；座位的朝向把封闭小圈子与开放公共界面连接起来。",
+      "keywords": [
+        "并坐亲密",
+        "目光回应",
+        "观看位置",
+        "共用空间"
+      ],
+      "sources": [
+        {
+          "title": "MIT Press：The Structural Transformation of the Public Sphere",
+          "url": "https://mitpress.mit.edu/9780262581080/the-structural-transformation-of-the-public-sphere/"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D9",
+      "title": "宜家展间",
+      "englishTitle": "An IKEA Showroom",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "An IKEA Showroom",
+      "source": "宜家《家居生活报告》与样板间心理学",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "宜家展间以组合家具模拟可想象的居家场景，本条同时参照宜家《家居生活报告》对物件、空间与关系的研究。所配商场与展示室图像强调“看见一种生活”的过程。",
+      "selectionReason": "样板座位预先安排坐姿、朝向和物件距离，来访者可以短暂试坐，却仍需把这种安排与自己的生活习惯重新对照。",
+      "keywords": [
+        "观看位置",
+        "身体姿态",
+        "身份展示",
+        "日常习惯"
+      ],
+      "sources": [
+        {
+          "title": "IKEA Museum：Life at home becomes an exhibition",
+          "url": "https://ikeamuseum.com/en/about/press-room/what-makes-a-home/"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D12 ",
+      "title": "共享室内坐席（参考图）",
+      "englishTitle": "Seats in a Shared Interior",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Seats in a Shared Interior",
+      "source": "共享室内坐席",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "桌椅密集的共享室内把不同人的停留编织到同一片空间。相邻桌面、可移动的椅子与交错的通道，呈现公共坐席怎样同时容纳交谈、等待与独处。",
+      "selectionReason": "通行处若能容纳适当停留，就可能产生反复相见的邻里关系；座位与通道之间的余量因此和椅子本身同样关键。",
+      "keywords": [
+        "空间门槛",
+        "共同停留",
+        "共用空间",
+        "社交距离"
+      ],
+      "sources": [
+        {
+          "title": "丰台时报：小楼门承载大文明 微更新绘就新画卷",
+          "url": "https://www.bjft.gov.cn/fengtaishibao/html/2026-06/03/content_9503_19588995.htm"
+        }
+      ],
+      "originalRecord": {
+        "title": "楼道公共客厅",
+        "source": "北京市丰台区政府《小楼门承载大文明 微更新绘就新画卷》",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-D16",
+      "title": "未装修的空置客厅（梦核/后室美学）",
+      "englishTitle": "The Unfinished Empty Living Room",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Unfinished Empty Living Room",
+      "source": "百度百科《阈限空间》（Liminal Space，2019起，4chan/Reddit）",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "通道、商场与空房间构成一组尚待使用的室内景象。阈限空间与后室美学把熟悉的建筑尺度转成陌生体验，使空置本身成为观看的中心。",
+      "selectionReason": "当熟悉的空间缺少可安心落座的位置，停留便变得犹疑；它从座位的缺席反问客厅如何建立归属与私人边界。",
+      "keywords": [
+        "空间门槛",
+        "个人领地",
+        "私人边界",
+        "观看位置"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D18",
+      "title": "古希腊 andron（男人会饮厅)",
+      "englishTitle": "The Ancient Greek Andron",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Ancient Greek Andron",
+      "source": "柏拉图《会饮篇》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "古希腊会饮常在住宅的andron中举行，男性宾客倚卧于沿墙布置的卧榻，饮酒并交谈。本条以柏拉图《会饮篇》为文本参照，配图为会饮题材绘画，而非遗址实拍。",
+      "selectionReason": "卧榻把身体放松、面对他人与身份准入放在同一套布局中，让沙发作为关系规则的历史延伸变得可见。",
+      "keywords": [
+        "围合座位",
+        "身体姿态",
+        "座次秩序",
+        "待客礼仪"
+      ],
+      "sources": [
+        {
+          "title": "Acropolis Museum：House Θ",
+          "url": "https://emfc.gr/en/node/16452"
+        },
+        {
+          "title": "The Metropolitan Museum of Art：The Symposium in Ancient Greece",
+          "url": "https://www.metmuseum.org/ko/essays/the-symposium-in-ancient-greece"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D19-guest",
+      "title": "门洞后的坐席（绘画参考图）",
+      "englishTitle": "Seating Beyond a Doorway",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Seating Beyond a Doorway",
+      "source": "门洞后的坐席；室内绘画参考",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "门洞框住织物、地毯与低坐席，让观者从外侧望见人物活动。明暗分隔与层叠的软面，把一个可坐下的角落同时变成展示与遮蔽的空间。",
+      "selectionReason": "门洞让座位与来访者之间多了一层观看距离；即使家具柔软可亲，能否跨入、坐下与加入仍由空间门槛决定。",
+      "keywords": [
+        "空间门槛",
+        "视线遮挡",
+        "观看位置",
+        "待客礼仪"
+      ],
+      "sources": [],
+      "originalRecord": {
+        "title": "中东/南亚经典客厅",
+        "source": "主要聚焦沙特阿拉伯、卡塔尔，阿曼等地区的经典客厅文化",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-D38",
+      "title": "帆船沙龙舱",
+      "englishTitle": "The Saloon of a Sailing Boat",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Saloon of a Sailing Boat",
+      "source": "知乎《帆船上的生活空间设计》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "帆船沙龙舱一条以知乎船上生活空间设计文章为参照。所配艇上室内将软垫座席、餐桌与相邻休息面压缩在有限宽度中，展示移动居所如何组合共用功能。",
+      "selectionReason": "船舱里的相处无法只靠扩大距离调节；桌面、座席边缘与可通行的缝隙，共同分配同伴靠近和各自休息的余地。",
+      "keywords": [
+        "共用桌面",
+        "围合座位",
+        "多用座具",
+        "社交距离"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D39",
+      "title": "屋顶露台空中客厅",
+      "englishTitle": "The Roof Terrace as a Living Room",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Roof Terrace as a Living Room",
+      "source": "人民网上海《打造“城市空中会客厅”》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "屋顶露台在城市天际线前安排桌椅与绿植，把室外景观转成可坐下停留的共同视野。建筑的上方由此成为接待朋友、休憩与共享风景的另一间客厅。",
+      "selectionReason": "景色为陌生人提供了共同观看的对象，分散座椅又允许各自停留；客厅关系可以由同看一座城市开始。",
+      "keywords": [
+        "观看位置",
+        "共同停留",
+        "共用空间",
+        "社交距离"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D40",
+      "title": "售楼处样板房",
+      "englishTitle": "The Real-Estate Show Home",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Real-Estate Show Home",
+      "source": "知乎《样板房客厅效果图设计需要考虑的几个方面》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "整洁的起居室由沙发、单椅、茶几与装饰物构成预先完成的生活图景。统一材质和相互朝向的座位，把“在这里生活”的想象呈现在来访者面前。",
+      "selectionReason": "陈设在有人入住前就演示了理想的待客方式；它让人观察座位怎样通过距离、对称与物件传递一种身份想象。",
+      "keywords": [
+        "身份展示",
+        "待客礼仪",
+        "观看位置",
+        "座次秩序"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D46",
+      "title": "公园相亲角",
+      "englishTitle": "The Matchmaking Corner of a Park",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Matchmaking Corner of a Park",
+      "source": "露天客厅",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "所供公园相亲角照片将成排个人信息与驻足交谈的人并置，原资料以“露天客厅”概括这一场景。照片地点与日期未标明，这里关注的是公共场所中的介绍与会面方式。",
+      "selectionReason": "即使没有沙发，信息展示和停留位置也能组成社交场；谁靠近谁、在哪一条边界交谈，仍是座位关系的延伸。",
+      "keywords": [
+        "身份展示",
+        "社交距离",
+        "共同停留",
+        "私人边界"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D49",
+      "title": "机舱与高铁车厢",
+      "englishTitle": "The Aircraft Cabin and the Train Carriage",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Aircraft Cabin and the Train Carriage",
+      "source": "移动中的临时客厅",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "飞机客舱把互不相识的人安排在一段旅程里的持续近邻位置。排座、过道与行李空间规定了身体怎样靠近，也使等待、交谈与休息共享同一片有限空间。",
+      "selectionReason": "固定座位使接近成为条件而非选择，扶手、朝向和通道因此承担边界作用，帮助陌生人维持可接受的共处距离。",
+      "keywords": [
+        "社交距离",
+        "私人边界",
+        "身体姿态",
+        "共同停留"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-O1",
+      "title": "岩洞中的粉色座具（参考图）",
+      "englishTitle": "Pink Seating in a Rocky Setting",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Pink Seating in a Rocky Setting",
+      "source": "岩洞与粉色软体座具",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "客",
+      "values": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "background": "粉色软体座具被放在粗粝岩石与水边，形成材质和场所的鲜明对照。柔软的人造表面与天然洞穴彼此映衬，让客厅家具成为一种意外出现的亲近邀请。",
+      "selectionReason": "一件座具被移出房间后，仍能提示身体倚靠的位置；它追问沙发能否仅凭柔软与轮廓，就临时划出个人领地。",
+      "keywords": [
+        "倚靠放松",
+        "个人领地",
+        "身体姿态",
+        "观看位置"
+      ],
+      "sources": [],
+      "originalRecord": {
+        "title": "《Dream House》",
+        "source": "格雷戈里·克鲁德森，《纽约时报》委托，2002",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-A3",
+      "title": "《音乐课》",
+      "englishTitle": "The Music Lesson",
+      "author": "扬·维米尔",
+      "authorEnglish": "Johannes Vermeer",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1662–65",
+      "dateLabel": "DATE",
+      "slidingLabel": "Johannes Vermeer",
+      "source": "扬·维米尔 · 约1662–65",
+      "year": "约1662–65",
+      "yearShown": "1662",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "维米尔的《音乐课》把两个人物安置在明亮房间的深处。键盘乐器、镜子、前景桌面与地砖共同拉开观看距离，音乐活动被放入严整而安静的室内秩序。",
+      "selectionReason": "共同活动可以让人靠近，也能保留恰好的距离。画面以桌面和空地安排观看路径，为沙发主题提供了相伴而不必贴近的关系。",
+      "keywords": [
+        "社交距离",
+        "共用空间",
+        "观看位置"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A7",
+      "title": "《打破的水罐》（据格瑞兹原作的版画）",
+      "englishTitle": "The Broken Pitcher (print after Jean-Baptiste Greuze)",
+      "author": "据让-巴蒂斯特·格瑞兹原作",
+      "authorEnglish": "After Jean-Baptiste Greuze",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "After Jean-Baptiste Greuze",
+      "source": "据让-巴蒂斯特·格瑞兹原作制作的版画",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "格瑞兹《打破的水罐》的复制版画描绘一位携着破损器皿的少女。椭圆构图、喷泉与细密的刻线将她的站姿凝聚在画面中心，器物的损伤也成为人物表情之外的线索。",
+      "selectionReason": "人物握持器物的姿态与直面观者的目光，使身体如何被观看成为重点。它为沙发主题补充了停留、暴露与私人边界的另一种关系。",
+      "keywords": [
+        "身体姿态",
+        "观看位置",
+        "私人边界"
+      ],
+      "sources": [
+        {
+          "title": "卢浮宫｜La Cruche cassée，油画原作",
+          "url": "https://collections.louvre.fr/en/ark:/53355/cl010059258"
+        },
+        {
+          "title": "巴黎市立博物馆｜La Cruche cassée d’après Greuze，Jean Massard，1773",
+          "url": "https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/la-cruche-cassee-d-apres-greuze"
+        }
+      ],
+      "originalRecord": {
+        "title": "《打破的水罐》",
+        "source": "让-巴蒂斯特·格瑞兹 · 1761",
+        "year": "1761"
+      }
+    },
+    {
+      "id": "M-A8",
+      "title": "《室内》",
+      "englishTitle": "Interior",
+      "author": "埃德加·德加",
+      "authorEnglish": "Edgar Degas",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1868–69",
+      "dateLabel": "DATE",
+      "slidingLabel": "Edgar Degas",
+      "source": "埃德加·德加 · 约1868–69",
+      "year": "约1868–69",
+      "yearShown": "1868",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "熟透",
+        "agency": "旁观"
+      },
+      "background": "德加约1868至1869年的《室内》以昏暗房间里的两个人物构成紧张场面。床、桌、灯与两端分开的身体形成封闭结构，画面没有交代两人之间完整的故事。",
+      "selectionReason": "同处一室并不意味着亲密：家具之间的空隙和背离的身体反而制造压力。它让沙发主题关注共享空间中的疏离与私人边界。",
+      "keywords": [
+        "社交距离",
+        "私人边界",
+        "身体姿态",
+        "共用空间"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A9",
+      "title": "《亲密》",
+      "englishTitle": "Intimité (Intimacy)",
+      "author": "皮埃尔·博纳尔",
+      "authorEnglish": "Pierre Bonnard",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1891",
+      "dateLabel": "DATE",
+      "slidingLabel": "Pierre Bonnard",
+      "source": "皮埃尔·博纳尔 · 1891",
+      "year": "1891",
+      "yearShown": "1891",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "博纳尔1891年的《亲密》描绘作曲家克洛德·泰拉斯及其妻子、画家的妹妹安德烈。烟斗、暗处的侧脸与壁饰彼此交织，将亲友相处压缩成温暖而幽微的室内片段。",
+      "selectionReason": "亲密在这里来自共同停留的习惯，而不是正面交谈。叠合的身体与烟雾让沙发主题看见，熟悉关系如何藏在微小的日常动作里。",
+      "keywords": [
+        "共同停留",
+        "日常习惯",
+        "社交距离"
+      ],
+      "sources": [
+        {
+          "title": "奥赛博物馆｜Pierre Bonnard, Intimité, 1891",
+          "url": "https://www.musee-orsay.fr/fr/oeuvres/intimite-69322"
+        }
+      ],
+      "originalRecord": {
+        "title": "《亲密》",
+        "source": "皮埃尔·博纳尔 · 约1912",
+        "year": "约1912"
+      }
+    },
+    {
+      "id": "M-A13",
+      "title": "《有肖像的室内景》",
+      "englishTitle": "Interior with a Portrait",
+      "author": "托马斯·勒·克利尔",
+      "authorEnglish": "Thomas Le Clear",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1865",
+      "dateLabel": "DATE",
+      "slidingLabel": "Thomas Le Clear",
+      "source": "托马斯·勒·克利尔约1865年",
+      "year": "1865",
+      "yearShown": "1865",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "托马斯·勒·克利尔约1865年的《有肖像的室内景》把儿童与摄影装置放在布满绘画的室内。画中画、摄影师和摆姿人物，使房间同时成为生活形象与形象生产的现场。",
+      "selectionReason": "被布置的房间决定了人物如何站立、如何被看见。它让沙发主题延伸到室内陈设作为自我展示的背景，以及观看者所占据的位置。",
+      "keywords": [
+        "身份展示",
+        "观看位置",
+        "身体姿态"
+      ],
+      "sources": [
+        {
+          "title": "史密森尼美国艺术博物馆｜Interior with Portraits",
+          "url": "https://americanart.si.edu/artwork/interior-portraits-33492"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A16",
+      "title": "《纽约的房间》",
+      "englishTitle": "Room in New York",
+      "author": "爱德华·霍珀",
+      "authorEnglish": "Edward Hopper",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1932",
+      "dateLabel": "DATE",
+      "slidingLabel": "Edward Hopper",
+      "source": "爱德华·霍珀, 1932",
+      "year": "1932",
+      "yearShown": "1932",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "霍珀1932年的《纽约的房间》从窗外看向一对室内人物：男子低头读报，女子坐在钢琴旁。暖色墙面、桌子与两张座位把同一房间划成各自专注的小区域。",
+      "selectionReason": "两个人共享房间，却分别朝向不同活动。相邻座位之间的空白，使沙发主题能够讨论陪伴如何与沉默、个人领地同时存在。",
+      "keywords": [
+        "社交距离",
+        "个人领地",
+        "共同停留",
+        "日常习惯"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A19",
+      "title": "《室内，女性们站在亚麻柜旁》",
+      "englishTitle": "Interior with Women beside a Linen Cupboard",
+      "author": "彼得·德·霍赫",
+      "authorEnglish": "Pieter de Hooch",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1663",
+      "dateLabel": "DATE",
+      "slidingLabel": "Pieter de Hooch",
+      "source": "彼得·德·胡赫，1663",
+      "year": "1663",
+      "yearShown": "1663",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "德·胡赫1663年的这幅室内画以亚麻柜旁的女性为中心，把家务活动放入层层相通的房间。打开的柜门、手边织物和远处人物，使储物与家庭秩序变得可见。",
+      "selectionReason": "家庭空间的共享也发生在整理与取用物件的时候。它让沙发主题看见休息场景背后，维持共同生活的日常劳动和空间分配。",
+      "keywords": [
+        "日常习惯",
+        "共用空间",
+        "物件记忆",
+        "空间门槛"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A20",
+      "title": "《贝莱利一家》",
+      "englishTitle": "Portrait de famille (La famille Bellelli)",
+      "author": "埃德加·德加",
+      "authorEnglish": "Edgar Degas",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1858–1869",
+      "dateLabel": "DATE",
+      "slidingLabel": "Edgar Degas",
+      "source": "埃德加·德加 · 1858–1869",
+      "year": "1858–1869",
+      "yearShown": "1858",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "德加在这幅家庭肖像中描绘姑母劳拉、她的丈夫贝莱利男爵及两个女儿。母女的正面姿态与父亲侧坐的位置形成对照，家庭成员虽共处一室，却各有自己的重心。",
+      "selectionReason": "座椅朝向与站坐差异让关系被直接看见。它让沙发主题讨论家庭中的靠近、权威与疏离，提醒我们共处并不自动消除距离。",
+      "keywords": [
+        "座次秩序",
+        "家庭围坐",
+        "社交距离",
+        "身体姿态"
+      ],
+      "sources": [
+        {
+          "title": "奥赛博物馆｜Edgar Degas, Portrait de famille (La famille Bellelli)",
+          "url": "https://www.musee-orsay.fr/fr/oeuvres/portrait-de-famille-9998"
+        }
+      ],
+      "originalRecord": {
+        "title": "《贝利尼一家》",
+        "source": "埃德加·德加, 1858–1867",
+        "year": "1858"
+      }
+    },
+    {
+      "id": "M-A21",
+      "title": "《午餐前的祈祷》",
+      "englishTitle": "Prayer before Lunch",
+      "author": "让-巴蒂斯特-西梅翁·夏尔丹",
+      "authorEnglish": "Jean-Baptiste-Siméon Chardin",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1740",
+      "dateLabel": "DATE",
+      "slidingLabel": "Jean-Baptiste-Siméon Chardin",
+      "source": "沙尔丹，让·巴蒂斯特·西蒙，1740",
+      "year": "1740",
+      "yearShown": "1740",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "夏尔丹1740年的《午餐前的祈祷》把家庭教育放进简朴的用餐场景。成年女性俯向桌边孩子，桌布、餐具和孩子不同的坐姿，使一项日常仪式成为画面中心。",
+      "selectionReason": "围着同一张桌子，孩子学习的不只是动作，也包括共同生活的规矩。它让沙发主题从家庭围坐延伸到习惯如何在相处中传递。",
+      "keywords": [
+        "家庭围坐",
+        "共用桌面",
+        "日常习惯",
+        "身体姿态"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A22",
+      "title": "《内景、艺术家的母亲与姐妹》",
+      "englishTitle": "Interior with the Artist's Mother and Sister",
+      "author": "爱德华·维亚尔",
+      "authorEnglish": "Édouard Vuillard",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1893",
+      "dateLabel": "DATE",
+      "slidingLabel": "Édouard Vuillard",
+      "source": "爱德华·维亚尔，1893",
+      "year": "1893",
+      "yearShown": "1893",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "维亚尔1893年的《内景、艺术家的母亲与姐妹》把两位家人与密集花纹并置。衣服、壁纸和家具的边界时而相融，狭小室内既呈现亲近，也保留人物各自的姿态。",
+      "selectionReason": "身体几乎被熟悉的陈设包围，却没有完全失去边界。它让沙发主题关注家庭亲密如何与压缩感并存，以及一个人怎样在家中占据位置。",
+      "keywords": [
+        "共用空间",
+        "个人领地",
+        "身体姿态",
+        "视线遮挡"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A27",
+      "title": "《慢舞》",
+      "englishTitle": "Slow Dance",
+      "author": "凯瑞·詹姆斯·马歇尔",
+      "authorEnglish": "Kerry James Marshall",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1992",
+      "dateLabel": "DATE",
+      "slidingLabel": "Kerry James Marshall",
+      "source": "凯瑞·詹姆斯·马歇尔，1992-1993",
+      "year": "1992",
+      "yearShown": "1992",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "凯瑞·詹姆斯·马歇尔的《慢舞》创作于1992至1993年，是他较早突出非裔美国人居家生活与爱情的作品。舞者、音符、唱片和蓝色沙发共同构成鲜明的室内场景。",
+      "selectionReason": "沙发在侧，房间中央则被两个人的舞步重新占据。它让沙发主题看到亲密关系如何通过音乐和身体，把日常家具之间的空地变成共享场所。",
+      "keywords": [
+        "身体姿态",
+        "共用空间",
+        "共同停留"
+      ],
+      "sources": [
+        {
+          "title": "芝加哥当代艺术博物馆｜Kerry James Marshall: Mastry",
+          "url": "https://mcachicago.org/whats-on/exhibitions/kerry-james-marshall/"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A29",
+      "title": "《圆桌》",
+      "englishTitle": "The Round Table",
+      "author": "乔治·布拉克",
+      "authorEnglish": "Georges Braque",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1929",
+      "dateLabel": "DATE",
+      "slidingLabel": "Georges Braque",
+      "source": "布拉克，1929",
+      "year": "1929",
+      "yearShown": "1929",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "旁观"
+      },
+      "background": "布拉克1929年的《圆桌》延续其对法式单柱桌的静物研究。桌子被推向室内一角，多重视点、叠置器物与混有砂粒的颜料，共同改变了我们感知桌面和房间的方式。",
+      "selectionReason": "桌面虽没有人物围坐，物件的聚集已暗示共同使用的中心。它为沙发主题提供一种形式参照：共享空间怎样围绕一张桌子被组织起来。",
+      "keywords": [
+        "共用桌面",
+        "共用空间",
+        "观看位置"
+      ],
+      "sources": [
+        {
+          "title": "菲利普斯收藏馆｜Georges Braque, The Round Table",
+          "url": "https://www.phillipscollection.org/collection/round-table"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A33",
+      "title": "《正如老人所唱，年轻人跟着哼》",
+      "englishTitle": "As the Old Sing, So Pipe the Young",
+      "author": "扬·斯滕",
+      "authorEnglish": "Jan Steen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1665",
+      "dateLabel": "DATE",
+      "slidingLabel": "Jan Steen",
+      "source": "扬·斯滕，1665",
+      "year": "1665",
+      "yearShown": "1665",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "扬·斯滕1665年的这幅家庭场景以歌唱、饮食与模仿动作形成热闹群像。老人、成人与孩子围在桌旁，标题点出的代际呼应也落实为各人的身体和手势。",
+      "selectionReason": "一张共用桌面把不同年龄的人聚在一起，习惯也沿着模仿传递。它让沙发主题呈现家庭围坐中既亲热又彼此影响的关系。",
+      "keywords": [
+        "家庭围坐",
+        "共用桌面",
+        "日常习惯",
+        "身体姿态"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A34",
+      "title": "《斯特罗德一家》",
+      "englishTitle": "The Strode Family",
+      "author": "威廉·霍加斯",
+      "authorEnglish": "William Hogarth",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1738",
+      "dateLabel": "DATE",
+      "slidingLabel": "William Hogarth",
+      "source": "威廉·霍加斯， 1738",
+      "year": "1738",
+      "yearShown": "1738",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "霍加斯的《斯特罗德一家》把家人、来客与端茶的侍者安排在陈设讲究的室内。围桌饮茶的动作把人物串联起来，服饰、器物与座位又让各自的位置清楚可辨。",
+      "selectionReason": "待客不是单一动作，而是递杯、就座和回应共同组成的秩序。它让沙发主题观察礼仪如何让人加入一个房间，同时标出身份差异。",
+      "keywords": [
+        "待客礼仪",
+        "座次秩序",
+        "身份展示",
+        "共用桌面"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A37",
+      "title": "《阿尔及尔的女人》",
+      "englishTitle": "Women of Algiers",
+      "author": "欧仁·德拉克洛瓦",
+      "authorEnglish": "Eugène Delacroix",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1834",
+      "dateLabel": "DATE",
+      "slidingLabel": "Eugène Delacroix",
+      "source": "德拉克洛瓦，1834",
+      "year": "1834",
+      "yearShown": "1834",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "德拉克洛瓦1834年的《阿尔及尔的女人》描绘装饰繁密的室内：几位女性倚坐于织物和靠垫之间，另一人立在门边。暗部、衣料和器物共同构成层层围合的空间。",
+      "selectionReason": "低处倚坐与门边站姿形成不同的位置和关系。它让沙发主题关注休憩的身体、围合的座位，以及观者进入他人私人空间时的距离。",
+      "keywords": [
+        "倚靠放松",
+        "围合座位",
+        "私人边界",
+        "观看位置"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A42",
+      "title": "《钢琴前的少女》",
+      "englishTitle": "Young Girls at the Piano",
+      "author": "皮埃尔-奥古斯特·雷诺阿",
+      "authorEnglish": "Pierre-Auguste Renoir",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1892",
+      "dateLabel": "DATE",
+      "slidingLabel": "Pierre-Auguste Renoir",
+      "source": "雷诺阿，1892",
+      "year": "1892",
+      "yearShown": "1892",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "雷诺阿1892年的《钢琴前的少女》把两位少女聚在同一架钢琴前。一人坐着弹奏，另一人俯身看谱，柔和的衣料、窗帘与家具使音乐活动融入家庭室内。",
+      "selectionReason": "一坐一立的身体因同一份乐谱而靠近，亲密来自共同关注。它为沙发主题提供并肩相处的参照：共享一件事如何缩短人际距离。",
+      "keywords": [
+        "身体姿态",
+        "共同停留",
+        "共用空间",
+        "社交距离"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A43",
+      "title": "《阿尔诺芬尼夫妇像》",
+      "englishTitle": "The Arnolfini Portrait",
+      "author": "扬·凡·艾克",
+      "authorEnglish": "Jan van Eyck",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1434",
+      "dateLabel": "DATE",
+      "slidingLabel": "Jan van Eyck",
+      "source": "扬·凡·艾克 · 1434",
+      "year": "1434",
+      "yearShown": "1434",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "凡·艾克1434年的《阿尔诺芬尼夫妇像》将两位人物置于陈设细密的室内。牵连的手势、床铺、镜子与吊灯让关系和房间紧密相连，人物身份与仪式含义仍有讨论空间。",
+      "selectionReason": "室内物件既贴近日常，也能成为身份与关系的公开表达。它让沙发主题思考私人房间如何面对他人的目光，以及两个人怎样共同占据空间。",
+      "keywords": [
+        "身份展示",
+        "私人边界",
+        "目光回应",
+        "共同停留"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A44",
+      "title": "《情书》",
+      "englishTitle": "The Love Letter",
+      "author": "扬·维米尔",
+      "authorEnglish": "Johannes Vermeer",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1669–70",
+      "dateLabel": "DATE",
+      "slidingLabel": "Johannes Vermeer",
+      "source": "维米尔 · 约1669–70",
+      "year": "约1669–70",
+      "yearShown": "1669",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "维米尔约1669至1670年的《情书》把一位坐着的女性与身旁女仆放在明亮内室。观者却从暗处隔着帘幕和门口观看，信件与人物目光形成细小的叙事中心。",
+      "selectionReason": "坐着的人与递信者通过目光相接，门帘又让我们停在私密场景之外。它把沙发主题中的接近、回应与观看边界放进同一个空间。",
+      "keywords": [
+        "目光回应",
+        "私人边界",
+        "视线遮挡",
+        "空间门槛"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A45",
+      "title": "《绘画艺术》",
+      "englishTitle": "The Art of Painting",
+      "author": "扬·维米尔",
+      "authorEnglish": "Johannes Vermeer",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1666–1668",
+      "dateLabel": "DATE",
+      "slidingLabel": "Johannes Vermeer",
+      "source": "扬·维米尔 · 约1666–1668",
+      "year": "约1666–1668",
+      "yearShown": "1666",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "维米尔约1666至1668年的《绘画艺术》描绘一间工作室。背向观者的画家坐在画架前，模特以桂冠、书和号角扮作历史缪斯，拉开的帷幕则将工作空间展示出来。",
+      "selectionReason": "画家的凳子、前景空椅与帷幕层层安排视线，坐的位置决定能看见什么。它让沙发主题从就座延伸到观看、工作与展示的空间组织。",
+      "keywords": [
+        "观看位置",
+        "视线遮挡",
+        "身体姿态",
+        "个人领地"
+      ],
+      "sources": [
+        {
+          "title": "维也纳艺术史博物馆官方供稿｜The Art of Painting（Google Arts & Culture）",
+          "url": "https://artsandculture.google.com/asset/the-art-of-painting/lAHeqBoLaePtEA?hl=en-GB"
+        }
+      ],
+      "originalRecord": {
+        "title": "代尔夫特室内系列",
+        "source": "彼得·德·霍赫 · 约1658–60",
+        "year": "约1658–60"
+      }
+    },
+    {
+      "id": "M-A48",
+      "title": "《克拉克夫妇与珀西》",
+      "englishTitle": "Mr and Mrs Clark and Percy",
+      "author": "大卫·霍克尼",
+      "authorEnglish": "David Hockney",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1970–1971",
+      "dateLabel": "DATE",
+      "slidingLabel": "David Hockney",
+      "source": "大卫·霍克尼 · 1970–1971",
+      "year": "1970–1971",
+      "yearShown": "1970",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "霍克尼1970至1971年的《克拉克夫妇与珀西》以一立一坐的双人肖像展开。两人分处窗户两侧，白猫、花瓶和明亮阳台让室内充满生活痕迹，也强化了人物之间的空隙。",
+      "selectionReason": "坐下与站立成为两种不同的在场方式，亲近关系仍容许各自的方向。它让沙发主题观察伴侣共处时的距离、姿态与独立位置。",
+      "keywords": [
+        "身体姿态",
+        "社交距离",
+        "个人领地",
+        "共同停留"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A49",
+      "title": "《血缘：大家庭》系列",
+      "englishTitle": "Bloodline: Big Family",
+      "author": "张晓刚",
+      "authorEnglish": "Zhang Xiaogang",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1990年代",
+      "dateLabel": "DATE",
+      "slidingLabel": "Zhang Xiaogang",
+      "source": "张晓刚 · 1990年代",
+      "year": "1990年代",
+      "yearShown": "1990",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "旁观"
+      },
+      "background": "张晓刚的《血缘：大家庭》系列借用家庭合影的正面构图，将人物置于近乎平面的背景中。整齐的排列、相似的表情与局部鲜明色彩，使个人面貌和家庭关系并置。",
+      "selectionReason": "家人靠得很近，姿态却保持正式，亲密由排列而非动作表达。它让沙发主题把家庭合影视作一种共同就位，追问相近位置如何形成关系。",
+      "keywords": [
+        "身份展示",
+        "身体姿态",
+        "社交距离",
+        "目光回应"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B4",
+      "title": "阿尔文太太的客厅",
+      "englishTitle": "Mrs Alving's Living Room",
+      "author": "亨里克·易卜生",
+      "authorEnglish": "Henrik Ibsen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1881",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Henrik Ibsen",
+      "source": "易卜生《群鬼》· 1881",
+      "year": "1881",
+      "yearShown": "1881",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "易卜生《群鬼》让阿尔文太太面对婚姻往事及其留给下一代的后果。家庭表面的体面不断受到秘密与记忆冲击，家中的会面逐渐变成对旧道德的追问。",
+      "selectionReason": "熟悉的家庭座位也可能容纳难以启齿的真相。共同坐下的距离，与彼此是否愿意听见对方，构成亲密关系中的张力。",
+      "keywords": [
+        "家庭围坐",
+        "目光回应",
+        "私人边界",
+        "共同停留"
+      ],
+      "sources": [
+        {
+          "title": "《群鬼》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/2467/2467-h/2467-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B9",
+      "title": "鲁瓦赛尔家的小客厅",
+      "englishTitle": "The Loisels' Small Living Room",
+      "author": "居伊·德·莫泊桑",
+      "authorEnglish": "Guy de Maupassant",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1884",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Guy de Maupassant",
+      "source": "莫泊桑《项链》· 1884",
+      "year": "1884",
+      "yearShown": "1884",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "莫泊桑《项链》围绕鲁瓦赛尔夫妇及一次借饰品赴宴的经历，书写虚荣与生活代价。小客厅所代表的日常居所，与女主人想象中的富丽生活形成反差。",
+      "selectionReason": "家中座具可以承载两种期待：一方盼望舒适的共同生活，另一方投射更高的身份。共处的家具因此成为欲望差异的显影处。",
+      "keywords": [
+        "家庭围坐",
+        "日常习惯",
+        "身份展示",
+        "共用空间"
+      ],
+      "sources": [
+        {
+          "title": "《项链》法文原文（维基文库）",
+          "url": "https://fr.wikisource.org/wiki/Contes_du_jour_et_de_la_nuit_(%C3%A9d._Flammarion,_1885)/La_Parure"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B11",
+      "title": "苔丝夫妇的古老客厅",
+      "englishTitle": "The Old Drawing Room of Tess and Angel",
+      "author": "托马斯·哈代",
+      "authorEnglish": "Thomas Hardy",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1891",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Thomas Hardy",
+      "source": "哈代《德伯家的苔丝》· 1891",
+      "year": "1891",
+      "yearShown": "1891",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "哈代《德伯家的苔丝》追问爱情与社会道德对女性的不同要求。苔丝与克莱尔婚后的旧宅居处，把新婚的亲近和对于过去的判断放在同一个屋檐之下。",
+      "selectionReason": "同处一室、坐得靠近，并不能自动带来理解。这个居处适合观察伴侣在倾听、坦白与退避之间，如何重新划定情感距离。",
+      "keywords": [
+        "并坐亲密",
+        "目光回应",
+        "私人边界",
+        "共同停留"
+      ],
+      "sources": [
+        {
+          "title": "《德伯家的苔丝》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/110/110-h/110-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B12",
+      "title": "萨姆沙家的起居室",
+      "englishTitle": "The Samsas' Living Room",
+      "author": "弗兰茨·卡夫卡",
+      "authorEnglish": "Franz Kafka",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1915",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Franz Kafka",
+      "source": "卡夫卡《变形记》（1915）",
+      "year": "1915",
+      "yearShown": "1915",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "卡夫卡《变形记》写格里高尔身体突变后与家庭关系的转折。家中起居室延续着吃饭、会客等生活，房门内外的区隔却不断凸显他被排除的处境。",
+      "selectionReason": "家庭围坐既能确认成员资格，也能暴露排斥。起居室与个人房间之间的门槛，使谁可以加入共同生活成为可见的问题。",
+      "keywords": [
+        "家庭围坐",
+        "空间门槛",
+        "视线遮挡",
+        "共用空间"
+      ],
+      "sources": [
+        {
+          "title": "《变形记》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/5200/5200-h/5200-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B13",
+      "title": "涓生的小屋客厅",
+      "englishTitle": "Juansheng's Small Home",
+      "author": "鲁迅",
+      "authorEnglish": "Lu Xun",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1925",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lu Xun",
+      "source": "鲁迅《伤逝》· 1925",
+      "year": "1925",
+      "yearShown": "1925",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "鲁迅《伤逝》由涓生回忆与子君的相爱、同居和分离，把个人解放的理想带入生计与日常。两人的小屋见证了爱情进入共同生活后的消耗和困境。",
+      "selectionReason": "小屋中的共处把抽象的爱情变成每天需要承担的生活。围桌与并坐的关系，能提示亲密如何依赖劳动、照应与持续回应。",
+      "keywords": [
+        "并坐亲密",
+        "共用桌面",
+        "日常习惯",
+        "共用空间"
+      ],
+      "sources": [
+        {
+          "title": "鲁迅《伤逝》公版文本（维基文库）",
+          "url": "https://zh.wikisource.org/wiki/傷逝_(魯迅)"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B15",
+      "title": "海尔茂家起居室（三幕剧唯一场景）",
+      "englishTitle": "The Helmers' Living Room",
+      "author": "亨里克·易卜生",
+      "authorEnglish": "Henrik Ibsen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1879",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Henrik Ibsen",
+      "source": "亨里克·易卜生《玩偶之家》· 1879",
+      "year": "1879",
+      "yearShown": "1879",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "易卜生《玩偶之家》把海尔茂夫妇的家庭生活集中在起居室中。温馨的家居表象逐步显出金钱、责任与婚姻权力的问题，娜拉开始重新判断自己的位置。",
+      "selectionReason": "起居室让家庭成员之间的观看与发言变得具体。谁坐下、谁被审视，以及能否平等交谈，使舒适座具也承载权力关系。",
+      "keywords": [
+        "家庭围坐",
+        "目光回应",
+        "私人边界",
+        "个人领地"
+      ],
+      "sources": [
+        {
+          "title": "《玩偶之家》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/2542/2542-h/2542-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B16",
+      "title": "拉姆齐家海滨别墅客厅（窗边茶桌区）",
+      "englishTitle": "The Ramsays' Seaside Drawing Room",
+      "author": "弗吉尼亚·伍尔芙",
+      "authorEnglish": "Virginia Woolf",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1927",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Virginia Woolf",
+      "source": "弗吉尼亚·伍尔芙《到灯塔去》, 1927",
+      "year": "",
+      "yearShown": "1927",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "伍尔芙《到灯塔去》以拉姆齐一家及来客的海滨生活，捕捉记忆、时间和意识的流动。别墅室内的日常共处使亲情与待客相接，细微感受常比外在行动更重要。",
+      "selectionReason": "窗边停留、坐着陪伴和各自沉思，提示亲密也可以存在于安静的共处中。座位让共同生活与个人内心保持细小的距离。",
+      "keywords": [
+        "共同停留",
+        "家庭围坐",
+        "独处松弛",
+        "目光回应"
+      ],
+      "sources": [
+        {
+          "title": "Broadview Press：《到灯塔去》",
+          "url": "https://broadviewpress.com/product/to-the-lighthouse-encore-edition/"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B17",
+      "title": "拉涅夫斯卡娅家客厅（带旧家具与通往花园的门）",
+      "englishTitle": "Ranevskaya's Drawing Room",
+      "author": "安东·契诃夫",
+      "authorEnglish": "Anton Chekhov",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1904",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Anton Chekhov",
+      "source": "安东·契诃夫《樱桃园》, 1904",
+      "year": "",
+      "yearShown": "1904",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "契诃夫《樱桃园》围绕拉涅夫斯卡娅一家的归来与庄园命运展开。旧宅里持续的交谈和回忆，使家具、房间与家园失落交织，也映照社会关系的变化。",
+      "selectionReason": "旧座具保存的不只是使用习惯，也有一家人对往日生活的依恋。当居所将要易主，共同停留便带上告别与无力挽留的意味。",
+      "keywords": [
+        "物件记忆",
+        "家庭围坐",
+        "共同停留",
+        "共用空间"
+      ],
+      "sources": [
+        {
+          "title": "《樱桃园》与《三姊妹》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/7986/7986-h/7986-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B22",
+      "title": "旧宅阁楼（待售家具现场）",
+      "englishTitle": "Old House Attic with Furniture for Sale",
+      "author": "阿瑟·米勒",
+      "authorEnglish": "Arthur Miller",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1968",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Arthur Miller",
+      "source": "阿瑟·米勒《代价 (The Price)》, 1968",
+      "year": "",
+      "yearShown": "1968",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "阿瑟·米勒《代价》让久未往来的兄弟在纽约旧宅阁楼重逢，处理父亲留下的家具。物件的估价引出各自对于牺牲、责任与人生选择的不同记忆。",
+      "selectionReason": "旧椅子与旧沙发既等待出售，也保留家人的生活痕迹。围着这些家具谈判，让物件价格与亲人之间难以结清的关系相遇。",
+      "keywords": [
+        "物件记忆",
+        "共同停留",
+        "共用空间",
+        "家庭围坐"
+      ],
+      "sources": [
+        {
+          "title": "Concord Theatricals：《The Price》剧情与场景",
+          "url": "https://www.concordtheatricals.com/p/98098/the-price"
+        },
+        {
+          "title": "Penguin Random House：《The Price》",
+          "url": "https://www.penguinrandomhouse.com/books/322100/the-price-by-arthur-miller/9780140481945/"
+        }
+      ],
+      "originalRecord": {
+        "title": "父亲遗留旧公寓客厅（待拍卖现场）",
+        "source": "阿瑟·米勒《代价 (The Price)》, 1968",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-B23",
+      "title": "蒂龙家夏日别墅客厅",
+      "englishTitle": "The Tyrones' Summer Living Room",
+      "author": "尤金·奥尼尔",
+      "authorEnglish": "Eugene O’Neill",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1956",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Eugene O’Neill",
+      "source": "尤金·奥尼尔《长夜漫漫路迢迢》, 1956",
+      "year": "",
+      "yearShown": "1956",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "奥尼尔《长夜漫漫路迢迢》让蒂龙一家在夏日居所中反复交谈。亲情与指责、依赖与逃避彼此缠绕，家中的起居空间逐渐积聚起难以卸下的往事。",
+      "selectionReason": "一家人不断回到同一处室内，却难以获得安慰。围坐把长久相伴的身体距离，与无法停止互相伤害的言语并置在一起。",
+      "keywords": [
+        "家庭围坐",
+        "共同停留",
+        "目光回应",
+        "私人边界"
+      ],
+      "sources": [
+        {
+          "title": "美国国家公园管理局：《Long Day’s Journey Into Night》",
+          "url": "https://www.nps.gov/euon/learn/historyculture/long-day-s-journey-into-night-1941.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B26",
+      "title": "大阪药材商鵙屋家中（习艺与侍奉之所）",
+      "englishTitle": "Mozuya Household in Osaka",
+      "author": "谷崎润一郎",
+      "authorEnglish": "Jun’ichirō Tanizaki",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1933",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Jun’ichirō Tanizaki",
+      "source": "谷崎润一郎《春琴抄》1933",
+      "year": "",
+      "yearShown": "1933",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "谷崎润一郎《春琴抄》围绕大阪药材商鵙屋出身的春琴与佐助，书写习艺、侍奉和依恋。师徒与主仆身份相互叠合，使两人的亲密关系带着不对等的秩序。",
+      "selectionReason": "习艺与侍奉使身体位置直接连着关系。谁在身旁、谁需要回应与照应，让靠近既表现依恋，也保留身份造成的高低差别。",
+      "keywords": [
+        "身体姿态",
+        "共同停留",
+        "私人边界",
+        "座次秩序"
+      ],
+      "sources": [
+        {
+          "title": "谷崎润一郎《春琴抄》原文（青空文库）",
+          "url": "https://www.aozora.gr.jp/cards/001383/files/56866_58169.html"
+        }
+      ],
+      "originalRecord": {
+        "title": "大阪药材商鴫屋（鹦屋）家客厅",
+        "source": "谷崎润一郎《春琴抄》1933",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-B28",
+      "title": "单位分房「合居客厅」（与另一对夫妇公用的客厅）",
+      "englishTitle": "A Shared Living Room in Work-Unit Housing",
+      "author": "刘震云",
+      "authorEnglish": "Liu Zhenyun",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1989",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Liu Zhenyun",
+      "source": "刘震云《单位》· 1989（常收入《一地鸡毛》合集）",
+      "year": "1989",
+      "yearShown": "1989",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "刘震云《单位》通过小林等人的日常处境，写制度、人情与生活资源的相互牵制。两家合居、共用客厅的安排，使住房压力直接进入家庭和邻里关系。",
+      "selectionReason": "共用客厅让每次摆放与停留都涉及协商。座位能否被占用、物件可放多少，将抽象的私人边界变成每天面对的生活问题。",
+      "keywords": [
+        "共用空间",
+        "私人边界",
+        "个人领地",
+        "日常习惯"
+      ],
+      "sources": [
+        {
+          "title": "三联生活周刊：刘震云《单位》的发表与小林住房处境",
+          "url": "https://mpre.lifeweek.com.cn/h5/article/detail?artId=64945"
+        },
+        {
+          "title": "白鹿书院公益图书馆：《单位》目录",
+          "url": "https://s.bailushuyuan.org/单位"
+        }
+      ],
+      "originalRecord": {
+        "title": "单位分房「合居客厅」（与另一对夫妇公用的客厅）",
+        "source": "刘震云《一地鸡毛》1991（后与《单位》合集）",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-B31",
+      "title": "曾家小花厅",
+      "englishTitle": "The Zeng Family's Small Reception Room",
+      "author": "曹禺",
+      "authorEnglish": "Cao Yu",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1940",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Cao Yu",
+      "source": "曹禺《北京人》1940",
+      "year": "1940",
+      "yearShown": "1940",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "曹禺《北京人》以曾家的衰落写旧式家庭的精神困局。小花厅连通多处内室与院落，家人反复在此相遇，体面、依赖和离开的愿望被压在熟悉的日常里。",
+      "selectionReason": "小花厅的座位既供家人停留，也承接来去的目光。谁能安坐、谁想离开，使共同生活中的依恋和束缚同时显现。",
+      "keywords": [
+        "家庭围坐",
+        "空间门槛",
+        "目光回应",
+        "物件记忆"
+      ],
+      "sources": [
+        {
+          "title": "清华大学校史馆：曹禺在北京的戏剧人生",
+          "url": "https://xsg.tsinghua.edu.cn/info/1004/3181.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B32",
+      "title": "姜公馆堂屋",
+      "englishTitle": "The Jiang Family's Main Hall",
+      "author": "张爱玲",
+      "authorEnglish": "Eileen Chang",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1943",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Eileen Chang",
+      "source": "张爱玲《金锁记》1943",
+      "year": "1943",
+      "yearShown": "1943",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "张爱玲《金锁记》围绕曹七巧及姜家的家庭关系，写金钱、婚姻与欲望如何互相缠绕。堂屋一类家内公共空间，使长幼、内外与财产位置不断被日常交往确认。",
+      "selectionReason": "家内共坐可能形成亲近，也可能成为彼此审视的场面。座次、目光与共桌交谈，可呈现家庭权力如何进入最熟悉的日常。",
+      "keywords": [
+        "家庭围坐",
+        "座次秩序",
+        "目光回应",
+        "共用桌面"
+      ],
+      "sources": [
+        {
+          "title": "皇冠出版社：《倾城之恋》所收《金锁记》",
+          "url": "https://www.crown.com.tw/view.aspx?bc=001101"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B40",
+      "title": "奥勃朗斯基家客厅",
+      "englishTitle": "The Oblonskys' Living Room",
+      "author": "列夫·托尔斯泰",
+      "authorEnglish": "Leo Tolstoy",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1877",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Leo Tolstoy",
+      "source": "托尔斯泰《安娜·卡列尼娜》1877",
+      "year": "1877",
+      "yearShown": "1877",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "托尔斯泰《安娜·卡列尼娜》从奥勃朗斯基家的婚姻风波展开更广阔的家庭与社会生活。家中的接待和亲属往来，使私人矛盾始终处于体面社交的包围中。",
+      "selectionReason": "客厅里的共同停留能暂时维持家庭表象，也可能使裂痕更清楚。亲属与来客如何靠近彼此，揭示家内情感与待客礼貌的交叠。",
+      "keywords": [
+        "家庭围坐",
+        "待客礼仪",
+        "私人边界",
+        "共同停留"
+      ],
+      "sources": [
+        {
+          "title": "《安娜·卡列尼娜》（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/ebooks/1399"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B44",
+      "title": "周公馆客厅",
+      "englishTitle": "The Zhou Residence",
+      "author": "曹禺",
+      "authorEnglish": "Cao Yu",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1934",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Cao Yu",
+      "source": "曹禺《雷雨》（1934）",
+      "year": "1934",
+      "yearShown": "1934",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "曹禺《雷雨》把周鲁两家的纠葛压入紧张的家庭关系。周公馆的客厅是人物碰面与对质的重要空间，家长权威、旧事和代际冲突在共同生活的表层下积聚。",
+      "selectionReason": "沙发与椅子围出的家庭中心，也可能成为命令和对峙的场所。谁能坐定发言、谁被迫回应，使日常座位带出权力的重量。",
+      "keywords": [
+        "家庭围坐",
+        "座次秩序",
+        "目光回应",
+        "私人边界"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B46",
+      "title": "白公馆的客厅",
+      "englishTitle": "The Bai Residence",
+      "author": "张爱玲",
+      "authorEnglish": "Eileen Chang",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1943",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Eileen Chang",
+      "source": "张爱玲《倾城之恋》（1943）",
+      "year": "1943",
+      "yearShown": "1943",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "张爱玲《倾城之恋》把白流苏的婚恋选择放在家族处境与城市变局中。白公馆的家庭往来连着经济依赖和亲属判断，熟悉的家内空间并不总能给予庇护。",
+      "selectionReason": "家人的围坐也可能构成集体评判。谁被接纳、谁被谈论，以及一个人是否能退出共同空间，使座位显出亲属关系的压力。",
+      "keywords": [
+        "家庭围坐",
+        "私人边界",
+        "目光回应",
+        "共用空间"
+      ],
+      "sources": [
+        {
+          "title": "皇冠出版社：《倾城之恋》书页及开篇",
+          "url": "https://www.crown.com.tw/view.aspx?bc=001201"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B47",
+      "title": "高公馆厅堂",
+      "englishTitle": "The Gao Residence",
+      "author": "巴金",
+      "authorEnglish": "Ba Jin",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1931",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Ba Jin",
+      "source": "巴金《家》（1931）",
+      "year": "1931",
+      "yearShown": "1931",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "巴金《家》通过高家年轻人的生活，写旧式家族秩序与个人追求的冲突。高公馆厅堂承接家族活动和日常往来，长幼礼法与年轻人的情感在这里相互牵制。",
+      "selectionReason": "围坐把一家人的关系聚拢，也让服从与反抗变得可见。座次和行动的自由，可以提示谁有权安排共同生活、谁希望离开。",
+      "keywords": [
+        "家庭围坐",
+        "座次秩序",
+        "空间门槛",
+        "共用空间"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B49",
+      "title": "顾曼桢家石库门「饭厅/客堂间」",
+      "englishTitle": "Gu Manzhen's Shikumen Dining Room",
+      "author": "张爱玲",
+      "authorEnglish": "Eileen Chang",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1950",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Eileen Chang",
+      "source": "张爱玲《半生缘》1950",
+      "year": "1950",
+      "yearShown": "1950",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "张爱玲《半生缘》围绕顾曼桢、沈世钧等人的情感遭际，细写家庭与生计对个人选择的牵制。顾家的日常居处连接谋生、亲属关系和来访，平常往还也潜藏压力。",
+      "selectionReason": "饭厅与客堂间的共用，使生活、会客和亲密关系彼此交叠。围桌与陪坐能呈现一个家庭如何分配空间，也如何干预个人选择。",
+      "keywords": [
+        "共用桌面",
+        "家庭围坐",
+        "共用空间",
+        "私人边界"
+      ],
+      "sources": [
+        {
+          "title": "皇冠出版社：《半生缘》",
+          "url": "https://www.crown.com.tw/view.aspx?bc=001007"
+        },
+        {
+          "title": "中央大学人文学报：有关《十八春》与《半生缘》版本的注释",
+          "url": "https://lit.ncu.edu.tw/ncujoh/viewArticle.asp?CA_ID=622&P_No=87"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B50",
+      "title": "三姊妹的客厅",
+      "englishTitle": "The Three Sisters' Living Room",
+      "author": "安东·契诃夫",
+      "authorEnglish": "Anton Chekhov",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1900",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Anton Chekhov",
+      "source": "契诃夫《三姊妹》（1900）",
+      "year": "1900",
+      "yearShown": "1900",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "契诃夫《三姊妹》围绕普罗佐罗夫一家对未来的期待与生活中的停滞展开。客厅承接亲友和军官的来往，反复的交谈与等待使家庭情感和时代气氛交织。",
+      "selectionReason": "长期相伴的人共享一处座位，却各自怀有不同的愿望。日常聚坐让等待成为共同经验，也使亲密、倦怠与离意同时可见。",
+      "keywords": [
+        "共同停留",
+        "家庭围坐",
+        "日常习惯",
+        "私人边界"
+      ],
+      "sources": [
+        {
+          "title": "《三姊妹》与《樱桃园》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/7986/7986-h/7986-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C14",
+      "title": "聚会客厅",
+      "englishTitle": "A Living Room for Gathering",
+      "author": "郭仪",
+      "authorEnglish": "Guo Yi",
+      "authorLabel": "TEXT AUTHOR",
+      "date": "2023",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "Guo Yi",
+      "source": "界面新闻，窄播 郭仪 2023",
+      "year": "",
+      "yearShown": "2023",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "界面新闻2023年刊载的窄播文章讨论年轻人的客厅消费与社交选择。本条配图从上方看见多人围在低桌周围，沙发、单椅与地面形成不完全对称的聚会座位。",
+      "selectionReason": "这里的共同中心是桌面而非屏幕；不同高度与方向的坐席，让加入谈话、侧身倾听和暂时退出各有位置。",
+      "keywords": [
+        "共用桌面",
+        "目光回应",
+        "座位重组",
+        "社交距离"
+      ],
+      "sources": [
+        {
+          "title": "界面新闻·JMedia：方寸之间，年轻人客厅里的消费密码",
+          "url": "https://www.jiemian.com/article/10298123.html"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C26",
+      "title": "春节客厅社交",
+      "englishTitle": "The Living Room at Spring Festival",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The Living Room at Spring Festival",
+      "source": "家庭相聚影视画面；亲属交往议题",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "家庭聚餐与室内会面的影视画面被拼在一起，呈现节庆时亲属相聚的不同姿态。共同坐下既可能带来熟悉与照顾，也会让盘问、期待与相处压力集中出现。",
+      "selectionReason": "围坐既能表达亲近，也可能使提问无处可躲。它提醒座位安排还需要容纳回避目光、换位和保留私人边界的余地。",
+      "keywords": [
+        "家庭围坐",
+        "私人边界",
+        "目光回应",
+        "社交距离"
+      ],
+      "sources": [],
+      "originalRecord": {
+        "title": "春节客厅社交",
+        "source": "催婚、盘问与“断亲”话题 · 2020s",
+        "year": "2020s"
+      }
+    },
+    {
+      "id": "M-D5",
+      "title": "相亲相爱一家人",
+      "englishTitle": "One Close-Knit Family",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "One Close-Knit Family",
+      "source": "微信家族群与互联网亲情交往",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "“相亲相爱一家人”借微信家族群与互联网亲情交往展开，所配插画以手机、语音消息和家庭合影替代实体房间。它是一种把家庭联络集中到同一界面的数字客厅比喻。",
+      "selectionReason": "虚拟空间同样需要处理何时出现、怎样回应和能否暂退；把群聊与沙发并看，可显出陪伴对日常节奏的组织作用。",
+      "keywords": [
+        "日常习惯",
+        "私人边界",
+        "家庭围坐",
+        "共同停留"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D10",
+      "title": "祠堂与堂屋",
+      "englishTitle": "The Ancestral Hall and the Main Hall",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Ancestral Hall and the Main Hall",
+      "source": "费孝通《乡土中国》＋中国社会科学网乡土建筑研究",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "中轴、匾额与成组木椅构成仪式性的室内陈设。祠堂与堂屋把宗族生活中的长幼、主客和次序安排到可见的位置，使建筑与座席共同组织群体关系。",
+      "selectionReason": "椅子的位置可以先于人物说明长幼、主客与礼仪秩序；它提醒客厅座次既组织面对面，也承载被继承的关系规则。",
+      "keywords": [
+        "座次秩序",
+        "待客礼仪",
+        "身份展示",
+        "家庭围坐"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D11",
+      "title": "巢房与群体空间（参考图）",
+      "englishTitle": "Nest Cells and Collective Space",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Nest Cells and Collective Space",
+      "source": "巢房照片与群体空间隐喻",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "蜂类停附于开放巢房，密集的单元与聚集的身体构成微观空间。这里借巢房的组织形态，观察共用界面、个体位置与群体活动之间的视觉联系。",
+      "selectionReason": "重复单元围绕共同生活面聚合，为讨论个人位置与群体结构提供形式参照；其价值是空间联想，而非直接模仿动物社会。",
+      "keywords": [
+        "个人领地",
+        "共用空间",
+        "共同停留"
+      ],
+      "sources": [],
+      "originalRecord": {
+        "title": "蜂巢中央巢脾",
+        "source": "蜂王所在的决策客厅",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-D34",
+      "title": "日本和室",
+      "englishTitle": "The Japanese Tatami Room",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Japanese Tatami Room",
+      "source": "知乎《日本传统和室是什么样子》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "伴",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "日本和室一条关联传统和室介绍，配图则把榻榻米、低桌、坐垫、书籍与收纳密集组合。它更适合作为当代居住使用的参考，而非关于所有和室形式的统一范本。",
+      "selectionReason": "低坐与可收放物件让一个房间随时段切换用途；座位不必永久占据地面，相聚和独处可以通过收拾来重新安排。",
+      "keywords": [
+        "身体姿态",
+        "移动座位",
+        "多用座具",
+        "日常习惯"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D36",
+      "title": "老友记 Central Perk",
+      "englishTitle": "Central Perk in Friends",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Central Perk in Friends",
+      "source": "知乎《为什么〈老友记〉里的咖啡馆如此经典》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "伴",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "《老友记》的Central Perk咖啡馆以沙发、单椅与低桌形成反复出现的朋友会面场景。所配剧照把多人集中在同一组坐席上，让日常谈话获得稳定、易辨认的空间背景。",
+      "selectionReason": "反复回到同一张沙发，使座位成为友谊的记忆坐标；围合而留有空隙的组合，也方便新的人加入正在发生的谈话。",
+      "keywords": [
+        "物件记忆",
+        "围合座位",
+        "并坐亲密",
+        "目光回应"
+      ],
+      "sources": [
+        {
+          "title": "LEGO：Central Perk（对原电视剧场景及主坐席的官方产品说明）",
+          "url": "https://www.lego.com/en-us/product/central-perk-21319"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D37",
+      "title": "丹麦 hygge 壁炉",
+      "englishTitle": "A Danish Hygge Fireplace",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "A Danish Hygge Fireplace",
+      "source": "知乎《丹麦 hygge 文化是什么》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "木椅紧邻炉火与窗光，形成一处温暖的停留角落。丹麦hygge所强调的居家舒适，在这幅画面里体现为安静的光、可以倚靠的座位与触手可及的火源。",
+      "selectionReason": "热源与光线可以决定人愿意坐在哪里；单椅既能独自安顿身体，也可面向后来加入的人，保留温和的相处可能。",
+      "keywords": [
+        "倚靠放松",
+        "独处松弛",
+        "共同停留",
+        "日常习惯"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D41",
+      "title": "柔软宫殿（The Soft Palace）",
+      "englishTitle": "The Soft Palace",
+      "author": "Studio Ossidiana",
+      "authorEnglish": "Studio Ossidiana",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2025",
+      "dateLabel": "DATE",
+      "slidingLabel": "Studio Ossidiana",
+      "source": "Studio Ossidiana；Centre Pompidou × GrandPalaisRmn，巴黎大皇宫，2025；Jean-Max Colard等策展",
+      "year": "2025",
+      "yearShown": "2025",
+      "role": "伴",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "Studio Ossidiana为2025年巴黎大皇宫Fun Palace活动设计《柔软宫殿》，以折叠织物形成可坐、可躺与可躲藏的公共内部；让-马克·科拉德是活动策展人之一。",
+      "selectionReason": "软面不再限定一人一椅，人们可在集会与独处之间移动；身体选择落点的方式，直接成为空间关系的组成部分。",
+      "keywords": [
+        "身体姿态",
+        "座位重组",
+        "私人边界",
+        "共用空间"
+      ],
+      "sources": [
+        {
+          "title": "Studio Ossidiana：The Soft Palace",
+          "url": "https://www.studio-ossidiana.com/the-soft-palace-/-centre-pompidou-x-grandpalaisrmn"
+        },
+        {
+          "title": "Centre Pompidou：Studio Ossidiana — Soft Palace",
+          "url": "https://www.centrepompidou.fr/en/program/calendar/event/DhFxj0e"
+        }
+      ],
+      "originalRecord": {
+        "title": "柔软宫殿：“欢乐宫殿”（Fun Palace）项目中的一件装置艺术",
+        "source": "让-马克·科拉德（Jean-Max Colard）",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-A4",
+      "title": "《荷兰室内》",
+      "englishTitle": "A Dutch Interior",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "A Dutch Interior",
+      "source": "荷兰室内绘画参考",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "这幅《荷兰室内》以一位站立女性和层层敞开的房间为主体。阴影中的床铺与前后两张椅子保持安静，远处窗光沿着门洞进入，让居住空间通过通行路径展开。",
+      "selectionReason": "房间不靠人物交谈也能显出生活秩序，空椅和门洞为身体预留了位置。它让沙发主题关注休息、家务与通行如何在同一室内相接。",
+      "keywords": [
+        "空间门槛",
+        "日常习惯",
+        "个人领地",
+        "观看位置"
+      ],
+      "sources": [
+        {
+          "title": "佛兰德艺术收藏联合目录｜Dutch Interior，KMSKA 5011",
+          "url": "https://vlaamsekunstcollectie.be/en/collection/5011"
+        }
+      ],
+      "originalRecord": {
+        "title": "《荷兰室内》",
+        "source": "彼得·德·霍赫 · 1658",
+        "year": "1658"
+      }
+    },
+    {
+      "id": "M-A5",
+      "title": "《室内》",
+      "englishTitle": "Interior",
+      "author": "努里·伊耶姆",
+      "authorEnglish": "Nuri İyem",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Nuri İyem",
+      "source": "努里·伊耶姆室内画参考",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "努里·伊耶姆的这幅《室内》以三位女性围着小桌劳作为中心。低处的身体、白色织物和彼此相接的手部动作压缩了室内纵深，家务的协作成为画面的主线。",
+      "selectionReason": "围坐不是为了正式会客，而是为了共同完成手边的事。它让沙发主题看见低处座位、共享桌面与日常劳动怎样形成相处的亲近感。",
+      "keywords": [
+        "共用桌面",
+        "身体姿态",
+        "日常习惯",
+        "共用空间"
+      ],
+      "sources": [],
+      "originalRecord": {
+        "title": "《室内》",
+        "source": "努里·伊耶姆1940",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-A6",
+      "title": "《黄色的室内》",
+      "englishTitle": "The Yellow Interior",
+      "author": "格蕾丝·科辛顿·史密斯",
+      "authorEnglish": "Grace Cossington Smith",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1962",
+      "dateLabel": "DATE",
+      "slidingLabel": "Grace Cossington Smith",
+      "source": "格蕾丝·科辛顿·史密斯1962/1964",
+      "year": "1962",
+      "yearShown": "1962",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "科辛顿·史密斯在1962至1964年画下自家卧室；这间房曾属于她的父母，后来由她使用多年。黄色墙面、镜柜与碎笔触使熟悉空间成为光与家庭记忆的载体。",
+      "selectionReason": "卧室里的椅子与织物留住长期生活的痕迹，休息也成为记忆的一部分。它让沙发主题延伸至身体熟悉一个房间之后形成的个人领地。",
+      "keywords": [
+        "物件记忆",
+        "个人领地",
+        "日常习惯"
+      ],
+      "sources": [
+        {
+          "title": "澳大利亚国家美术馆｜Grace Cossington Smith, Interior in yellow",
+          "url": "https://nga.gov.au/exhibitions/making-it-modern/grace-cossington-smith/"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A10",
+      "title": "《客厅的阳光III》",
+      "englishTitle": "Interior. Sunshine in the Drawing Room III",
+      "author": "维尔海姆·哈默肖伊",
+      "authorEnglish": "Vilhelm Hammershøi",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1903",
+      "dateLabel": "DATE",
+      "slidingLabel": "Vilhelm Hammershøi",
+      "source": "维尔海姆·哈默肖伊 · 1903",
+      "year": "1903",
+      "yearShown": "1903",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "哈默肖伊1903年的《客厅的阳光III》取景于哥本哈根斯特兰德街30号的住所。一张黑色软包沙发与两张白椅被简化地排在墙边，斜入的日光成为空室的主要变化。",
+      "selectionReason": "无人就座时，沙发与单椅仍清楚规定了可能的相处距离。它让沙发主题观察空位如何等待身体，以及光线怎样改变一个安静房间的气氛。",
+      "keywords": [
+        "围合座位",
+        "社交距离",
+        "共同停留"
+      ],
+      "sources": [
+        {
+          "title": "丹麦国家美术馆SMK数字档案｜Interior. Sunshine in the Drawing Room III",
+          "url": "https://hammershoi.smk.dk/artwork/interior-sunshine-in-the-drawing-room-iii/"
+        }
+      ],
+      "originalRecord": {
+        "title": "《客厅的阳光III》",
+        "source": "维尔姆·哈默肖伊 · 约1902",
+        "year": "约1902"
+      }
+    },
+    {
+      "id": "M-A12",
+      "title": "《粉红色坐姿裸体》",
+      "englishTitle": "Nu rose assis (Pink Nude Sitting)",
+      "author": "亨利·马蒂斯",
+      "authorEnglish": "Henri Matisse",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1935–1936",
+      "dateLabel": "DATE",
+      "slidingLabel": "Henri Matisse",
+      "source": "亨利·马蒂斯 · 1935–1936",
+      "year": "1935–1936",
+      "yearShown": "1935",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "马蒂斯1935至1936年的《粉红色坐姿裸体》经过反复修改，模特的姿态被逐步简化。画中近乎空白的面部、交叠的手臂与淡粉色躯干，使身体和背景的边界若即若离。",
+      "selectionReason": "身体依着织物支撑，弯曲与倚靠本身成为构图。它让沙发主题回到触觉与承托：一件座具如何帮助身体放松，并划出属于个人的范围。",
+      "keywords": [
+        "身体姿态",
+        "倚靠放松",
+        "个人领地"
+      ],
+      "sources": [
+        {
+          "title": "蓬皮杜中心｜Henri Matisse, Nu rose assis",
+          "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cR5R8bX"
+        }
+      ],
+      "originalRecord": {
+        "title": "《粉红色的裸体》",
+        "source": "亨利·马蒂斯 · 1935",
+        "year": "1935"
+      }
+    },
+    {
+      "id": "M-A14",
+      "title": "《安特米勒大街的卧室》",
+      "englishTitle": "Bedroom on Ainmillerstrasse",
+      "author": "瓦西里·康定斯基",
+      "authorEnglish": "Wassily Kandinsky",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1909",
+      "dateLabel": "DATE",
+      "slidingLabel": "Wassily Kandinsky",
+      "source": "瓦西里·康定斯基1909年",
+      "year": "1909",
+      "yearShown": "1909",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "康定斯基1909年的《安特米勒大街的卧室》以强烈色块描绘床、椅子、桌面和窗。家具仍可辨认，透视却被鲜明笔触改写，使私人房间成为色彩与情绪相互作用的场所。",
+      "selectionReason": "卧室中的座位与床铺一起界定休息的位置，物件的密集排列透露使用尺度。它让沙发主题从客厅扩展到身体如何熟悉一处私人空间。",
+      "keywords": [
+        "个人领地",
+        "倚靠放松",
+        "物件记忆"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A15",
+      "title": "《新伦巴赫的席勒之室》",
+      "englishTitle": "Schiele's Room in Neulengbach",
+      "author": "埃贡·席勒",
+      "authorEnglish": "Egon Schiele",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1911",
+      "dateLabel": "DATE",
+      "slidingLabel": "Egon Schiele",
+      "source": "Egon Schiele, 1911",
+      "year": "1911",
+      "yearShown": "1911",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "席勒1911年的这幅房间画以床铺、椅子和沿墙放置的家具展开。高低不齐的视点与大片空地带来不稳定感，人物虽不在场，狭窄的室内仍留下鲜明的生活尺度。",
+      "selectionReason": "家具之间的距离使人的行动与停留被间接看见。它让沙发主题关注个人房间如何被有限物件划分，以及空位怎样带出独处的感受。",
+      "keywords": [
+        "个人领地",
+        "物件记忆",
+        "观看位置"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A17",
+      "title": "《红色工作室》",
+      "englishTitle": "The Red Studio",
+      "author": "亨利·马蒂斯",
+      "authorEnglish": "Henri Matisse",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1911",
+      "dateLabel": "DATE",
+      "slidingLabel": "Henri Matisse",
+      "source": "亨利·马蒂斯, 1911",
+      "year": "1911",
+      "yearShown": "1911",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "马蒂斯1911年的《红色工作室》描绘他在伊西莱穆利诺的工作空间。画作、雕塑、桌子与椅子浸在统一红色中，物件以细线或色块显现，工作与收藏由同一房间容纳。",
+      "selectionReason": "休息座位与创作物件并置，房间因个人选择而形成独特秩序。它让沙发主题看到空间如何同时容纳工作、观看和停留，并留下主人的偏好。",
+      "keywords": [
+        "个人领地",
+        "共用空间",
+        "物件记忆"
+      ],
+      "sources": [
+        {
+          "title": "MoMA｜Henri Matisse, The Red Studio, 1911",
+          "url": "https://www.moma.org/collection/works/78389"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A18",
+      "title": "《公寓一角》",
+      "englishTitle": "A Corner of the Apartment",
+      "author": "克劳德·莫奈",
+      "authorEnglish": "Claude Monet",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1875",
+      "dateLabel": "DATE",
+      "slidingLabel": "Claude Monet",
+      "source": "克劳德·莫奈, 1875",
+      "year": "1875",
+      "yearShown": "1875",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "莫奈1875年的《公寓一角》将窗、帘幕、植物和远处人物放入层层遮掩的室内。比起展示完整房间，画面更在意从这一角看向另一角时，光与物件如何相互覆盖。",
+      "selectionReason": "被植物与帘幕分隔的视线，使共享房间里仍存在隐蔽角落。它让沙发主题关注可见与不可见之间的距离，以及日常停留的局部位置。",
+      "keywords": [
+        "视线遮挡",
+        "观看位置",
+        "私人边界",
+        "日常习惯"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A23",
+      "title": "《浴室》",
+      "englishTitle": "The Bathroom",
+      "author": "皮埃尔·博纳尔",
+      "authorEnglish": "Pierre Bonnard",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1932",
+      "dateLabel": "DATE",
+      "slidingLabel": "Pierre Bonnard",
+      "source": "皮埃尔·博纳尔，1932",
+      "year": "1932",
+      "yearShown": "1932",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "博纳尔1932年的《浴室》将女性身体放入狭窄而充满色彩的洗浴空间。门框、镜面与壁饰切分画面，身体没有被孤立展示，而与私密房间的材质和光线融在一起。",
+      "selectionReason": "洗浴场景把身体的自在与被观看的距离同时呈现。它让沙发主题思考舒适如何依赖私密性，以及一个人能否在自己的空间里放松。",
+      "keywords": [
+        "私人边界",
+        "身体姿态",
+        "个人领地"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A25",
+      "title": "《尼斯内部》",
+      "englishTitle": "Interior at Nice",
+      "author": "亨利·马蒂斯",
+      "authorEnglish": "Henri Matisse",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1919",
+      "dateLabel": "DATE",
+      "slidingLabel": "Henri Matisse",
+      "source": "亨利·马蒂斯, 1919–1920",
+      "year": "",
+      "yearShown": "1919",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "马蒂斯1919至1920年的《尼斯内部》让室内装饰与窗外海色互相呼应。桌子、扶手椅和帘幕铺陈在前景，一位女性坐在门外，房间与阳台由打开的门窗连成连续空间。",
+      "selectionReason": "空扶手椅与阳台上的坐姿隔空呼应，座位把室内外串联起来。它让沙发主题观察休憩的位置如何随着光线、视野和空间门槛改变。",
+      "keywords": [
+        "空间门槛",
+        "倚靠放松",
+        "观看位置",
+        "个人领地"
+      ],
+      "sources": [
+        {
+          "title": "芝加哥艺术博物馆研究目录｜Interior at Nice, 1919 or 1920",
+          "url": "https://publications.artic.edu/matisse/reader/works/section/67"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A26",
+      "title": "《画家的房间》",
+      "englishTitle": "The Painter's Room",
+      "author": "卢西安·弗洛伊德",
+      "authorEnglish": "Lucian Freud",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1944",
+      "dateLabel": "DATE",
+      "slidingLabel": "Lucian Freud",
+      "source": "卢西安·弗洛伊德，1944",
+      "year": "1944",
+      "yearShown": "1944",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "弗洛伊德1944年的《画家的房间》让一张沙发、棕榈植物、帽子和巨大的斑马头共处。鲜明轮廓与不合常理的尺度，使熟悉的日常物件组成带有梦境感的私人室内。",
+      "selectionReason": "沙发提供了熟悉的身体尺度，异常放大的物件却改变了房间气氛。它让沙发主题看见个人空间既能承托休息，也能容纳想象与心理投射。",
+      "keywords": [
+        "物件记忆",
+        "个人领地",
+        "倚靠放松"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A28",
+      "title": "《内部，斯特兰德街30号》",
+      "englishTitle": "Interior, Strandgade 30",
+      "author": "维尔海姆·哈默肖伊",
+      "authorEnglish": "Vilhelm Hammershøi",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1901",
+      "dateLabel": "DATE",
+      "slidingLabel": "Vilhelm Hammershøi",
+      "source": "维尔海姆·哈默斯霍伊，1901",
+      "year": "1901",
+      "yearShown": "1901",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "哈默肖伊的《内部，斯特兰德街30号》以门洞串联灰白房间。前景椅子与敞开的门清楚可见，深处人物却缩在暗处，少量家具和光线使空白也具有生活的重量。",
+      "selectionReason": "椅子与门口把停留和通过分成不同区域，人物在深处保持距离。它让沙发主题关注家中被保留的空位，以及私人生活能向外展示多少。",
+      "keywords": [
+        "空间门槛",
+        "私人边界",
+        "观看位置",
+        "个人领地"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A30",
+      "title": "《梅洛德祭坛画》",
+      "englishTitle": "Annunciation Triptych (Merode Altarpiece)",
+      "author": "罗伯特·康平作坊",
+      "authorEnglish": "Workshop of Robert Campin",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1427–1432",
+      "dateLabel": "DATE",
+      "slidingLabel": "Workshop of Robert Campin",
+      "source": "罗伯特·康平作坊 · 约1427–1432",
+      "year": "约1427–1432",
+      "yearShown": "1427",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "旁观"
+      },
+      "background": "《梅洛德祭坛画》出自罗伯特·康平作坊，约作于1427至1432年。三联画将报喜场景、跪拜的委托者与木匠作坊并列，宗教叙事由细密的日常室内器物承载。",
+      "selectionReason": "中央房间的座位与桌面让神圣叙事贴近日常居住，门口又区分进入和观看。它让沙发主题思考一间房怎样通过家具组织不同身份的相遇。",
+      "keywords": [
+        "空间门槛",
+        "共用桌面",
+        "观看位置",
+        "座次秩序"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆｜Workshop of Robert Campin, Annunciation Triptych (Merode Altarpiece)",
+          "url": "https://www.metmuseum.org/art/collection/search/470304"
+        }
+      ],
+      "originalRecord": {
+        "title": "《梅洛德祭坛画》",
+        "source": "罗伯特·康平，1427–1432",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-A31",
+      "title": "《书房中的圣哲罗姆》",
+      "englishTitle": "Saint Jerome in his Study",
+      "author": "安东内洛·达·梅西纳",
+      "authorEnglish": "Antonello da Messina",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1475",
+      "dateLabel": "DATE",
+      "slidingLabel": "Antonello da Messina",
+      "source": "安东内洛·达·梅西纳 · 约1475",
+      "year": "约1475",
+      "yearShown": "1475",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "安东内洛·达·梅西纳约1475年的《书房中的圣哲罗姆》描绘学者独自读书。高起的木制书房把书桌、座椅与书架组合成完整小空间，外侧拱门则框定观看。",
+      "selectionReason": "座椅与书桌共同建立专注的个人领地，台阶和拱门使这处领地保有边界。它让沙发主题延伸到一人停留时，家具如何承托身体与精神活动。",
+      "keywords": [
+        "个人领地",
+        "身体姿态",
+        "空间门槛",
+        "观看位置"
+      ],
+      "sources": [
+        {
+          "title": "伦敦国家美术馆｜Antonello da Messina, Saint Jerome in his Study",
+          "url": "https://www.nationalgallery.org.uk/paintings/antonello-da-messina-saint-jerome-in-his-study"
+        }
+      ],
+      "originalRecord": {
+        "title": "《书房中的圣哲罗姆》",
+        "source": "扬·凡·艾克（及作坊），1435",
+        "year": "1435"
+      }
+    },
+    {
+      "id": "M-A32",
+      "title": "《读信的女子》",
+      "englishTitle": "Woman Reading a Letter",
+      "author": "扬·维米尔",
+      "authorEnglish": "Johannes Vermeer",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1662",
+      "dateLabel": "DATE",
+      "slidingLabel": "Johannes Vermeer",
+      "source": "维米尔，1662–1663",
+      "year": "1662",
+      "yearShown": "1662",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "维米尔的《读信的女子》让一位蓝衣女性独自站在桌旁。墙上地图、近处椅背与手中的信构成安静的物件关系，观者看见阅读姿态，却无法读到信中的内容。",
+      "selectionReason": "椅子和桌子围出个人阅读的范围，私密性来自内容被保留。它让沙发主题看见独处并非完全隔绝，而是人与远方关系在室内悄然展开。",
+      "keywords": [
+        "私人边界",
+        "个人领地",
+        "日常习惯",
+        "观看位置"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A38",
+      "title": "《阳台房间》",
+      "englishTitle": "The Balcony Room",
+      "author": "阿道夫·冯·门采尔",
+      "authorEnglish": "Adolph Menzel",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1845",
+      "dateLabel": "DATE",
+      "slidingLabel": "Adolph Menzel",
+      "source": "阿道夫·冯·门采尔 · 1845",
+      "year": "1845",
+      "yearShown": "1845",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "门采尔1845年的《阳台房间》以空室、飘动窗帘、镜子和几把椅子为主题。门外日光进入地板，镜面又将局部家具折返，使普通房间呈现短暂停顿般的生活气息。",
+      "selectionReason": "空椅没有固定的交谈对象，开放的门却使房间保持可进入的状态。它让沙发主题观察光、空气和座位如何共同构成适合停留的地方。",
+      "keywords": [
+        "空间门槛",
+        "独处松弛",
+        "观看位置",
+        "共同停留"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A39",
+      "title": "《弹钢琴的年轻男子》",
+      "englishTitle": "Young Man at the Piano",
+      "author": "古斯塔夫·卡耶博特",
+      "authorEnglish": "Gustave Caillebotte",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1876",
+      "dateLabel": "DATE",
+      "slidingLabel": "Gustave Caillebotte",
+      "source": "卡耶博特，1876",
+      "year": "1876",
+      "yearShown": "1876",
+      "role": "主",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "卡耶博特1876年的《弹钢琴的年轻男子》把演奏者侧坐的身体放在居家陈设之间。琴键、谱架、窗光与厚重织物围绕着他，使音乐成为房间里一项专注的日常活动。",
+      "selectionReason": "坐姿并非只有休息，也能承托练习与表达。它让沙发主题看到座具如何支持身体投入一项活动，而共同空间可以暂时围绕一个人展开。",
+      "keywords": [
+        "身体姿态",
+        "日常习惯",
+        "个人领地",
+        "共用空间"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A41",
+      "title": "《波依特家的女儿们》",
+      "englishTitle": "The Daughters of Edward Darley Boit",
+      "author": "约翰·辛格·萨金特",
+      "authorEnglish": "John Singer Sargent",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1882",
+      "dateLabel": "DATE",
+      "slidingLabel": "John Singer Sargent",
+      "source": "萨金特，1882",
+      "year": "1882",
+      "yearShown": "1882",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "萨金特1882年的《波依特家的女儿们》把四位女孩分散在宽大的室内。有人坐在前景地毯上，有人靠近门洞或立于阴影中，巨型花瓶和空地使儿童的尺度格外鲜明。",
+      "selectionReason": "同一家人并不总是围成一个中心，坐地与站立也创造不同的小领地。它让沙发主题关注儿童如何用身体重新理解成人安排的室内空间。",
+      "keywords": [
+        "身体姿态",
+        "个人领地",
+        "社交距离",
+        "共用空间"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A46",
+      "title": "《窗边的年轻人》",
+      "englishTitle": "Young Man at His Window",
+      "author": "古斯塔夫·卡耶博特",
+      "authorEnglish": "Gustave Caillebotte",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1876",
+      "dateLabel": "DATE",
+      "slidingLabel": "Gustave Caillebotte",
+      "source": "古斯塔夫·凯耶博特 1876",
+      "year": "1876",
+      "yearShown": "1876",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "卡耶博特1876年的《窗边的年轻人》描绘弟弟勒内站在家中窗前，向下观看巴黎街道。观者从他背后进入房间，室内的暗部与外部城市的明亮在栏杆处交接。",
+      "selectionReason": "窗边的停留让私人房间与公共街道发生联系，身体却仍留在家中。它让沙发主题思考观看的位置，以及休憩空间如何与外部生活相连。",
+      "keywords": [
+        "观看位置",
+        "空间门槛",
+        "个人领地",
+        "身体姿态"
+      ],
+      "sources": [
+        {
+          "title": "盖蒂博物馆｜Getty Museum Acquires Gustave Caillebotte’s Iconic Young Man At His Window",
+          "url": "https://www.getty.edu/news/getty-museum-acquires-gustave-caillebotte-s-iconic-young-man-at-his-window/"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A47",
+      "title": "《究竟是什么使今日的家庭如此不同，如此吸引人？》",
+      "englishTitle": "Just What Is It That Makes Today's Homes So Different, So Appealing?",
+      "author": "理查德·汉密尔顿",
+      "authorEnglish": "Richard Hamilton",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1956",
+      "dateLabel": "DATE",
+      "slidingLabel": "Richard Hamilton",
+      "source": "理查德·汉密尔顿 · 1956",
+      "year": "1956",
+      "yearShown": "1956",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "汉密尔顿1956年的这幅拼贴为《这就是明天》展览而作，将广告人物、家电、沙发与大众图像拼进同一客厅。居家空间由消费文化的材料组成，生活也被包装成可展示的图景。",
+      "selectionReason": "沙发、电视与人物姿势共同塑造被许诺的现代家庭。它让沙发主题追问舒适与欲望如何被制造，以及家具怎样参与家庭身份的展示。",
+      "keywords": [
+        "身份展示",
+        "身体姿态",
+        "共用空间",
+        "观看位置"
+      ],
+      "sources": [
+        {
+          "title": "巴塞罗那当代艺术博物馆｜Richard Hamilton: Introspective",
+          "url": "https://www.macba.cat/en/exhibitions/introspective/"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-A50",
+      "title": "《物尽其用》",
+      "englishTitle": "Waste Not",
+      "author": "宋冬",
+      "authorEnglish": "Song Dong",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2005",
+      "dateLabel": "DATE",
+      "slidingLabel": "Song Dong",
+      "source": "宋冬 · 2005",
+      "year": "2005",
+      "yearShown": "2005",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "宋冬的《物尽其用》由他与母亲共同构思，将母亲多年保存的日用品展开为装置。瓶罐、织物、家具和零碎物件不再藏在家中，而让节俭习惯与家庭记忆显出完整的空间尺度。",
+      "selectionReason": "被留下的家具和器物记录一家人如何生活，也决定身体还能在哪里停留。它让沙发主题把舒适之外的依恋、积存与共同记忆纳入观看。",
+      "keywords": [
+        "物件记忆",
+        "日常习惯",
+        "共用空间",
+        "个人领地"
+      ],
+      "sources": [
+        {
+          "title": "MoMA｜Projects 90: Song Dong",
+          "url": "https://www.moma.org/calendar/exhibitions/960"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B5",
+      "title": "爱丽丝公寓客厅",
+      "englishTitle": "Alice's Apartment",
+      "author": "王安忆",
+      "authorEnglish": "Wang Anyi",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1995",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Wang Anyi",
+      "source": "王安忆《长恨歌》· 1995",
+      "year": "1995",
+      "yearShown": "1995",
+      "role": "主",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "王安忆《长恨歌》循着王琦瑶的人生书写上海的城市变迁。爱丽丝公寓属于她生命中的一段居住经验，室内生活连着女性处境、都市情感与时代的隐秘纹理。",
+      "selectionReason": "公寓将城市中被观看的身份收回到私人生活。沙发与会客位置适合承载这种转换，呈现接纳来访与保留自我的边界。",
+      "keywords": [
+        "个人领地",
+        "私人边界",
+        "共同停留",
+        "身份展示"
+      ],
+      "sources": [
+        {
+          "title": "中国作家网：在空间中讲述故事——重读《长恨歌》",
+          "url": "https://www.chinawriter.com.cn/n1/2024/1202/c458529-40373644.html"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B10",
+      "title": "拉斯柯尔尼科夫的顶楼斗室",
+      "englishTitle": "Raskolnikov's Attic Room",
+      "author": "费奥多尔·陀思妥耶夫斯基",
+      "authorEnglish": "Fyodor Dostoevsky",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1866",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Fyodor Dostoevsky",
+      "source": "陀思妥耶夫斯基《罪与罚》· 1866",
+      "year": "1866",
+      "yearShown": "1866",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "陀思妥耶夫斯基《罪与罚》将拉斯柯尔尼科夫的思想与精神危机放进彼得堡生活。他狭窄的顶楼房间既供栖身，也使贫困、孤立与内心压迫获得空间形状。",
+      "selectionReason": "斗室中的坐卧位置把休息、沉思和拒绝交往压缩在一起，可用来讨论座具如何成为个人领地，也暴露独处中的不安。",
+      "keywords": [
+        "个人领地",
+        "多用座具",
+        "身体姿态",
+        "私人边界"
+      ],
+      "sources": [
+        {
+          "title": "《罪与罚》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/2554/2554-h/2554-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B18",
+      "title": "祁家堂屋（北屋正堂）",
+      "englishTitle": "The Main Hall of the Qi Family",
+      "author": "老舍",
+      "authorEnglish": "Lao She",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1944",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lao She",
+      "source": "老舍《四世同堂》, 1944–1948",
+      "year": "",
+      "yearShown": "1944",
+      "role": "主",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "老舍《四世同堂》以北平胡同中的祁家和邻里，书写战争压力下的生活选择。多代同住使家庭伦理与个人处境相互牵连，堂屋连着日常照料与家族秩序。",
+      "selectionReason": "多代家庭的围坐同时需要照应与让位。堂屋能够呈现座次如何维持长幼关系，也如何把共同生活的责任交给每位成员。",
+      "keywords": [
+        "家庭围坐",
+        "座次秩序",
+        "日常习惯",
+        "共用空间"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B19",
+      "title": "陈白露旅馆客厅（sitting room）",
+      "englishTitle": "Chen Bailu's Hotel Sitting Room",
+      "author": "曹禺",
+      "authorEnglish": "Cao Yu",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1936",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Cao Yu",
+      "source": "曹禺《日出》, 1936",
+      "year": "",
+      "yearShown": "1936",
+      "role": "主",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "曹禺《日出》以陈白露的旅馆生活和城市底层处境相互映照。她的客厅聚集不同身份的来访者，社交的繁华与经济依附、孤独和困顿始终紧密相连。",
+      "selectionReason": "这里的沙发既接待宾客，也使私人生活不断向外敞开。来访者能够停留多久，和居住者能否真正休息，构成尖锐的关系。",
+      "keywords": [
+        "待客礼仪",
+        "私人边界",
+        "共同停留",
+        "身份展示"
+      ],
+      "sources": [
+        {
+          "title": "上海戏剧学院：《日出》",
+          "url": "https://yy.sta.edu.cn/3e/ec/c1126a16108/page.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-B41",
+      "title": "泰斯曼家客厅",
+      "englishTitle": "The Tesmans' Drawing Room",
+      "author": "亨里克·易卜生",
+      "authorEnglish": "Henrik Ibsen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1890",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Henrik Ibsen",
+      "source": "易卜生《海达·高布乐》1890",
+      "year": "1890",
+      "yearShown": "1890",
+      "role": "主",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "搭手"
+      },
+      "background": "易卜生《海达·高布乐》围绕海达婚后的生活与她试图影响的他人命运展开。泰斯曼家的客厅连接新婚家庭、来访者和旧关系，舒适的居所中潜伏着控制与焦灼。",
+      "selectionReason": "拥有漂亮的家并不保证能自在停留。会客座位让海达与他人反复靠近、试探，也让空间的占有与关系中的控制相互映照。",
+      "keywords": [
+        "个人领地",
+        "目光回应",
+        "私人边界",
+        "共同停留"
+      ],
+      "sources": [
+        {
+          "title": "《海达·高布乐》原文（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/4093/4093-h/4093-h.htm"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C16",
+      "title": "去客厅化案例",
+      "englishTitle": "A Home without a Conventional Living Room",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2022",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Home without a Conventional Living Room",
+      "source": "搜狐新闻《2022家装消费趋势报告》",
+      "year": "",
+      "yearShown": "2022",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "“去客厅化”一条引用搜狐所载《2022家装消费趋势报告》作为议题线索。配图保留临窗书架、工作桌与可躺卧的位置，呈现居住者按阅读和休息重新分配房间的方式。",
+      "selectionReason": "沙发不必规定整间房的朝向；当阅读、工作和放松各自获得位置，座具便成为支持日常选择的工具。",
+      "keywords": [
+        "日常习惯",
+        "座位重组",
+        "多用座具",
+        "独处松弛"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C18",
+      "title": "客厅书房化",
+      "englishTitle": "The Living Room as a Study",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The Living Room as a Study",
+      "source": "中国发展网《客厅书房化家庭改造指南——适配成长节奏的家庭学习空间改造建议与产品推荐》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "书架围绕共用桌展开，成人与孩子在同一室内各自阅读和写作。学习活动进入起居区域，让客厅同时承担陪伴、专注和交换日常经验的功能。",
+      "selectionReason": "长桌让陪伴不必依赖持续交谈：座位共享一片工作面，同时允许每个人保持自己的任务与身体朝向。",
+      "keywords": [
+        "共用桌面",
+        "家庭围坐",
+        "共用空间",
+        "日常习惯"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C19",
+      "title": "宠物家居一体化",
+      "englishTitle": "A Home Shared with Pets",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2026",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Home Shared with Pets",
+      "source": "西安新闻网转《2026年中国宠物家居行业发展趋势白皮书》（中国家博会联合发布）",
+      "year": "",
+      "yearShown": "2026",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "原资料关联西安新闻网转述的2026年宠物家居行业白皮书。所配两幅室内示意把电视柜、收纳、沙发与宠物活动开口放在同一套陈设中，用来讨论人与宠物共居的空间分配。",
+      "selectionReason": "座位周边也是其他家庭成员的通道与栖息地；把宠物尺度纳入陈设，可以重新思考谁能靠近、躲藏或一起休息。",
+      "keywords": [
+        "共用空间",
+        "私人边界",
+        "倚靠放松",
+        "日常习惯"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C20",
+      "title": "把家变成大型直播间1",
+      "englishTitle": "The Home as a Live-Streaming Studio",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The Home as a Live-Streaming Studio",
+      "source": "家创NEWS《焕新家》第23期《把家变成大型直播间，休闲工作随心换》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "家创NEWS《焕新家》第23期以“把家变成大型直播间”为题讨论居家工作。所配室内图在休闲区域布置相机、灯架与拍摄背景，把客厅转为可切换使用的工作场景。",
+      "selectionReason": "相机加入后，坐姿与家具朝向同时面向远端观众。它显示一张座具如何在放松、表演和工作之间改变关系。",
+      "keywords": [
+        "观看位置",
+        "身体姿态",
+        "多用座具",
+        "座位重组"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C21",
+      "title": "数字游民，居家办公",
+      "englishTitle": "Working from Home as a Digital Nomad",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2023",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "Working from Home as a Digital Nomad",
+      "source": "MBO Partners《2023 State of Independence / Digital Nomad Report》",
+      "year": "",
+      "yearShown": "2023",
+      "role": "主",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "MBO Partners的2023年数字游民报告研究借助数字技术跨地点工作的群体。本条借用该议题观察居家办公配图：桌椅、书架和生活用品叠置，照片并非经核实的报告原图。",
+      "selectionReason": "工作座位进入日常起居后，需要与休息位置分清边界，也要允许转换姿态；客厅因此成为时间与注意力的协商场。",
+      "keywords": [
+        "日常习惯",
+        "私人边界",
+        "座位重组",
+        "多用座具"
+      ],
+      "sources": [
+        {
+          "title": "MBO Partners：2023 Digital Nomads Trends Report",
+          "url": "https://www.mbopartners.com/state-of-independence/digital-nomads-2023"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C22",
+      "title": "亲子友好客厅",
+      "englishTitle": "A Child-Friendly Living Room",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Child-Friendly Living Room",
+      "source": "知乎《友好型客厅 | 打造适合带孩子的家庭游乐园》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "秋千、绳索与攀爬装置进入起居区域，家具与身体活动彼此穿插。儿童的移动路径重新安排了家庭公共空间，也让照看、游戏与休息可以同时发生。",
+      "selectionReason": "当摆荡与攀爬也成为相处方式，座具便不只服务端坐；照看者的停留点、孩子的活动半径需要一起安排。",
+      "keywords": [
+        "身体姿态",
+        "多用座具",
+        "共用空间",
+        "共同停留"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C23",
+      "title": "客厅禅茶间",
+      "englishTitle": "A Living Room for Zen and Tea",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Living Room for Zen and Tea",
+      "source": "今日头条《湖南一女子的家火了，光一个客厅就让很多人去效仿，太有禅意了》",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "低茶桌、坐垫、木地面与庭院视线连在一起，以较少的家具形成对坐、饮茶或独处的场景。面向景观的坐席，把观看与日常仪式合成一种缓慢的停留。",
+      "selectionReason": "降低坐姿会改变目光高度与拿取动作；低桌把谈话收拢到近处，同时让庭院成为共同观看的另一方向。",
+      "keywords": [
+        "共用桌面",
+        "身体姿态",
+        "目光回应",
+        "观看位置"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C24",
+      "title": "客厅长桌替代茶几",
+      "englishTitle": "A Long Table in Place of the Coffee Table",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2025",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Long Table in Place of the Coffee Table",
+      "source": "今日头条 2025《越来越多人客厅用\"餐桌\"代替\"茶几\"，体验后才知道：真香》",
+      "year": "",
+      "yearShown": "2025",
+      "role": "主",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "此条引用今日头条2025年以餐桌替代茶几的家居话题。配图将一张长桌放在客厅沙发前，桌面同时承接用餐与日常事务，示意起居中心由观看转向多种共同使用。",
+      "selectionReason": "桌面高度与座位距离改变后，同一组家具可以支持吃饭、阅读和交谈；沙发由背景变为共用桌边的一个位置。",
+      "keywords": [
+        "共用桌面",
+        "多用座具",
+        "座位重组",
+        "家庭围坐"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C25",
+      "title": "独居客厅治愈化",
+      "englishTitle": "A Restorative Room for Living Alone",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2026",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Restorative Room for Living Alone",
+      "source": "微信公众号 2026《上海一独居阿姨的小屋火了，凭一个客厅就圈粉无数，那叫一个治愈》",
+      "year": "",
+      "yearShown": "2026",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "原资料关联2026年微信公众号关于独居女性客厅的家居叙述。两幅配图呈现昏暖灯光下的沙发休息与桌前活动，借此观察一个人如何用陈设照顾自己的起居节奏。",
+      "selectionReason": "空出的邻座并不等于缺席；个人可以按光线、物件和姿态选择停留点，让客厅承接无需向他人解释的日常。",
+      "keywords": [
+        "独处松弛",
+        "个人领地",
+        "日常习惯",
+        "倚靠放松"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-C27",
+      "title": "下沉式客厅",
+      "englishTitle": "The Sunken Living Room",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2024",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The Sunken Living Room",
+      "source": "Marie Claire Australia 2024《根据TikTok，2024年6个室内设计趋势值得关注》",
+      "year": "",
+      "yearShown": "2024",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "连续软垫、低于周边地坪的坐区与中央桌面构成谈话凹室。下沉的边界聚拢身体与视线，让起居空间在保持开放的同时获得一个更明确的相聚中心。",
+      "selectionReason": "地面高差划出无需墙壁的相聚范围，连续坐面让人自由选择相邻或相对的位置，也使进入与离开成为可见动作。",
+      "keywords": [
+        "围合座位",
+        "社交距离",
+        "空间门槛",
+        "并坐亲密"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D3",
+      "title": "像素聚会",
+      "englishTitle": "Pixel Gathering",
+      "author": "任天堂",
+      "authorEnglish": "Nintendo",
+      "authorLabel": "GAME CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Nintendo",
+      "source": "任天堂《集合啦！动物森友会》与虚拟社交",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "任天堂《集合啦！动物森友会》允许玩家布置住宅、安排家具并邀请同伴来访。所配游戏室内图把现实中的椅子、桌面和装饰转为可选择、移动与重新组合的数字物件。",
+      "selectionReason": "玩家能够先摆出理想的相聚方式，再通过来访检验动线与距离；虚拟座位因此成为练习待客和表达自我的工具。",
+      "keywords": [
+        "座位重组",
+        "待客礼仪",
+        "身份展示",
+        "物件记忆"
+      ],
+      "sources": [
+        {
+          "title": "Nintendo：Create your getaway",
+          "url": "https://animalcrossing.nintendo.com/new-horizons/create/"
+        },
+        {
+          "title": "Nintendo：Share your community",
+          "url": "https://animalcrossing.nintendo.com/new-horizons/share/"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D4",
+      "title": "山水前的轻型茶亭（参考图）",
+      "englishTitle": "A Light Tea Pavilion Facing the Landscape",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "A Light Tea Pavilion Facing the Landscape",
+      "source": "面向山水的轻型茶亭",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "轻型框架与低坐平台面向水面及富士山，构成短暂停留的茶亭场景。屋顶、地面与景观共同界定坐下的位置，使简单的构筑获得接待与观看的意味。",
+      "selectionReason": "共同朝向一片景色，可以让少量坐席形成安静的相伴；简化围护后，框架与坐面的距离便承担了界定客厅的作用。",
+      "keywords": [
+        "观看位置",
+        "共同停留",
+        "并坐亲密",
+        "空间门槛"
+      ],
+      "sources": [],
+      "originalRecord": {
+        "title": "茶寮与亭",
+        "source": "光明网《亭子中的古人生活》引《园冶》",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-D14",
+      "title": "《模拟人生》的“起居室”物件逻辑",
+      "englishTitle": "The Living-Room Objects of The Sims",
+      "author": "Maxis / Electronic Arts",
+      "authorEnglish": "Maxis / Electronic Arts",
+      "authorLabel": "GAME CREATOR",
+      "date": "2000",
+      "dateLabel": "DATE",
+      "slidingLabel": "Maxis / Electronic Arts",
+      "source": "Maxis / Electronic Arts《The Sims》(2000至今)",
+      "year": "",
+      "yearShown": "2000",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "《模拟人生》系列把起居室拆成可购买、摆放与使用的家具对象，玩家据此编排生活。多层室内与可以重组的物件，使居住空间成为一套持续改变的关系系统。",
+      "selectionReason": "物件摆放会改变行动路线与相遇机会；把客厅当作可编辑的关系系统，有助于检视沙发、桌面与空地各自的作用。",
+      "keywords": [
+        "座位重组",
+        "多用座具",
+        "日常习惯",
+        "共用空间"
+      ],
+      "sources": [
+        {
+          "title": "Electronic Arts：The Sims 4 Tips & Tricks — Build Mode",
+          "url": "https://www.ea.com/games/the-sims/the-sims-4/console-tips"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D15",
+      "title": "《卡里加里博士的小屋》",
+      "englishTitle": "The Cabinet of Dr Caligari",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1920",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Cabinet of Dr Caligari",
+      "source": "表现主义空间与模型式舞台构造",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "模型式舞台图以倾斜墙面、狭长开口和强烈明暗营造不安感。它与表现主义电影的空间语言相呼应，让居住的房间同时成为心理状态的外部形状。",
+      "selectionReason": "室内边界也能强迫身体和目光采取某种姿态；这组场景让人反向思考，什么样的尺度与围护才允许安心坐下。",
+      "keywords": [
+        "身体姿态",
+        "观看位置",
+        "视线遮挡",
+        "私人边界"
+      ],
+      "sources": [],
+      "originalRecord": {
+        "title": "《卡里加里博士的小屋》",
+        "source": "导演罗伯特维内,1920",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-D17",
+      "title": "后现代主义「宇宙之家」",
+      "englishTitle": "The Postmodern Cosmic House",
+      "author": "查尔斯·詹克斯",
+      "authorEnglish": "Charles Jencks",
+      "authorLabel": "DESIGNER",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Charles Jencks",
+      "source": "Charles Jencks 在设计 The Cosmic House 时，将天文、物理学与哲学隐喻融于室内装潢与家具的具象化描述。",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "查尔斯·詹克斯与合作者营造的伦敦“宇宙之家”，把季节、天文与哲学意象写入房间及家具。所配室内图呈现弧形坐区与象征性装饰，关注住宅如何承载主人的知识世界。",
+      "selectionReason": "围合座位不仅组织交谈，也能把共同观看的符号摆在身边；客厅由此成为主人身份与思想持续展开的空间。",
+      "keywords": [
+        "身份展示",
+        "围合座位",
+        "观看位置",
+        "物件记忆"
+      ],
+      "sources": [
+        {
+          "title": "Jencks Foundation：Archive and Collection at The Cosmic House",
+          "url": "https://jencksfoundation.maxarchiveservices.co.uk/"
+        },
+        {
+          "title": "Jencks Foundation：Thematic Sitting Room",
+          "url": "https://jencksfoundation.maxarchiveservices.co.uk/index.php/cja-tch-b-16"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-D19-host",
+      "title": "卧榻上的独处（绘画参考图）",
+      "englishTitle": "Reclining in a Private Interior",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Reclining in a Private Interior",
+      "source": "卧榻与私人室内绘画参考",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "这幅所供绘画让人物斜卧在织物包围的坐榻上，屏风、靠垫和器物共同构成浓密的私人室内。原资料的地域归类过于宽泛，画家、作品名、地点与年代仍未得到核实。",
+      "selectionReason": "身体能够横卧、倚靠和占据较大坐面，显示一种对空间的自在使用；屏风与软物同时为这种放松划出可见边界。",
+      "keywords": [
+        "倚靠放松",
+        "身体姿态",
+        "私人边界",
+        "个人领地"
+      ],
+      "sources": [],
+      "originalRecord": {
+        "title": "中东/南亚经典客厅",
+        "source": "主要聚焦沙特阿拉伯、卡塔尔，阿曼等地区的经典客厅文化",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-D35",
+      "title": "织物中的家（徐道获作品参考）",
+      "englishTitle": "Home in Fabric",
+      "author": "徐道获",
+      "authorEnglish": "Do Ho Suh",
+      "authorLabel": "ARTIST",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Do Ho Suh",
+      "source": "徐道获织物建筑作品主题参考",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "background": "徐道获以半透明织物重构曾经居住的房屋，把迁居后的记忆化作可携带的建筑。黄色门框与轻薄的房间界面，将日常行走的尺度转成可被观看的柔软空间。",
+      "selectionReason": "即使家具尚未出现，门框、房间尺度与行走记忆也能唤起家的关系；它为沙发周边看不见的情感边界提供参照。",
+      "keywords": [
+        "物件记忆",
+        "空间门槛",
+        "私人边界",
+        "个人领地"
+      ],
+      "sources": [
+        {
+          "title": "MOCA：Do Ho Suh — Seoul Home/L.A. Home/New York Home…",
+          "url": "https://www.moca.org/artworks/seoul-homela-homenew-york-homebaltimore-homelondon-homeseattle-homela-home"
+        },
+        {
+          "title": "Smithsonian American Art Museum：Do Ho Suh — Almost Home",
+          "url": "https://americanart.si.edu/exhibitions/suh"
+        }
+      ],
+      "originalRecord": {
+        "title": "首尔之家",
+        "source": "Do Ho Suh（徐道获）𝗔𝗿𝘁 𝗮𝗻𝗱 𝗗𝗲𝘀𝗶𝗴𝗻\n𝗜𝗻𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻, 𝗟𝗶𝘃𝗶𝗻𝗴",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-D42",
+      "title": "围合中的记忆（Cells主题参考图）",
+      "englishTitle": "Memory within an Enclosure",
+      "author": "路易丝·布尔乔亚",
+      "authorEnglish": "Louise Bourgeois",
+      "authorLabel": "ARTIST",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Louise Bourgeois",
+      "source": "路易丝·布尔乔亚Cells系列主题参考",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "熟透",
+        "agency": "旁观"
+      },
+      "background": "网格围合、旧家具与狭窄的观看入口，把家庭记忆转成一处可进入又有所阻隔的空间。它与布尔乔亚Cells系列关于身体、隔离和居所的讨论形成联系。",
+      "selectionReason": "家具围在一起并不保证亲密，网格还可能使靠近变成隔绝；它让座位关系中的不可触及、观看和记忆显出重量。",
+      "keywords": [
+        "物件记忆",
+        "私人边界",
+        "视线遮挡",
+        "观看位置"
+      ],
+      "sources": [
+        {
+          "title": "National Gallery of Victoria：Louise Bourgeois’s Cell (glass spheres and hands)",
+          "url": "https://www.ngv.vic.gov.au/essay/louise-bourgeoiss-cell-glass-spheres-and-hands-2/"
+        }
+      ],
+      "originalRecord": {
+        "title": "牢笼",
+        "source": "Louise Bourgeois\n1911-2010",
+        "year": ""
+      }
+    },
+    {
+      "id": "M-D43",
+      "title": "电视即火塘",
+      "englishTitle": "The Television as a Hearth",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Television as a Hearth",
+      "source": "围坐结构的形式转译",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "火塘、周边木椅与悬挂器物形成围坐中心。身体朝向同一处光与热，使分散的个人活动获得共同焦点，也为“电视即火塘”的形式转译提供空间参照。",
+      "selectionReason": "中心吸引物会调整座位朝向，也能让人侧身与邻座交谈；把火塘与屏幕并看，有助于区分同看与彼此回应的关系。",
+      "keywords": [
+        "围合座位",
+        "家庭围坐",
+        "观看位置",
+        "目光回应"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "M-O2",
+      "title": "不同尺寸的客厅",
+      "englishTitle": "Living Rooms in Different Sizes",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Living Rooms in Different Sizes",
+      "source": "乐高拼插积木",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "所配乐高模型对应《老友记》Central Perk咖啡馆的积木转译，橙色沙发、单椅、低桌与吧台共同构成可拼插场景。官方产品说明将主坐席设计为可拆卸单元，方便重演会面。",
+      "selectionReason": "微缩让人能从上方整体安排关系：移动一组坐席，就能改变人物的相邻、对视与加入方式，空间组织变得可操作。",
+      "keywords": [
+        "座位重组",
+        "移动座位",
+        "围合座位",
+        "物件记忆"
+      ],
+      "sources": [
+        {
+          "title": "LEGO：Central Perk 21319",
+          "url": "https://www.lego.com/en-us/product/central-perk-21319"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "M-O3",
+      "title": "被掀开的屋顶",
+      "englishTitle": "The Lifted Roof",
+      "author": "门诺·阿登",
+      "authorEnglish": "Menno Aden",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Menno Aden",
+      "source": "德国艺术家 门诺·阿登（Menno Aden） ，长期摄影项目 《房间肖像》（Room Portraits）",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "主",
+      "values": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "德国艺术家门诺·阿登的长期摄影项目《房间肖像》以垂直俯视重新呈现室内。所配房间把沙发、桌椅和散置物件压成近似平面的布局，让居住痕迹成为画面主体。",
+      "selectionReason": "从上方看，座位的距离、朝向与个人物件的占地一并显现；它帮助读者把熟悉的客厅重新理解为日常关系的布置图。",
+      "keywords": [
+        "观看位置",
+        "日常习惯",
+        "个人领地",
+        "物件记忆"
+      ],
+      "sources": [
+        {
+          "title": "Menno Aden：Room Portraits（艺术家网站所载项目文献）",
+          "url": "https://mennoaden.com/wp-content/uploads/2020/12/MennoAden_revista.pdf"
+        }
+      ],
+      "originalRecord": null
+    },
+    {
+      "id": "X-1",
+      "title": "聚合状态 / GATHER",
+      "englishTitle": "聚合状态 / GATHER",
+      "author": "几分熟项目团队",
+      "authorEnglish": "How at Home project",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2026",
+      "dateLabel": "PROJECT DATE",
+      "slidingLabel": "How at Home project",
+      "source": "几分熟 · 展具方案",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "展览",
+      "values": {
+        "heat": "旺火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "来自本项目的展具方案，以可以移动的百叶单元组织一处围合空间。座位、展示界面与通行位置可以重新组合，形成一个没有完全定型的客厅。",
+      "selectionReason": "把沙发从固定成品转成一种聚合关系：人们怎样围坐、怎样留出入口，以及谁能移动座位，都能通过展具的变化显现。",
+      "keywords": [
+        "围合座位",
+        "座位重组",
+        "共用空间"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "X-2",
+      "title": "看、放、倚、坐、躺",
+      "englishTitle": "看、放、倚、坐、躺",
+      "author": "几分熟项目团队",
+      "authorEnglish": "How at Home project",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2026",
+      "dateLabel": "PROJECT DATE",
+      "slidingLabel": "How at Home project",
+      "source": "几分熟 · 百叶母模块",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "展览",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "background": "来自本项目的百叶母模块研究，同一套构件对应看、放、倚、坐、躺五种使用状态。展具不是五件彼此独立的产品，而是一组可转换的身体界面。",
+      "selectionReason": "它让沙发主题回到身体如何参与：从保持观看距离，到倚靠、落座与躺下，姿态变化会改变人与空间的亲近程度。",
+      "keywords": [
+        "身体姿态",
+        "倚靠放松",
+        "多用座具"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "X-3",
+      "title": "开放状态 / OPEN",
+      "englishTitle": "开放状态 / OPEN",
+      "author": "几分熟项目团队",
+      "authorEnglish": "How at Home project",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2026",
+      "dateLabel": "PROJECT DATE",
+      "slidingLabel": "How at Home project",
+      "source": "几分熟 · 展具方案",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "展览",
+      "values": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "表层",
+        "agency": "掌勺"
+      },
+      "background": "来自本项目的开放状态展具方案，单体沿弧形轨道分散或靠近。构件之间保留穿行空隙，可以形成开放弧线、局部围聚或较疏松的空间关系。",
+      "selectionReason": "座位并不只能排成一组固定沙发。移动和留白使陌生人可以旁观，也让愿意交谈的人逐步靠近，体现座位组织的可变性。",
+      "keywords": [
+        "移动座位",
+        "社交距离",
+        "空间门槛"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "X-4",
+      "title": "百叶界面与边界",
+      "englishTitle": "百叶界面与边界",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "百叶界面与边界",
+      "source": "用户展览资料 · 空间参考",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "展览",
+      "values": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "background": "百叶构件在开启前后改变界面的通透程度，也重新分配观看与停留的位置。重复的竖向构件把展陈空间组织为可以遮挡、穿行与相互望见的层次。",
+      "selectionReason": "遮挡并非只发生在墙上：沙发的靠背、扶手与围合方向同样决定能看见谁、能否加入，以及停留时被暴露到什么程度。",
+      "keywords": [
+        "视线遮挡",
+        "私人边界",
+        "观看位置"
+      ],
+      "sources": [],
+      "originalRecord": null
+    },
+    {
+      "id": "X-5",
+      "title": "从界面到坐席",
+      "englishTitle": "从界面到坐席",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "从界面到坐席",
+      "source": "用户展览资料 · 空间参考",
+      "year": "",
+      "yearShown": "未注明",
+      "role": "展览",
+      "values": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "background": "翻折和开启后的界面呈现出可以坐下停留的形态。原先用于分隔的表面转成承托身体的部分，使空间装置同时拥有边界与坐席的两种角色。",
+      "selectionReason": "把分隔界面变成可以坐下的地方，能够同时改变身体姿态和相遇方式，为沙发兼具边界与接待功能提供一种转译。",
+      "keywords": [
+        "多用座具",
+        "身体姿态",
+        "共同停留"
+      ],
+      "sources": [],
+      "originalRecord": null
+    }
+  ]
+}

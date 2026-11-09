@@ -1,0 +1,1485 @@
+{
+  "version": 16,
+  "records": [
+    {
+      "id": "M-A1",
+      "title": "《大使们》",
+      "author": "小汉斯·荷尔拜因",
+      "authorEnglish": "Hans Holbein the Younger",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1533",
+      "dateLabel": "DATE",
+      "slidingLabel": "Hans Holbein the Younger"
+    },
+    {
+      "id": "M-A2",
+      "title": "《宫娥》",
+      "author": "迭戈·委拉斯开兹",
+      "authorEnglish": "Diego Velázquez",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1656",
+      "dateLabel": "DATE",
+      "slidingLabel": "Diego Velázquez"
+    },
+    {
+      "id": "M-A24",
+      "title": "《橡果夫人的客厅》",
+      "author": "爱德华·霍珀",
+      "authorEnglish": "Edward Hopper",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1926",
+      "dateLabel": "DATE",
+      "slidingLabel": "Edward Hopper"
+    },
+    {
+      "id": "M-A36",
+      "title": "《窗边的女人》",
+      "author": "卡斯帕·大卫·弗里德里希",
+      "authorEnglish": "Caspar David Friedrich",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1822",
+      "dateLabel": "DATE",
+      "slidingLabel": "Caspar David Friedrich"
+    },
+    {
+      "id": "M-A40",
+      "title": "《意外归来》",
+      "author": "伊利亚·列宾",
+      "authorEnglish": "Ilya Repin",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1884",
+      "dateLabel": "DATE",
+      "slidingLabel": "Ilya Repin"
+    },
+    {
+      "id": "M-B1",
+      "title": "吴公馆客厅",
+      "author": "茅盾",
+      "authorEnglish": "Mao Dun",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1933",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Mao Dun"
+    },
+    {
+      "id": "M-B2",
+      "title": "尹公馆客厅",
+      "author": "白先勇",
+      "authorEnglish": "Pai Hsien-yung",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1965",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Pai Hsien-yung"
+    },
+    {
+      "id": "M-B3",
+      "title": "西门庆府邸厅堂",
+      "author": "兰陵笑笑生",
+      "authorEnglish": "Lanling Xiaoxiao Sheng",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "明万历时期",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lanling Xiaoxiao Sheng"
+    },
+    {
+      "id": "M-B6",
+      "title": "安娜·帕夫洛夫娜的晚会客厅",
+      "author": "列夫·托尔斯泰",
+      "authorEnglish": "Leo Tolstoy",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1865–69",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Leo Tolstoy"
+    },
+    {
+      "id": "M-B7",
+      "title": "鲍赛昂夫人的沙龙",
+      "author": "奥诺雷·德·巴尔扎克",
+      "authorEnglish": "Honoré de Balzac",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1834",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Honoré de Balzac"
+    },
+    {
+      "id": "M-B8",
+      "title": "沃比萨尔城堡客厅",
+      "author": "居斯塔夫·福楼拜",
+      "authorEnglish": "Gustave Flaubert",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1857",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Gustave Flaubert"
+    },
+    {
+      "id": "M-B14",
+      "title": "会客厅（drawing room）",
+      "author": "简·奥斯汀",
+      "authorEnglish": "Jane Austen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1813",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Jane Austen"
+    },
+    {
+      "id": "M-B20",
+      "title": "伍尔顿庄园会客厅",
+      "author": "奥斯卡·王尔德",
+      "authorEnglish": "Oscar Wilde",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1895",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Oscar Wilde"
+    },
+    {
+      "id": "M-B21",
+      "title": "罗马沙龙客厅（奥斯蒙德宅邸接待厅）",
+      "author": "亨利·詹姆斯",
+      "authorEnglish": "Henry James",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1881",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Henry James"
+    },
+    {
+      "id": "M-B24",
+      "title": "克拉丽莎·达洛维家 drawing-room（客厅宴会厅）",
+      "author": "弗吉尼亚·伍尔芙",
+      "authorEnglish": "Virginia Woolf",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1925",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Virginia Woolf"
+    },
+    {
+      "id": "M-B25",
+      "title": "旅途客栈的座敷",
+      "author": "川端康成",
+      "authorEnglish": "Yasunari Kawabata",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1926",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Yasunari Kawabata"
+    },
+    {
+      "id": "M-B27",
+      "title": "河街船总顺顺家「吊脚楼」（临窗看龙舟的楼厅）",
+      "author": "沈从文",
+      "authorEnglish": "Shen Congwen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1934",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Shen Congwen"
+    },
+    {
+      "id": "M-B29",
+      "title": "鲁四老爷家堂屋",
+      "author": "鲁迅",
+      "authorEnglish": "Lu Xun",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1924",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lu Xun"
+    },
+    {
+      "id": "M-B30",
+      "title": "杨宅",
+      "author": "老舍",
+      "authorEnglish": "Lao She",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1936",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lao She"
+    },
+    {
+      "id": "M-B33",
+      "title": "窦公馆客厅",
+      "author": "白先勇",
+      "authorEnglish": "Pai Hsien-yung",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1966",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Pai Hsien-yung"
+    },
+    {
+      "id": "M-B34",
+      "title": "庄之蝶家客厅",
+      "author": "贾平凹",
+      "authorEnglish": "Jia Pingwa",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1993",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Jia Pingwa"
+    },
+    {
+      "id": "M-B35",
+      "title": "老屋堂屋",
+      "author": "鲁迅",
+      "authorEnglish": "Lu Xun",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1921",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lu Xun"
+    },
+    {
+      "id": "M-B36",
+      "title": "马尼洛夫家客厅",
+      "author": "尼古拉·果戈理",
+      "authorEnglish": "Nikolai Gogol",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1842",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Nikolai Gogol"
+    },
+    {
+      "id": "M-B37",
+      "title": "葛朗台家堂屋",
+      "author": "奥诺雷·德·巴尔扎克",
+      "authorEnglish": "Honoré de Balzac",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1833",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Honoré de Balzac"
+    },
+    {
+      "id": "M-B38",
+      "title": "拉莫尔侯爵府沙龙",
+      "author": "司汤达",
+      "authorEnglish": "Stendhal",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1830",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Stendhal"
+    },
+    {
+      "id": "M-B39",
+      "title": "塞利梅纳的沙龙",
+      "author": "莫里哀",
+      "authorEnglish": "Molière",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1666",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Molière"
+    },
+    {
+      "id": "M-B42",
+      "title": "温德米尔勋爵家的客厅",
+      "author": "奥斯卡·王尔德",
+      "authorEnglish": "Oscar Wilde",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1892",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Oscar Wilde"
+    },
+    {
+      "id": "M-B43",
+      "title": "荣国府正厅",
+      "author": "曹雪芹",
+      "authorEnglish": "Cao Xueqin",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1740",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Cao Xueqin"
+    },
+    {
+      "id": "M-B45",
+      "title": "苏文纨的客厅沙龙",
+      "author": "钱钟书",
+      "authorEnglish": "Qian Zhongshu",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1947",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Qian Zhongshu"
+    },
+    {
+      "id": "M-B48",
+      "title": "维尔迪兰夫人的沙龙",
+      "author": "马塞尔·普鲁斯特",
+      "authorEnglish": "Marcel Proust",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1913",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Marcel Proust"
+    },
+    {
+      "id": "M-C15",
+      "title": "世界文学客厅",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2022",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The World Literature Living Room"
+    },
+    {
+      "id": "M-C17",
+      "title": "城市客厅（公共空间构想）",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2021",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The City as a Living Room"
+    },
+    {
+      "id": "M-D2",
+      "title": "园景中的公共停留面（参考图）",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Places to Pause in a Garden"
+    },
+    {
+      "id": "M-D6",
+      "title": "沙龙与咖啡馆",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Salon and the Café"
+    },
+    {
+      "id": "M-D9",
+      "title": "宜家展间",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "An IKEA Showroom"
+    },
+    {
+      "id": "M-D12 ",
+      "title": "共享室内坐席（参考图）",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Seats in a Shared Interior"
+    },
+    {
+      "id": "M-D16",
+      "title": "未装修的空置客厅（梦核/后室美学）",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Unfinished Empty Living Room"
+    },
+    {
+      "id": "M-D18",
+      "title": "古希腊 andron（男人会饮厅)",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Ancient Greek Andron"
+    },
+    {
+      "id": "M-D19-guest",
+      "title": "门洞后的坐席（绘画参考图）",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Seating Beyond a Doorway"
+    },
+    {
+      "id": "M-D38",
+      "title": "帆船沙龙舱",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Saloon of a Sailing Boat"
+    },
+    {
+      "id": "M-D39",
+      "title": "屋顶露台空中客厅",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Roof Terrace as a Living Room"
+    },
+    {
+      "id": "M-D40",
+      "title": "售楼处样板房",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Real-Estate Show Home"
+    },
+    {
+      "id": "M-D46",
+      "title": "公园相亲角",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Matchmaking Corner of a Park"
+    },
+    {
+      "id": "M-D49",
+      "title": "机舱与高铁车厢",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Aircraft Cabin and the Train Carriage"
+    },
+    {
+      "id": "M-O1",
+      "title": "岩洞中的粉色座具（参考图）",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Pink Seating in a Rocky Setting"
+    },
+    {
+      "id": "M-A3",
+      "title": "《音乐课》",
+      "author": "扬·维米尔",
+      "authorEnglish": "Johannes Vermeer",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1662–65",
+      "dateLabel": "DATE",
+      "slidingLabel": "Johannes Vermeer"
+    },
+    {
+      "id": "M-A7",
+      "title": "《打破的水罐》（据格瑞兹原作的版画）",
+      "author": "据让-巴蒂斯特·格瑞兹原作",
+      "authorEnglish": "After Jean-Baptiste Greuze",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "After Jean-Baptiste Greuze"
+    },
+    {
+      "id": "M-A8",
+      "title": "《室内》",
+      "author": "埃德加·德加",
+      "authorEnglish": "Edgar Degas",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1868–69",
+      "dateLabel": "DATE",
+      "slidingLabel": "Edgar Degas"
+    },
+    {
+      "id": "M-A9",
+      "title": "《亲密》",
+      "author": "皮埃尔·博纳尔",
+      "authorEnglish": "Pierre Bonnard",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1891",
+      "dateLabel": "DATE",
+      "slidingLabel": "Pierre Bonnard"
+    },
+    {
+      "id": "M-A13",
+      "title": "《有肖像的室内景》",
+      "author": "托马斯·勒·克利尔",
+      "authorEnglish": "Thomas Le Clear",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1865",
+      "dateLabel": "DATE",
+      "slidingLabel": "Thomas Le Clear"
+    },
+    {
+      "id": "M-A16",
+      "title": "《纽约的房间》",
+      "author": "爱德华·霍珀",
+      "authorEnglish": "Edward Hopper",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1932",
+      "dateLabel": "DATE",
+      "slidingLabel": "Edward Hopper"
+    },
+    {
+      "id": "M-A19",
+      "title": "《室内，女性们站在亚麻柜旁》",
+      "author": "彼得·德·霍赫",
+      "authorEnglish": "Pieter de Hooch",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1663",
+      "dateLabel": "DATE",
+      "slidingLabel": "Pieter de Hooch"
+    },
+    {
+      "id": "M-A20",
+      "title": "《贝莱利一家》",
+      "author": "埃德加·德加",
+      "authorEnglish": "Edgar Degas",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1858–1869",
+      "dateLabel": "DATE",
+      "slidingLabel": "Edgar Degas"
+    },
+    {
+      "id": "M-A21",
+      "title": "《午餐前的祈祷》",
+      "author": "让-巴蒂斯特-西梅翁·夏尔丹",
+      "authorEnglish": "Jean-Baptiste-Siméon Chardin",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1740",
+      "dateLabel": "DATE",
+      "slidingLabel": "Jean-Baptiste-Siméon Chardin"
+    },
+    {
+      "id": "M-A22",
+      "title": "《内景、艺术家的母亲与姐妹》",
+      "author": "爱德华·维亚尔",
+      "authorEnglish": "Édouard Vuillard",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1893",
+      "dateLabel": "DATE",
+      "slidingLabel": "Édouard Vuillard"
+    },
+    {
+      "id": "M-A27",
+      "title": "《慢舞》",
+      "author": "凯瑞·詹姆斯·马歇尔",
+      "authorEnglish": "Kerry James Marshall",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1992",
+      "dateLabel": "DATE",
+      "slidingLabel": "Kerry James Marshall"
+    },
+    {
+      "id": "M-A29",
+      "title": "《圆桌》",
+      "author": "乔治·布拉克",
+      "authorEnglish": "Georges Braque",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1929",
+      "dateLabel": "DATE",
+      "slidingLabel": "Georges Braque"
+    },
+    {
+      "id": "M-A33",
+      "title": "《正如老人所唱，年轻人跟着哼》",
+      "author": "扬·斯滕",
+      "authorEnglish": "Jan Steen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1665",
+      "dateLabel": "DATE",
+      "slidingLabel": "Jan Steen"
+    },
+    {
+      "id": "M-A34",
+      "title": "《斯特罗德一家》",
+      "author": "威廉·霍加斯",
+      "authorEnglish": "William Hogarth",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1738",
+      "dateLabel": "DATE",
+      "slidingLabel": "William Hogarth"
+    },
+    {
+      "id": "M-A37",
+      "title": "《阿尔及尔的女人》",
+      "author": "欧仁·德拉克洛瓦",
+      "authorEnglish": "Eugène Delacroix",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1834",
+      "dateLabel": "DATE",
+      "slidingLabel": "Eugène Delacroix"
+    },
+    {
+      "id": "M-A42",
+      "title": "《钢琴前的少女》",
+      "author": "皮埃尔-奥古斯特·雷诺阿",
+      "authorEnglish": "Pierre-Auguste Renoir",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1892",
+      "dateLabel": "DATE",
+      "slidingLabel": "Pierre-Auguste Renoir"
+    },
+    {
+      "id": "M-A43",
+      "title": "《阿尔诺芬尼夫妇像》",
+      "author": "扬·凡·艾克",
+      "authorEnglish": "Jan van Eyck",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1434",
+      "dateLabel": "DATE",
+      "slidingLabel": "Jan van Eyck"
+    },
+    {
+      "id": "M-A44",
+      "title": "《情书》",
+      "author": "扬·维米尔",
+      "authorEnglish": "Johannes Vermeer",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1669–70",
+      "dateLabel": "DATE",
+      "slidingLabel": "Johannes Vermeer"
+    },
+    {
+      "id": "M-A45",
+      "title": "《绘画艺术》",
+      "author": "扬·维米尔",
+      "authorEnglish": "Johannes Vermeer",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1666–1668",
+      "dateLabel": "DATE",
+      "slidingLabel": "Johannes Vermeer"
+    },
+    {
+      "id": "M-A48",
+      "title": "《克拉克夫妇与珀西》",
+      "author": "大卫·霍克尼",
+      "authorEnglish": "David Hockney",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1970–1971",
+      "dateLabel": "DATE",
+      "slidingLabel": "David Hockney"
+    },
+    {
+      "id": "M-A49",
+      "title": "《血缘：大家庭》系列",
+      "author": "张晓刚",
+      "authorEnglish": "Zhang Xiaogang",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1990年代",
+      "dateLabel": "DATE",
+      "slidingLabel": "Zhang Xiaogang"
+    },
+    {
+      "id": "M-B4",
+      "title": "阿尔文太太的客厅",
+      "author": "亨里克·易卜生",
+      "authorEnglish": "Henrik Ibsen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1881",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Henrik Ibsen"
+    },
+    {
+      "id": "M-B9",
+      "title": "鲁瓦赛尔家的小客厅",
+      "author": "居伊·德·莫泊桑",
+      "authorEnglish": "Guy de Maupassant",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1884",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Guy de Maupassant"
+    },
+    {
+      "id": "M-B11",
+      "title": "苔丝夫妇的古老客厅",
+      "author": "托马斯·哈代",
+      "authorEnglish": "Thomas Hardy",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1891",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Thomas Hardy"
+    },
+    {
+      "id": "M-B12",
+      "title": "萨姆沙家的起居室",
+      "author": "弗兰茨·卡夫卡",
+      "authorEnglish": "Franz Kafka",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1915",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Franz Kafka"
+    },
+    {
+      "id": "M-B13",
+      "title": "涓生的小屋客厅",
+      "author": "鲁迅",
+      "authorEnglish": "Lu Xun",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1925",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lu Xun"
+    },
+    {
+      "id": "M-B15",
+      "title": "海尔茂家起居室（三幕剧唯一场景）",
+      "author": "亨里克·易卜生",
+      "authorEnglish": "Henrik Ibsen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1879",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Henrik Ibsen"
+    },
+    {
+      "id": "M-B16",
+      "title": "拉姆齐家海滨别墅客厅（窗边茶桌区）",
+      "author": "弗吉尼亚·伍尔芙",
+      "authorEnglish": "Virginia Woolf",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1927",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Virginia Woolf"
+    },
+    {
+      "id": "M-B17",
+      "title": "拉涅夫斯卡娅家客厅（带旧家具与通往花园的门）",
+      "author": "安东·契诃夫",
+      "authorEnglish": "Anton Chekhov",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1904",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Anton Chekhov"
+    },
+    {
+      "id": "M-B22",
+      "title": "旧宅阁楼（待售家具现场）",
+      "author": "阿瑟·米勒",
+      "authorEnglish": "Arthur Miller",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1968",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Arthur Miller"
+    },
+    {
+      "id": "M-B23",
+      "title": "蒂龙家夏日别墅客厅",
+      "author": "尤金·奥尼尔",
+      "authorEnglish": "Eugene O’Neill",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1956",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Eugene O’Neill"
+    },
+    {
+      "id": "M-B26",
+      "title": "大阪药材商鵙屋家中（习艺与侍奉之所）",
+      "author": "谷崎润一郎",
+      "authorEnglish": "Jun’ichirō Tanizaki",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1933",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Jun’ichirō Tanizaki"
+    },
+    {
+      "id": "M-B28",
+      "title": "单位分房「合居客厅」（与另一对夫妇公用的客厅）",
+      "author": "刘震云",
+      "authorEnglish": "Liu Zhenyun",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1989",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Liu Zhenyun"
+    },
+    {
+      "id": "M-B31",
+      "title": "曾家小花厅",
+      "author": "曹禺",
+      "authorEnglish": "Cao Yu",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1940",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Cao Yu"
+    },
+    {
+      "id": "M-B32",
+      "title": "姜公馆堂屋",
+      "author": "张爱玲",
+      "authorEnglish": "Eileen Chang",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1943",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Eileen Chang"
+    },
+    {
+      "id": "M-B40",
+      "title": "奥勃朗斯基家客厅",
+      "author": "列夫·托尔斯泰",
+      "authorEnglish": "Leo Tolstoy",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1877",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Leo Tolstoy"
+    },
+    {
+      "id": "M-B44",
+      "title": "周公馆客厅",
+      "author": "曹禺",
+      "authorEnglish": "Cao Yu",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1934",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Cao Yu"
+    },
+    {
+      "id": "M-B46",
+      "title": "白公馆的客厅",
+      "author": "张爱玲",
+      "authorEnglish": "Eileen Chang",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1943",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Eileen Chang"
+    },
+    {
+      "id": "M-B47",
+      "title": "高公馆厅堂",
+      "author": "巴金",
+      "authorEnglish": "Ba Jin",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1931",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Ba Jin"
+    },
+    {
+      "id": "M-B49",
+      "title": "顾曼桢家石库门「饭厅/客堂间」",
+      "author": "张爱玲",
+      "authorEnglish": "Eileen Chang",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1950",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Eileen Chang"
+    },
+    {
+      "id": "M-B50",
+      "title": "三姊妹的客厅",
+      "author": "安东·契诃夫",
+      "authorEnglish": "Anton Chekhov",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1900",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Anton Chekhov"
+    },
+    {
+      "id": "M-C14",
+      "title": "聚会客厅",
+      "author": "郭仪",
+      "authorEnglish": "Guo Yi",
+      "authorLabel": "TEXT AUTHOR",
+      "date": "2023",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "Guo Yi"
+    },
+    {
+      "id": "M-C26",
+      "title": "春节客厅社交",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The Living Room at Spring Festival"
+    },
+    {
+      "id": "M-D5",
+      "title": "相亲相爱一家人",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "One Close-Knit Family"
+    },
+    {
+      "id": "M-D10",
+      "title": "祠堂与堂屋",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Ancestral Hall and the Main Hall"
+    },
+    {
+      "id": "M-D11",
+      "title": "巢房与群体空间（参考图）",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Nest Cells and Collective Space"
+    },
+    {
+      "id": "M-D34",
+      "title": "日本和室",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Japanese Tatami Room"
+    },
+    {
+      "id": "M-D36",
+      "title": "老友记 Central Perk",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Central Perk in Friends"
+    },
+    {
+      "id": "M-D37",
+      "title": "丹麦 hygge 壁炉",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "A Danish Hygge Fireplace"
+    },
+    {
+      "id": "M-D41",
+      "title": "柔软宫殿（The Soft Palace）",
+      "author": "Studio Ossidiana",
+      "authorEnglish": "Studio Ossidiana",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2025",
+      "dateLabel": "DATE",
+      "slidingLabel": "Studio Ossidiana"
+    },
+    {
+      "id": "M-A4",
+      "title": "《荷兰室内》",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "A Dutch Interior"
+    },
+    {
+      "id": "M-A5",
+      "title": "《室内》",
+      "author": "努里·伊耶姆",
+      "authorEnglish": "Nuri İyem",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Nuri İyem"
+    },
+    {
+      "id": "M-A6",
+      "title": "《黄色的室内》",
+      "author": "格蕾丝·科辛顿·史密斯",
+      "authorEnglish": "Grace Cossington Smith",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1962",
+      "dateLabel": "DATE",
+      "slidingLabel": "Grace Cossington Smith"
+    },
+    {
+      "id": "M-A10",
+      "title": "《客厅的阳光III》",
+      "author": "维尔海姆·哈默肖伊",
+      "authorEnglish": "Vilhelm Hammershøi",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1903",
+      "dateLabel": "DATE",
+      "slidingLabel": "Vilhelm Hammershøi"
+    },
+    {
+      "id": "M-A12",
+      "title": "《粉红色坐姿裸体》",
+      "author": "亨利·马蒂斯",
+      "authorEnglish": "Henri Matisse",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1935–1936",
+      "dateLabel": "DATE",
+      "slidingLabel": "Henri Matisse"
+    },
+    {
+      "id": "M-A14",
+      "title": "《安特米勒大街的卧室》",
+      "author": "瓦西里·康定斯基",
+      "authorEnglish": "Wassily Kandinsky",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1909",
+      "dateLabel": "DATE",
+      "slidingLabel": "Wassily Kandinsky"
+    },
+    {
+      "id": "M-A15",
+      "title": "《新伦巴赫的席勒之室》",
+      "author": "埃贡·席勒",
+      "authorEnglish": "Egon Schiele",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1911",
+      "dateLabel": "DATE",
+      "slidingLabel": "Egon Schiele"
+    },
+    {
+      "id": "M-A17",
+      "title": "《红色工作室》",
+      "author": "亨利·马蒂斯",
+      "authorEnglish": "Henri Matisse",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1911",
+      "dateLabel": "DATE",
+      "slidingLabel": "Henri Matisse"
+    },
+    {
+      "id": "M-A18",
+      "title": "《公寓一角》",
+      "author": "克劳德·莫奈",
+      "authorEnglish": "Claude Monet",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1875",
+      "dateLabel": "DATE",
+      "slidingLabel": "Claude Monet"
+    },
+    {
+      "id": "M-A23",
+      "title": "《浴室》",
+      "author": "皮埃尔·博纳尔",
+      "authorEnglish": "Pierre Bonnard",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1932",
+      "dateLabel": "DATE",
+      "slidingLabel": "Pierre Bonnard"
+    },
+    {
+      "id": "M-A25",
+      "title": "《尼斯内部》",
+      "author": "亨利·马蒂斯",
+      "authorEnglish": "Henri Matisse",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1919",
+      "dateLabel": "DATE",
+      "slidingLabel": "Henri Matisse"
+    },
+    {
+      "id": "M-A26",
+      "title": "《画家的房间》",
+      "author": "卢西安·弗洛伊德",
+      "authorEnglish": "Lucian Freud",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1944",
+      "dateLabel": "DATE",
+      "slidingLabel": "Lucian Freud"
+    },
+    {
+      "id": "M-A28",
+      "title": "《内部，斯特兰德街30号》",
+      "author": "维尔海姆·哈默肖伊",
+      "authorEnglish": "Vilhelm Hammershøi",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1901",
+      "dateLabel": "DATE",
+      "slidingLabel": "Vilhelm Hammershøi"
+    },
+    {
+      "id": "M-A30",
+      "title": "《梅洛德祭坛画》",
+      "author": "罗伯特·康平作坊",
+      "authorEnglish": "Workshop of Robert Campin",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1427–1432",
+      "dateLabel": "DATE",
+      "slidingLabel": "Workshop of Robert Campin"
+    },
+    {
+      "id": "M-A31",
+      "title": "《书房中的圣哲罗姆》",
+      "author": "安东内洛·达·梅西纳",
+      "authorEnglish": "Antonello da Messina",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "约1475",
+      "dateLabel": "DATE",
+      "slidingLabel": "Antonello da Messina"
+    },
+    {
+      "id": "M-A32",
+      "title": "《读信的女子》",
+      "author": "扬·维米尔",
+      "authorEnglish": "Johannes Vermeer",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1662",
+      "dateLabel": "DATE",
+      "slidingLabel": "Johannes Vermeer"
+    },
+    {
+      "id": "M-A38",
+      "title": "《阳台房间》",
+      "author": "阿道夫·冯·门采尔",
+      "authorEnglish": "Adolph Menzel",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1845",
+      "dateLabel": "DATE",
+      "slidingLabel": "Adolph Menzel"
+    },
+    {
+      "id": "M-A39",
+      "title": "《弹钢琴的年轻男子》",
+      "author": "古斯塔夫·卡耶博特",
+      "authorEnglish": "Gustave Caillebotte",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1876",
+      "dateLabel": "DATE",
+      "slidingLabel": "Gustave Caillebotte"
+    },
+    {
+      "id": "M-A41",
+      "title": "《波依特家的女儿们》",
+      "author": "约翰·辛格·萨金特",
+      "authorEnglish": "John Singer Sargent",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1882",
+      "dateLabel": "DATE",
+      "slidingLabel": "John Singer Sargent"
+    },
+    {
+      "id": "M-A46",
+      "title": "《窗边的年轻人》",
+      "author": "古斯塔夫·卡耶博特",
+      "authorEnglish": "Gustave Caillebotte",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1876",
+      "dateLabel": "DATE",
+      "slidingLabel": "Gustave Caillebotte"
+    },
+    {
+      "id": "M-A47",
+      "title": "《究竟是什么使今日的家庭如此不同，如此吸引人？》",
+      "author": "理查德·汉密尔顿",
+      "authorEnglish": "Richard Hamilton",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1956",
+      "dateLabel": "DATE",
+      "slidingLabel": "Richard Hamilton"
+    },
+    {
+      "id": "M-A50",
+      "title": "《物尽其用》",
+      "author": "宋冬",
+      "authorEnglish": "Song Dong",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2005",
+      "dateLabel": "DATE",
+      "slidingLabel": "Song Dong"
+    },
+    {
+      "id": "M-B5",
+      "title": "爱丽丝公寓客厅",
+      "author": "王安忆",
+      "authorEnglish": "Wang Anyi",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1995",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Wang Anyi"
+    },
+    {
+      "id": "M-B10",
+      "title": "拉斯柯尔尼科夫的顶楼斗室",
+      "author": "费奥多尔·陀思妥耶夫斯基",
+      "authorEnglish": "Fyodor Dostoevsky",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1866",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Fyodor Dostoevsky"
+    },
+    {
+      "id": "M-B18",
+      "title": "祁家堂屋（北屋正堂）",
+      "author": "老舍",
+      "authorEnglish": "Lao She",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1944",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Lao She"
+    },
+    {
+      "id": "M-B19",
+      "title": "陈白露旅馆客厅（sitting room）",
+      "author": "曹禺",
+      "authorEnglish": "Cao Yu",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1936",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Cao Yu"
+    },
+    {
+      "id": "M-B41",
+      "title": "泰斯曼家客厅",
+      "author": "亨里克·易卜生",
+      "authorEnglish": "Henrik Ibsen",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1890",
+      "dateLabel": "TEXT DATE",
+      "slidingLabel": "Henrik Ibsen"
+    },
+    {
+      "id": "M-C16",
+      "title": "去客厅化案例",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2022",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Home without a Conventional Living Room"
+    },
+    {
+      "id": "M-C18",
+      "title": "客厅书房化",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The Living Room as a Study"
+    },
+    {
+      "id": "M-C19",
+      "title": "宠物家居一体化",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2026",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Home Shared with Pets"
+    },
+    {
+      "id": "M-C20",
+      "title": "把家变成大型直播间1",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The Home as a Live-Streaming Studio"
+    },
+    {
+      "id": "M-C21",
+      "title": "数字游民，居家办公",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2023",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "Working from Home as a Digital Nomad"
+    },
+    {
+      "id": "M-C22",
+      "title": "亲子友好客厅",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Child-Friendly Living Room"
+    },
+    {
+      "id": "M-C23",
+      "title": "客厅禅茶间",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Living Room for Zen and Tea"
+    },
+    {
+      "id": "M-C24",
+      "title": "客厅长桌替代茶几",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2025",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Long Table in Place of the Coffee Table"
+    },
+    {
+      "id": "M-C25",
+      "title": "独居客厅治愈化",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2026",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "A Restorative Room for Living Alone"
+    },
+    {
+      "id": "M-C27",
+      "title": "下沉式客厅",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2024",
+      "dateLabel": "SOURCE DATE",
+      "slidingLabel": "The Sunken Living Room"
+    },
+    {
+      "id": "M-D3",
+      "title": "像素聚会",
+      "author": "任天堂",
+      "authorEnglish": "Nintendo",
+      "authorLabel": "GAME CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Nintendo"
+    },
+    {
+      "id": "M-D4",
+      "title": "山水前的轻型茶亭（参考图）",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "A Light Tea Pavilion Facing the Landscape"
+    },
+    {
+      "id": "M-D14",
+      "title": "《模拟人生》的“起居室”物件逻辑",
+      "author": "Maxis / Electronic Arts",
+      "authorEnglish": "Maxis / Electronic Arts",
+      "authorLabel": "GAME CREATOR",
+      "date": "2000",
+      "dateLabel": "DATE",
+      "slidingLabel": "Maxis / Electronic Arts"
+    },
+    {
+      "id": "M-D15",
+      "title": "《卡里加里博士的小屋》",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "1920",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Cabinet of Dr Caligari"
+    },
+    {
+      "id": "M-D17",
+      "title": "后现代主义「宇宙之家」",
+      "author": "查尔斯·詹克斯",
+      "authorEnglish": "Charles Jencks",
+      "authorLabel": "DESIGNER",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Charles Jencks"
+    },
+    {
+      "id": "M-D19-host",
+      "title": "卧榻上的独处（绘画参考图）",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Reclining in a Private Interior"
+    },
+    {
+      "id": "M-D35",
+      "title": "织物中的家（徐道获作品参考）",
+      "author": "徐道获",
+      "authorEnglish": "Do Ho Suh",
+      "authorLabel": "ARTIST",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Do Ho Suh"
+    },
+    {
+      "id": "M-D42",
+      "title": "围合中的记忆（Cells主题参考图）",
+      "author": "路易丝·布尔乔亚",
+      "authorEnglish": "Louise Bourgeois",
+      "authorLabel": "ARTIST",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Louise Bourgeois"
+    },
+    {
+      "id": "M-D43",
+      "title": "电视即火塘",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "The Television as a Hearth"
+    },
+    {
+      "id": "M-O2",
+      "title": "不同尺寸的客厅",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Living Rooms in Different Sizes"
+    },
+    {
+      "id": "M-O3",
+      "title": "被掀开的屋顶",
+      "author": "门诺·阿登",
+      "authorEnglish": "Menno Aden",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "Menno Aden"
+    },
+    {
+      "id": "X-1",
+      "title": "聚合状态 / GATHER",
+      "author": "几分熟项目团队",
+      "authorEnglish": "How at Home project",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2026",
+      "dateLabel": "PROJECT DATE",
+      "slidingLabel": "How at Home project"
+    },
+    {
+      "id": "X-2",
+      "title": "看、放、倚、坐、躺",
+      "author": "几分熟项目团队",
+      "authorEnglish": "How at Home project",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2026",
+      "dateLabel": "PROJECT DATE",
+      "slidingLabel": "How at Home project"
+    },
+    {
+      "id": "X-3",
+      "title": "开放状态 / OPEN",
+      "author": "几分熟项目团队",
+      "authorEnglish": "How at Home project",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "2026",
+      "dateLabel": "PROJECT DATE",
+      "slidingLabel": "How at Home project"
+    },
+    {
+      "id": "X-4",
+      "title": "百叶界面与边界",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "百叶界面与边界"
+    },
+    {
+      "id": "X-5",
+      "title": "从界面到坐席",
+      "author": "佚名",
+      "authorEnglish": "Anonymous",
+      "authorLabel": "AUTHOR / CREATOR",
+      "date": "年代未详",
+      "dateLabel": "DATE",
+      "slidingLabel": "从界面到坐席"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "records": 143,
+  "roles": {
+    "客": 45,
+    "伴": 50,
+    "主": 48
+  },
+  "embeddedImagesResolved": 143,
+  "duplicateOriginalId": "D19: guest and host have different embedded images, retained separately",
+  "unknownFacets": {
+    "heat": 0,
+    "contact": 0,
+    "depth": 0,
+    "agency": 0
+  },
+  "oldReferencesMatchedByUniqueTitle": 194,
+  "preservedLegacyRecords": 65,
+  "originalUnknownFacets": {
+    "heat": 37,
+    "contact": 13,
+    "depth": 16,
+    "agency": 26
+  },
+  "curatorialReview": {
+    "version": 12,
+    "records": 42,
+    "filledFields": 92,
+    "confirmedFieldsPreserved": true,
+    "auditFile": "分类复核_v12.json"
+  }
+}

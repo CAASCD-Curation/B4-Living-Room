@@ -1,0 +1,24 @@
+/* Mostly silver architecture; accents belong to trim, glass and the letter plate. */
+.decorated-house19 .facade-joinery19{fill:none;stroke:var(--ink,#303735);stroke-width:.8;stroke-linejoin:miter;stroke-linecap:square}
+.decorated-house19 .house-body17,.decorated-house19[data-flat-role=guest] .house-body17,.decorated-house19[data-flat-role=host] .house-body17,.decorated-house19.entrance-house17 .house-body17{fill:#F1F0ED;stroke:#303735;stroke-width:.85}
+.decorated-house19 .house-roof17{fill:#F1F0ED;stroke:#303735;stroke-width:.8}
+.decorated-house19 .roof-edge19{fill:none;stroke:#00BEFF;stroke-width:2.8}
+.decorated-house19 .lap-siding19{fill:none;stroke:#303735;stroke-width:.55;stroke-opacity:.22}
+.decorated-house19 .window-outer19,.decorated-house19 .window-architrave19,.decorated-house19 .door-casing19,.decorated-house19 .house-plinth19{fill:#F1F0ED;stroke:#303735;stroke-width:.75}
+.decorated-house19 .window-pane19{fill:#89CAEA;stroke:#303735;stroke-width:.65}
+.decorated-house19 .window-inner19{fill:none;stroke:#303735;stroke-width:.7}
+.decorated-house19 .window-curtain19{fill:#FFFFFF;stroke:none}
+.decorated-house19 .window-blinds19{fill:none;stroke:#F1F0ED;stroke-width:1.25}
+.decorated-house19 .window-mullion19{fill:none;stroke:#F1F0ED;stroke-width:2.8}
+.decorated-house19 .wall-corner19{fill:none;stroke:#FFFFFF;stroke-width:3.5}
+.decorated-house19 .door-opening12{fill:#89CAEA;stroke:#303735;stroke-width:.8}
+.decorated-house19 .door-leaf12{fill:#F1F0ED;stroke:#303735;stroke-width:.8}
+.decorated-house19 .door-panel19{fill:#FFFFFF;stroke:#303735;stroke-width:.6;stroke-opacity:.7}
+.decorated-house19 .door-panel-rebate19{fill:none;stroke:#303735;stroke-width:.45;stroke-opacity:.45}
+.decorated-house19 .door-letterplate19{fill:#FFFF00;stroke:#303735;stroke-width:.5}
+.decorated-house19 .door-handle12{fill:#00BEFF;stroke:#303735;stroke-width:.4}
+.original-roof.solid-roof14.roof-paper19 svg>path.roof-main19,.home-v9 .original-roof.solid-roof14.roof-paper19 svg>path.roof-main19,.home-v9:not(.lit) .original-roof.solid-roof14.roof-paper19 svg>path.roof-main19{fill:#F1F0ED;stroke:#303735;stroke-width:.65}
+.roof-paper19 .banner-joinery19{fill:none;stroke:#303735;stroke-width:.55;stroke-opacity:.2}
+.roof-paper19 .banner-joinery19 .banner-eave19{fill:none;stroke:#00BEFF;stroke-width:2;stroke-opacity:1}
+.decorated-house19.compact-house12 .window-blinds19,.decorated-house19.compact-house12 .door-panel-rebate19{display:none}
+.flat-entry12 .entry-house12 .decorated-house19{overflow:visible}

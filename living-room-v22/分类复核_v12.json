@@ -1,0 +1,1330 @@
+{
+  "version": 12,
+  "method": "策展判读：以原图与既有使用视点对照统一三级标准；不改动已确认值，不把身份或画面色彩等同于分面等级。",
+  "rubric": {
+    "heat": {
+      "微火": "静态、低频或未显现持续交流",
+      "中火": "持续回应或共同活动",
+      "旺火": "密集聚集、强烈互动"
+    },
+    "contact": {
+      "点状": "单一物件或局部观看",
+      "局部": "数个位置或一种共同活动",
+      "全面": "完整生活空间或多种活动重叠"
+    },
+    "depth": {
+      "表层": "外部观看与礼貌接触",
+      "入里": "进入私人陈设、习惯或共同经验",
+      "熟透": "身体、记忆与日常充分展开"
+    },
+    "agency": {
+      "旁观": "观看或遵循既有安排",
+      "搭手": "参与共用、局部决定",
+      "掌勺": "自主组织、使用与重构"
+    }
+  },
+  "reviewed_records": 42,
+  "filled_fields": 92,
+  "records": [
+    {
+      "id": "M-A24",
+      "title": "《橡果夫人的客厅》",
+      "role": "客",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "旁观"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "局部",
+          "criterion": "数个位置或一种共同活动"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "入里",
+          "criterion": "进入私人陈设、习惯或共同经验"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "旁观",
+          "criterion": "观看或遵循既有安排"
+        }
+      },
+      "reason": "空置的会客陈设与乐器构成私人室内的一角；以观看既有布置的视点判读，没有持续交谈的图像线索。"
+    },
+    {
+      "id": "M-D2",
+      "title": "武汉华润光谷润璟",
+      "role": "客",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "局部",
+          "criterion": "数个位置或一种共同活动"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "表层",
+          "criterion": "外部观看与礼貌接触"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "旁观",
+          "criterion": "观看或遵循既有安排"
+        }
+      },
+      "reason": "图中为园景与公共休憩面，未出现密集共同活动；观看者处于既有景观的外部使用位置。"
+    },
+    {
+      "id": "M-D9",
+      "title": "宜家展间",
+      "role": "客",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "局部",
+          "criterion": "数个位置或一种共同活动"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "表层",
+          "criterion": "外部观看与礼貌接触"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "旁观",
+          "criterion": "观看或遵循既有安排"
+        }
+      },
+      "reason": "样板间以被安排的家具组合供人观看；接触的是展示片段，未进入个人日常与自主布置。"
+    },
+    {
+      "id": "M-D16",
+      "title": "未装修的空置客厅（梦核/后室美学）",
+      "role": "客",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "局部",
+          "criterion": "数个位置或一种共同活动"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "表层",
+          "criterion": "外部观看与礼貌接触"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "旁观",
+          "criterion": "观看或遵循既有安排"
+        }
+      },
+      "reason": "空置、过渡性的室内以疏离观看为主，没有稳定共同活动或自主改造的线索。"
+    },
+    {
+      "id": "M-D19-guest",
+      "title": "中东/南亚经典客厅",
+      "role": "客",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "局部",
+          "criterion": "数个位置或一种共同活动"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "表层",
+          "criterion": "外部观看与礼貌接触"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "旁观",
+          "criterion": "观看或遵循既有安排"
+        }
+      },
+      "reason": "以门洞向内观看陈设与坐席，保持来访者的门槛位置；不由传统或地区推断互动强度。"
+    },
+    {
+      "id": "M-D38",
+      "title": "帆船沙龙舱",
+      "role": "客",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "局部",
+          "criterion": "数个位置或一种共同活动"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "入里",
+          "criterion": "进入私人陈设、习惯或共同经验"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "搭手",
+          "criterion": "参与共用、局部决定"
+        }
+      },
+      "reason": "沙龙舱把用餐与落座集中在有限区域，指向共用生活面；图中没有高频交谈，参与权限于共用。"
+    },
+    {
+      "id": "M-D39",
+      "title": "屋顶露台空中客厅",
+      "role": "客",
+      "before": {
+        "heat": "待确认",
+        "contact": "局部",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "表层",
+        "agency": "搭手"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "表层",
+          "criterion": "外部观看与礼貌接触"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "搭手",
+          "criterion": "参与共用、局部决定"
+        }
+      },
+      "reason": "露台座椅形成开放的共同停留点，接触面沿用原值；未见私人生活展开，允许参与停留而非重构空间。"
+    },
+    {
+      "id": "M-O1",
+      "title": "《Dream House》",
+      "role": "客",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "表层",
+        "agency": "旁观"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "点状",
+          "criterion": "单一物件或局部观看"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "表层",
+          "criterion": "外部观看与礼貌接触"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "旁观",
+          "criterion": "观看或遵循既有安排"
+        }
+      },
+      "reason": "图像把一件粉色家具孤置于岩石环境，接触集中于物件的观看，没有共同活动与生活使用的证据。"
+    },
+    {
+      "id": "M-A8",
+      "title": "《室内》",
+      "role": "伴",
+      "before": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "熟透",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "旺火",
+        "contact": "局部",
+        "depth": "熟透",
+        "agency": "旁观"
+      },
+      "changes": {
+        "agency": {
+          "before": "待确认",
+          "after": "旁观",
+          "criterion": "观看或遵循既有安排"
+        }
+      },
+      "reason": "保留原有强度、范围与深度；人物关系由既有室内和身体位置构成，图中未呈现参与布置或改变空间。"
+    },
+    {
+      "id": "M-A29",
+      "title": "《圆桌》",
+      "role": "伴",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "旁观"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "局部",
+          "criterion": "数个位置或一种共同活动"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "入里",
+          "criterion": "进入私人陈设、习惯或共同经验"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "旁观",
+          "criterion": "观看或遵循既有安排"
+        }
+      },
+      "reason": "圆桌与静物构成静态的日常桌面组合；观看进入私人陈设，但未显现持续交流或改造行为。"
+    },
+    {
+      "id": "M-A37",
+      "title": "《阿尔及尔的女人》",
+      "role": "伴",
+      "before": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "changes": {
+        "agency": {
+          "before": "待确认",
+          "after": "搭手",
+          "criterion": "参与共用、局部决定"
+        }
+      },
+      "reason": "保留原有三项；人物共享坐卧与停留区域，以参与共用判为搭手，不将共处直接视为掌控全室。"
+    },
+    {
+      "id": "M-A49",
+      "title": "《血缘：大家庭》系列",
+      "role": "伴",
+      "before": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "旁观"
+      },
+      "changes": {
+        "agency": {
+          "before": "待确认",
+          "after": "旁观",
+          "criterion": "观看或遵循既有安排"
+        }
+      },
+      "reason": "保留原有三项；人物在既定肖像位置中被观看，没有共同决定房间安排的图像线索。"
+    },
+    {
+      "id": "M-D11",
+      "title": "蜂巢中央巢脾",
+      "role": "伴",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "中火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "中火",
+          "criterion": "持续回应或共同活动"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "局部",
+          "criterion": "数个位置或一种共同活动"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "入里",
+          "criterion": "进入私人陈设、习惯或共同经验"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "搭手",
+          "criterion": "参与共用、局部决定"
+        }
+      },
+      "reason": "以筑巢、共用巢脾的持续参与作为关系类比；图像展示局部巢面而非完整组织权力，不推定蜂王决策。"
+    },
+    {
+      "id": "M-D34",
+      "title": "日本和室",
+      "role": "伴",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "全面",
+          "criterion": "完整生活空间或多种活动重叠"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "入里",
+          "criterion": "进入私人陈设、习惯或共同经验"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "搭手",
+          "criterion": "参与共用、局部决定"
+        }
+      },
+      "reason": "书架、茶几与地面坐席呈现多用途日常空间；未出现热烈交流，共用陈设对应参与而非完全主导。"
+    },
+    {
+      "id": "M-D41",
+      "title": "柔软宫殿：“欢乐宫殿”（Fun Palace）项目中的一件装置艺术",
+      "role": "伴",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "待确认",
+        "agency": "搭手"
+      },
+      "after": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "中火",
+          "criterion": "持续回应或共同活动"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "入里",
+          "criterion": "进入私人陈设、习惯或共同经验"
+        }
+      },
+      "reason": "共同停留和参与装置形成持续回应，进入共享经验；范围与权限定为原有的全面、搭手。"
+    },
+    {
+      "id": "M-A6",
+      "title": "《黄色的室内》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "掌勺",
+          "criterion": "自主组织、使用与重构"
+        }
+      },
+      "reason": "静态室内没有持续交流；完整家具与陈设指向可由居住者组织的日常空间，保留原有范围和深度。"
+    },
+    {
+      "id": "M-A10",
+      "title": "《客厅的阳光III》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "掌勺",
+          "criterion": "自主组织、使用与重构"
+        }
+      },
+      "reason": "阳光、钢琴与空置室内未显示交谈；以完整起居空间的内部组织视点判读掌勺，保留原有范围和深度。"
+    },
+    {
+      "id": "M-A12",
+      "title": "《粉红色的裸体》",
+      "role": "主",
+      "before": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "熟透",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "agency": {
+          "before": "待确认",
+          "after": "掌勺",
+          "criterion": "自主组织、使用与重构"
+        }
+      },
+      "reason": "身体自在暴露于私人坐席，按原有熟透的阅读视点判为自主使用；其他三项沿用原表。"
+    },
+    {
+      "id": "M-A14",
+      "title": "《安特米勒大街的卧室》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "无人卧室呈现静态生活陈设；强度按未出现持续交流判为微火，其余沿用原表。"
+    },
+    {
+      "id": "M-A15",
+      "title": "《新伦巴赫的席勒之室》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "床、座椅与柜体构成无人日常室内；强度按静态、低频线索判为微火。"
+    },
+    {
+      "id": "M-A17",
+      "title": "《红色工作室》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "工作室以作品和个人陈设展开，未呈现共同交流；不以红色画面误判火候值。"
+    },
+    {
+      "id": "M-A18",
+      "title": "《公寓一角》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "掌勺",
+          "criterion": "自主组织、使用与重构"
+        }
+      },
+      "reason": "室内一角以植栽和陈设为主，没有持续交流；从组织完整日常环境的内部视点判读掌勺。"
+    },
+    {
+      "id": "M-A23",
+      "title": "《浴室》",
+      "role": "主",
+      "before": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "熟透",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "点状",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "agency": {
+          "before": "待确认",
+          "after": "掌勺",
+          "criterion": "自主组织、使用与重构"
+        }
+      },
+      "reason": "私人洗浴行为对应身体的自主使用；不改动原有微火、点状、熟透。"
+    },
+    {
+      "id": "M-A25",
+      "title": "《尼斯内部》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "人物安静停留于窗边，未见持续回应或密集交谈；其余三项沿用原表。"
+    },
+    {
+      "id": "M-A26",
+      "title": "《画家的房间》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "人物与床榻以静止姿态构成私人房间；没有持续交流的图像线索。"
+    },
+    {
+      "id": "M-A28",
+      "title": "《内部，斯特兰德街30号》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "掌勺",
+          "criterion": "自主组织、使用与重构"
+        }
+      },
+      "reason": "人物背身、门与家具呈现安静的室内使用；以居住者组织日常环境的视点判读自主权。"
+    },
+    {
+      "id": "M-A38",
+      "title": "《阳台房间》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "掌勺",
+          "criterion": "自主组织、使用与重构"
+        }
+      },
+      "reason": "空置阳台门与室内陈设没有共同交流；完整起居空间的内部使用对应自主安排。"
+    },
+    {
+      "id": "M-A47",
+      "title": "《究竟是什么使今日的家庭如此不同，如此吸引人？》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "拼贴中的人物各自呈现生活姿态，未形成明确的往复交流；不将视觉元素繁多等同于旺火。"
+    },
+    {
+      "id": "M-A50",
+      "title": "《物尽其用》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "物件密集但没有交谈行为；物品数量不替代互动强度，其他三项沿用原表。"
+    },
+    {
+      "id": "M-C16",
+      "title": "去客厅化案例",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "独自停留与工作构成低频使用，去客厅化的布置本身不等于高强度关系。"
+    },
+    {
+      "id": "M-C18",
+      "title": "客厅书房化",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "中火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "中火",
+          "criterion": "持续回应或共同活动"
+        }
+      },
+      "reason": "共桌学习呈现持续共同活动与回应；不把安静学习推成密集、强烈的旺火。"
+    },
+    {
+      "id": "M-C19",
+      "title": "宠物家居一体化",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "图中主要呈现适配宠物的陈设，没有直接的密集人际互动。"
+    },
+    {
+      "id": "M-C27",
+      "title": "下沉式客厅",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "围合座位提供交流潜能，但画面空置；火候按当前呈现状态而非潜在功能判为微火。"
+    },
+    {
+      "id": "M-D14",
+      "title": "《模拟人生》的“起居室”物件逻辑",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "画面展示可布置的虚拟起居室，未呈现人物交流；可编辑性不直接等于高互动强度。"
+    },
+    {
+      "id": "M-D15",
+      "title": "《卡里加里博士的小屋》",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "全面",
+          "criterion": "完整生活空间或多种活动重叠"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "入里",
+          "criterion": "进入私人陈设、习惯或共同经验"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "掌勺",
+          "criterion": "自主组织、使用与重构"
+        }
+      },
+      "reason": "完整的室内布景把座位、门口与私密使用纳入同一空间；以内部场景可被组织的策展视点判读，不依据片名推断人物行为。"
+    },
+    {
+      "id": "M-D17",
+      "title": "后现代主义「宇宙之家」",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "宇宙之家图像展示个人化室内陈设而没有持续交谈；其余三项保留。"
+    },
+    {
+      "id": "M-D19-host",
+      "title": "中东/南亚经典客厅",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "全面",
+          "criterion": "完整生活空间或多种活动重叠"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "熟透",
+          "criterion": "身体、记忆与日常充分展开"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "掌勺",
+          "criterion": "自主组织、使用与重构"
+        }
+      },
+      "reason": "人物自在卧于完整陈设中，身体与个人日常深入展开；与来访者门洞观看的同名图采用不同视点，不按地区套用等级。"
+    },
+    {
+      "id": "M-D35",
+      "title": "首尔之家",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "熟透",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        }
+      },
+      "reason": "织物房间承载个人记忆与自主复刻，但图中没有持续人际交流。"
+    },
+    {
+      "id": "M-D42",
+      "title": "牢笼",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "待确认",
+        "depth": "熟透",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "熟透",
+        "agency": "旁观"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "contact": {
+          "before": "待确认",
+          "after": "局部",
+          "criterion": "数个位置或一种共同活动"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "旁观",
+          "criterion": "观看或遵循既有安排"
+        }
+      },
+      "reason": "网笼将观看限定于被封存的物件与局部区域，观看者无法自主取用和改造；原有熟透保持。"
+    },
+    {
+      "id": "M-D43",
+      "title": "电视即火塘",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "局部",
+        "depth": "待确认",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "局部",
+        "depth": "入里",
+        "agency": "搭手"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "入里",
+          "criterion": "进入私人陈设、习惯或共同经验"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "搭手",
+          "criterion": "参与共用、局部决定"
+        }
+      },
+      "reason": "围坐结构指向共同观看与参与，图像没有直接呈现强交流；保留接触面为局部，不把火塘字面含义当火候。"
+    },
+    {
+      "id": "M-O2",
+      "title": "不同尺寸的客厅",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "待确认",
+        "agency": "掌勺"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "depth": {
+          "before": "待确认",
+          "after": "入里",
+          "criterion": "进入私人陈设、习惯或共同经验"
+        }
+      },
+      "reason": "拼插模型展开完整多用途室内，可编辑性归入掌勺；火候按模型呈现而非人物数量推断。"
+    },
+    {
+      "id": "M-O3",
+      "title": "被掀开的屋顶",
+      "role": "主",
+      "before": {
+        "heat": "待确认",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "待确认"
+      },
+      "after": {
+        "heat": "微火",
+        "contact": "全面",
+        "depth": "入里",
+        "agency": "掌勺"
+      },
+      "changes": {
+        "heat": {
+          "before": "待确认",
+          "after": "微火",
+          "criterion": "静态、低频或未显现持续交流"
+        },
+        "agency": {
+          "before": "待确认",
+          "after": "掌勺",
+          "criterion": "自主组织、使用与重构"
+        }
+      },
+      "reason": "俯拍房间呈现自主安排的完整私人物件格局，画面静态，没有往复交流线索。"
+    }
+  ]
+}

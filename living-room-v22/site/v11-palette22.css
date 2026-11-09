@@ -1,0 +1,30 @@
+/* Three destinations: view modes at the right, tools above, guide at the centre. */
+#utility-nav10{top:50%;right:2.1%;width:58px;transform:translateY(-50%);display:flex;flex-direction:column;align-items:stretch;gap:14px;pointer-events:none}
+.tool-button11{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;color:var(--ink);cursor:pointer}
+.tool-button11 svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.15}
+.tool-button11>span{font-size:7px;letter-spacing:.045em;white-space:nowrap}
+.view-switch11{display:flex;flex-direction:column;gap:3px;padding:5px;border:1px solid var(--line);border-radius:22px;background:rgb(241 240 237 / .96);box-shadow:0 5px 22px #30373509;pointer-events:auto}
+.view-switch11>.tool-button11{width:46px;height:48px;border-radius:15px;transition:background .2s,color .2s}
+.view-switch11>.tool-button11:hover{background:var(--surface)}
+.view-switch11>.tool-button11[aria-pressed=true]{background:var(--soft-blue);color:var(--ink)}
+.heat-tools11{position:relative;pointer-events:auto}
+.heat-tools11>.tool-button11{width:58px;height:54px;border:1px solid var(--line);border-radius:18px;background:#F1F0ED;transition:background .2s}
+.heat-tools11>.tool-button11[aria-pressed=true]:not(:disabled){background:var(--acid)}
+.heat-tools11>.tool-button11:disabled{opacity:.3;cursor:default}
+#utility-nav10 .heat-tools11 .facet-dock{right:70px;top:0;opacity:0;visibility:hidden;translate:7px 0;pointer-events:none}
+#utility-nav10 .heat-tools11:hover .facet-dock,#utility-nav10 .heat-tools11:focus-within .facet-dock{opacity:1;visibility:visible;translate:0 0;pointer-events:auto}
+#top-actions11{position:fixed;top:14px;right:5%;z-index:260;pointer-events:none}
+.top-action-group11{display:flex;gap:4px;padding:5px 7px;border:1px solid var(--line);border-radius:21px;background:rgb(241 240 237 / .96);box-shadow:0 4px 20px #30373509;pointer-events:auto}
+.top-action-group11>.tool-button11{width:48px;height:44px;border-radius:15px;transition:background .2s}
+.top-action-group11>.tool-button11:hover{background:var(--surface)}
+.top-action-group11>.tool-button11[aria-pressed=true]{background:var(--soft-blue)}
+#top-actions11 [data-act=pin] svg{fill:var(--acid);stroke:var(--blue);stroke-width:1.6}
+#top-actions11 [data-act=pin][aria-pressed=true] svg{fill:var(--acid);stroke:var(--ink)}
+#floating-nav .nav-capsule>[data-act=help]{background:var(--surface);border-radius:50%;margin:0 2px}
+#floating-nav .nav-capsule>[data-act=help][aria-pressed=true]{background:var(--acid)}
+.database-top{padding-right:260px}
+.database-top .search-field{margin-right:0}
+.scale-controls7,.db-tools-drawer9{top:81px;right:5%}
+.entering-site #top-actions11{visibility:hidden}
+@media(max-width:900px){#utility-nav10{right:1.5%;width:52px}.view-switch11{padding:4px;gap:2px;border-radius:19px}.view-switch11>.tool-button11{width:42px;height:44px;border-radius:13px}.heat-tools11>.tool-button11{width:52px;height:50px;border-radius:16px}#utility-nav10 .heat-tools11 .facet-dock{right:63px}.database-top{padding-right:240px}}
+@media(max-width:600px){#top-actions11{top:13px;right:4%}.top-action-group11{gap:2px;padding:4px;border-radius:17px}.top-action-group11>.tool-button11{width:34px;height:40px;border-radius:12px}.top-action-group11 svg{width:19px;height:19px}.tool-button11>span{font-size:6px}.database-top{padding-right:137px;gap:15px}.database-top h1{font-size:15px}.database-top>div>span{font-size:6px}.db-wordmark{font-size:19px}#utility-nav10{top:48%;right:2%;width:46px;gap:11px}.view-switch11{padding:3px;border-radius:18px}.view-switch11>.tool-button11{width:38px;height:42px;border-radius:13px}.view-switch11 svg,.heat-tools11 svg{width:19px;height:19px}.heat-tools11>.tool-button11{width:46px;height:46px;border-radius:15px}#utility-nav10 .heat-tools11 .facet-dock{right:55px;max-width:250px}.scale-controls7,.db-tools-drawer9{right:4%;top:78px;width:min(310px,92vw)}#floating-nav .nav-capsule>[data-act=help]{margin:0 1px}#floating-nav .nav-capsule{gap:3px;padding-left:8px;padding-right:8px}}

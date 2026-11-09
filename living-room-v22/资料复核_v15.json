@@ -1,0 +1,546 @@
+{
+  "version": 15,
+  "changedRecordCount": 28,
+  "policy": "原data.js及历史已确认四分面保留。此表记录本版显示层的图文、出处、年代复核；不能确认的版本不沿用可疑定年。不是对全部资料完成独立考证的声明。",
+  "records": [
+    {
+      "id": "M-B20",
+      "before": {
+        "title": "维多利亚乡间宅邸客厅（原文 morning-room/drawing-room）",
+        "source": "奥斯卡·王尔德\n《不可儿戏》, 1895",
+        "year": ""
+      },
+      "after": {
+        "title": "伍尔顿庄园会客厅",
+        "source": "奥斯卡·王尔德\n《不可儿戏》, 1895",
+        "year": ""
+      },
+      "note": "原作场景表区分伦敦阿尔杰农公寓的 morning-room 与伍尔顿庄园的 drawing-room。现展示标题取乡间庄园会客厅，不将两处合写。未凭图片认定具体演出。",
+      "sources": [
+        {
+          "title": "《不可儿戏》原文及场景表（Project Gutenberg）",
+          "url": "https://www.gutenberg.org/files/844/844-h/844-h.htm"
+        }
+      ]
+    },
+    {
+      "id": "M-B25",
+      "before": {
+        "title": "汤本馆 / 木赁宿的「お座敷」（宴会厅房）",
+        "source": "川端康成《伊豆的舞女》1926",
+        "year": ""
+      },
+      "after": {
+        "title": "旅途客栈的座敷",
+        "source": "川端康成《伊豆的舞女》1926",
+        "year": ""
+      },
+      "note": "汤本馆官网将其认定为《伊豆的舞女》写作地；静冈县官方资料另将福田家认定为作品舞台。现有图片无法定位具体旅馆或改编版本，因此展示层采用作品旅宿的宽称，不把“汤本馆／木赁宿”认作同一地点。",
+      "sources": [
+        {
+          "title": "汤本馆官网：川端康成与写作地",
+          "url": "https://www.yumotokan-izu2019.com/yumotokan"
+        },
+        {
+          "title": "静冈县官方旅游指南：《伊豆的舞女》与福田家",
+          "url": "https://hellonavi.jp/spot/1157"
+        }
+      ]
+    },
+    {
+      "id": "M-C17",
+      "before": {
+        "title": "城市客厅 群展",
+        "source": "澎湃新闻《深圳表情｜一座世界级的“城市客厅”，如何叠加前海的未来》2021",
+        "year": "2021"
+      },
+      "after": {
+        "title": "城市客厅（公共空间构想）",
+        "source": "澎湃新闻2021年城市客厅报道的主题参照；所配空间示意图作者未核实",
+        "year": "2021"
+      },
+      "note": "原题“城市客厅 群展”与所供报道内容不一致；报道讨论前海城市设计，未据此认定配图作者或项目。",
+      "sources": [
+        {
+          "title": "澎湃新闻：一座世界级的“城市客厅”，如何叠加前海的未来",
+          "url": "https://www.thepaper.cn/newsDetail_forward_11017267"
+        }
+      ]
+    },
+    {
+      "id": "M-D2",
+      "before": {
+        "title": "武汉华润光谷润璟",
+        "source": "路易·康（Louis Kahn）",
+        "year": ""
+      },
+      "after": {
+        "title": "园景中的公共停留面（参考图）",
+        "source": "提供资料中的园景与公共休憩面参考图，原作者及具体项目未核实",
+        "year": ""
+      },
+      "note": "原资料将武汉房地产项目与Louis Kahn并列，未发现足以证明图中项目由其设计的证据，展示不沿用这一归属。",
+      "sources": []
+    },
+    {
+      "id": "M-D12 ",
+      "before": {
+        "title": "楼道公共客厅",
+        "source": "北京市丰台区政府《小楼门承载大文明 微更新绘就新画卷》",
+        "year": ""
+      },
+      "after": {
+        "title": "共享室内坐席（参考图）",
+        "source": "提供资料中的共享室内坐席参考图，原作者与地点未核实；丰台楼门微更新报道为议题参照",
+        "year": ""
+      },
+      "note": "原始ID末尾空格已保留；未将公共室内图冒认为丰台楼道改造照片。",
+      "sources": [
+        {
+          "title": "丰台时报：小楼门承载大文明 微更新绘就新画卷",
+          "url": "https://www.bjft.gov.cn/fengtaishibao/html/2026-06/03/content_9503_19588995.htm"
+        }
+      ]
+    },
+    {
+      "id": "M-D19-guest",
+      "before": {
+        "title": "中东/南亚经典客厅",
+        "source": "主要聚焦沙特阿拉伯、卡塔尔，阿曼等地区的经典客厅文化",
+        "year": ""
+      },
+      "after": {
+        "title": "门洞后的坐席（绘画参考图）",
+        "source": "提供资料中的室内绘画参考图，画家、作品名与地点未核实",
+        "year": ""
+      },
+      "note": "不将一幅未核实出处的绘画概括为中东或南亚地区共同的日常客厅事实；保留原始客身份记录。",
+      "sources": []
+    },
+    {
+      "id": "M-O1",
+      "before": {
+        "title": "《Dream House》",
+        "source": "格雷戈里·克鲁德森，《纽约时报》委托，2002",
+        "year": ""
+      },
+      "after": {
+        "title": "岩洞中的粉色座具（参考图）",
+        "source": "提供资料中的岩洞与粉色软体座具参考图，原作者、作品名及年代未核实",
+        "year": ""
+      },
+      "note": "不沿用Gregory Crewdson、《纽约时报》委托或2002年作为本图片归属。原始数据单独保留作追溯。",
+      "sources": []
+    },
+    {
+      "id": "M-A7",
+      "before": {
+        "title": "《打破的水罐》",
+        "source": "让-巴蒂斯特·格瑞兹 · 1761",
+        "year": "1761"
+      },
+      "after": {
+        "title": "《打破的水罐》（据格瑞兹原作的版画）",
+        "source": "据让-巴蒂斯特·格瑞兹原作制作的版画 · 印本年代未确认",
+        "year": ""
+      },
+      "note": "原标1761不能用于本图。原图为纸上版画，右下签名疑为Massard；与哈佛Fogg藏G2585的复制图构图吻合，但尚未取得该印本官方目录核验。巴黎市立博物馆的1773是同主题Massard版画资料，不能据此直接给本张印本定年。建议展示层清除原1761。",
+      "sources": [
+        {
+          "title": "卢浮宫｜La Cruche cassée，油画原作",
+          "url": "https://collections.louvre.fr/en/ark:/53355/cl010059258"
+        },
+        {
+          "title": "巴黎市立博物馆｜La Cruche cassée d’après Greuze，Jean Massard，1773",
+          "url": "https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/la-cruche-cassee-d-apres-greuze"
+        }
+      ]
+    },
+    {
+      "id": "M-A9",
+      "before": {
+        "title": "《亲密》",
+        "source": "皮埃尔·博纳尔 · 约1912",
+        "year": "约1912"
+      },
+      "after": {
+        "title": "《亲密》",
+        "source": "皮埃尔·博纳尔 · 1891",
+        "year": "1891"
+      },
+      "note": "原标约1912不符实际图片；奥赛官方作品图、构图和定年均可对应。",
+      "sources": [
+        {
+          "title": "奥赛博物馆｜Pierre Bonnard, Intimité, 1891",
+          "url": "https://www.musee-orsay.fr/fr/oeuvres/intimite-69322"
+        }
+      ]
+    },
+    {
+      "id": "M-A20",
+      "before": {
+        "title": "《贝利尼一家》",
+        "source": "埃德加·德加, 1858–1867",
+        "year": "1858"
+      },
+      "after": {
+        "title": "《贝莱利一家》",
+        "source": "埃德加·德加 · 1858–1869",
+        "year": "1858–1869"
+      },
+      "note": "Bellelli原译贝利尼容易与Bellini混淆，改为贝莱利。奥赛现行官方条目定年1858–1869，原表为1858–1867。",
+      "sources": [
+        {
+          "title": "奥赛博物馆｜Edgar Degas, Portrait de famille (La famille Bellelli)",
+          "url": "https://www.musee-orsay.fr/fr/oeuvres/portrait-de-famille-9998"
+        }
+      ]
+    },
+    {
+      "id": "M-A45",
+      "before": {
+        "title": "代尔夫特室内系列",
+        "source": "彼得·德·霍赫 · 约1658–60",
+        "year": "约1658–60"
+      },
+      "after": {
+        "title": "《绘画艺术》",
+        "source": "扬·维米尔 · 约1666–1668",
+        "year": "约1666–1668"
+      },
+      "note": "已直接检查原图：左侧大幅帷幕、背向观者的黑衣画家、蓝衣模特、荷兰地图及吊灯均与KHM馆藏GG 9128吻合。原标德·霍赫、代尔夫特室内系列、1658–60为错配。KHM官网旧对象链接无法读取，采用博物馆在Google Arts & Culture发布的官方完整条目。",
+      "sources": [
+        {
+          "title": "维也纳艺术史博物馆官方供稿｜The Art of Painting（Google Arts & Culture）",
+          "url": "https://artsandculture.google.com/asset/the-art-of-painting/lAHeqBoLaePtEA?hl=en-GB"
+        }
+      ]
+    },
+    {
+      "id": "M-B22",
+      "before": {
+        "title": "父亲遗留旧公寓客厅（待拍卖现场）",
+        "source": "阿瑟·米勒《代价 (The Price)》, 1968",
+        "year": ""
+      },
+      "after": {
+        "title": "旧宅阁楼（待售家具现场）",
+        "source": "阿瑟·米勒《代价 (The Price)》, 1968",
+        "year": ""
+      },
+      "note": "剧作授权方明确列场景为曼哈顿褐石住宅阁楼，出版方说明兄弟整理并出售父亲留下的家具；原题“公寓客厅／待拍卖现场”不够准确。",
+      "sources": [
+        {
+          "title": "Concord Theatricals：《The Price》剧情与场景",
+          "url": "https://www.concordtheatricals.com/p/98098/the-price"
+        },
+        {
+          "title": "Penguin Random House：《The Price》",
+          "url": "https://www.penguinrandomhouse.com/books/322100/the-price-by-arthur-miller/9780140481945/"
+        }
+      ]
+    },
+    {
+      "id": "M-B26",
+      "before": {
+        "title": "大阪药材商鴫屋（鹦屋）家客厅",
+        "source": "谷崎润一郎《春琴抄》1933",
+        "year": ""
+      },
+      "after": {
+        "title": "大阪药材商鵙屋家中（习艺与侍奉之所）",
+        "source": "谷崎润一郎《春琴抄》1933",
+        "year": ""
+      },
+      "note": "青空文库原文为“鵙屋（もずや）”；现题“鴫屋（鹦屋）”应修正。为避免把日式家内场所擅定为现代客厅，展示标题采用“家中”。",
+      "sources": [
+        {
+          "title": "谷崎润一郎《春琴抄》原文（青空文库）",
+          "url": "https://www.aozora.gr.jp/cards/001383/files/56866_58169.html"
+        }
+      ]
+    },
+    {
+      "id": "M-B28",
+      "before": {
+        "title": "单位分房「合居客厅」（与另一对夫妇公用的客厅）",
+        "source": "刘震云《一地鸡毛》1991（后与《单位》合集）",
+        "year": ""
+      },
+      "after": {
+        "title": "单位分房「合居客厅」（与另一对夫妇公用的客厅）",
+        "source": "刘震云《单位》· 1989（常收入《一地鸡毛》合集）",
+        "year": "1989"
+      },
+      "note": "两户合居、客厅厨房厕所共用的段落可定位于《单位》。三联生活周刊的编辑回忆明确记载《单位》发表于《北京文学》1989年第2期，并概述小林合居后分房；不应将具体段落单独归给1991年同名中篇《一地鸡毛》。原1991记录可能采用合集或改编口径，建议展示层注明具体篇名。",
+      "sources": [
+        {
+          "title": "三联生活周刊：刘震云《单位》的发表与小林住房处境",
+          "url": "https://mpre.lifeweek.com.cn/h5/article/detail?artId=64945"
+        },
+        {
+          "title": "白鹿书院公益图书馆：《单位》目录",
+          "url": "https://s.bailushuyuan.org/单位"
+        }
+      ]
+    },
+    {
+      "id": "M-C26",
+      "before": {
+        "title": "春节客厅社交",
+        "source": "催婚、盘问与“断亲”话题 · 2020s",
+        "year": "2020s"
+      },
+      "after": {
+        "title": "春节客厅社交",
+        "source": "提供资料中的春节家庭聚会影视拼图，具体片名与图源未核实；关联2020s代际交往议题",
+        "year": ""
+      },
+      "note": "2020s为原资料议题时间范围，不作为拼图中影视作品的制作年份。",
+      "sources": []
+    },
+    {
+      "id": "M-D11",
+      "before": {
+        "title": "蜂巢中央巢脾",
+        "source": "蜂王所在的决策客厅",
+        "year": ""
+      },
+      "after": {
+        "title": "巢房与群体空间（参考图）",
+        "source": "提供资料中的巢房照片及群体空间隐喻，具体蜂种、摄影者与地点未核实",
+        "year": ""
+      },
+      "note": "保留“决策客厅”作为原始策展隐喻，不将蜂王、巢脾或蜂类决策机制写成未经证实的动物学事实。",
+      "sources": []
+    },
+    {
+      "id": "M-D41",
+      "before": {
+        "title": "柔软宫殿：“欢乐宫殿”（Fun Palace）项目中的一件装置艺术",
+        "source": "让-马克·科拉德（Jean-Max Colard）",
+        "year": ""
+      },
+      "after": {
+        "title": "柔软宫殿（The Soft Palace）",
+        "source": "Studio Ossidiana；Centre Pompidou × GrandPalaisRmn，巴黎大皇宫，2025；Jean-Max Colard等策展",
+        "year": "2025"
+      },
+      "note": "已由设计团队与主办机构一手资料确认作品关系。该装置为2025年项目，不是Cedric Price于1960年代提出的Fun Palace原始作品；不沿用策展人作为唯一设计作者的表述。",
+      "sources": [
+        {
+          "title": "Studio Ossidiana：The Soft Palace",
+          "url": "https://www.studio-ossidiana.com/the-soft-palace-/-centre-pompidou-x-grandpalaisrmn"
+        },
+        {
+          "title": "Centre Pompidou：Studio Ossidiana — Soft Palace",
+          "url": "https://www.centrepompidou.fr/en/program/calendar/event/DhFxj0e"
+        }
+      ]
+    },
+    {
+      "id": "M-A4",
+      "before": {
+        "title": "《荷兰室内》",
+        "source": "彼得·德·霍赫 · 1658",
+        "year": "1658"
+      },
+      "after": {
+        "title": "《荷兰室内》",
+        "source": "原资料归于彼得·德·霍赫的室内画，作品年代未核实",
+        "year": ""
+      },
+      "note": "图像题名及构图与KMSKA 5011条目相符；官方联合目录列Pieter de Hooch但时代字段又列19th century，不能据此确认原表1658。建议展示层暂不显示1658，保留作者归属待馆方完整目录核验。",
+      "sources": [
+        {
+          "title": "佛兰德艺术收藏联合目录｜Dutch Interior，KMSKA 5011",
+          "url": "https://vlaamsekunstcollectie.be/en/collection/5011"
+        }
+      ]
+    },
+    {
+      "id": "M-A5",
+      "before": {
+        "title": "《室内》",
+        "source": "努里·伊耶姆1940",
+        "year": ""
+      },
+      "after": {
+        "title": "《室内》",
+        "source": "努里·伊耶姆室内画参考；具体版本与年代未核实",
+        "year": ""
+      },
+      "note": "未找到与本图唯一对应且带年代的博物馆或艺术家原始条目，背景不重复原表1940。",
+      "sources": []
+    },
+    {
+      "id": "M-A10",
+      "before": {
+        "title": "《客厅的阳光III》",
+        "source": "维尔姆·哈默肖伊 · 约1902",
+        "year": "约1902"
+      },
+      "after": {
+        "title": "《客厅的阳光III》",
+        "source": "维尔海姆·哈默肖伊 · 1903",
+        "year": "1903"
+      },
+      "note": "原表约1902应据SMK官方作品档案改为1903；原图黑色沙发、左右白椅与日光斑对应该作品。",
+      "sources": [
+        {
+          "title": "丹麦国家美术馆SMK数字档案｜Interior. Sunshine in the Drawing Room III",
+          "url": "https://hammershoi.smk.dk/artwork/interior-sunshine-in-the-drawing-room-iii/"
+        }
+      ]
+    },
+    {
+      "id": "M-A12",
+      "before": {
+        "title": "《粉红色的裸体》",
+        "source": "亨利·马蒂斯 · 1935",
+        "year": "1935"
+      },
+      "after": {
+        "title": "《粉红色坐姿裸体》",
+        "source": "亨利·马蒂斯 · 1935–1936",
+        "year": "1935–1936"
+      },
+      "note": "直接检查原图，竖幅坐姿、青绿色搭布、交叠手臂及无面部椭圆对应蓬皮杜AM 2001-215；不可与巴尔的摩1935横幅Grand nu couché (Nu rose)混同。",
+      "sources": [
+        {
+          "title": "蓬皮杜中心｜Henri Matisse, Nu rose assis",
+          "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cR5R8bX"
+        }
+      ]
+    },
+    {
+      "id": "M-A30",
+      "before": {
+        "title": "《梅洛德祭坛画》",
+        "source": "罗伯特·康平，1427–1432",
+        "year": ""
+      },
+      "after": {
+        "title": "《梅洛德祭坛画》",
+        "source": "罗伯特·康平作坊 · 约1427–1432",
+        "year": "约1427–1432"
+      },
+      "note": "大都会现行官方归属为Workshop of Robert Campin，不能直接标成康平独立创作。",
+      "sources": [
+        {
+          "title": "大都会艺术博物馆｜Workshop of Robert Campin, Annunciation Triptych (Merode Altarpiece)",
+          "url": "https://www.metmuseum.org/art/collection/search/470304"
+        }
+      ]
+    },
+    {
+      "id": "M-A31",
+      "before": {
+        "title": "《书房中的圣哲罗姆》",
+        "source": "扬·凡·艾克（及作坊），1435",
+        "year": "1435"
+      },
+      "after": {
+        "title": "《书房中的圣哲罗姆》",
+        "source": "安东内洛·达·梅西纳 · 约1475",
+        "year": "约1475"
+      },
+      "note": "已直接检查原图：巨型石拱、中央抬高木制书房、右侧廊道狮子与前景孔雀等，均与伦敦国家美术馆NG1418吻合。原标凡·艾克及作坊、1435为错配。",
+      "sources": [
+        {
+          "title": "伦敦国家美术馆｜Antonello da Messina, Saint Jerome in his Study",
+          "url": "https://www.nationalgallery.org.uk/paintings/antonello-da-messina-saint-jerome-in-his-study"
+        }
+      ]
+    },
+    {
+      "id": "M-D4",
+      "before": {
+        "title": "茶寮与亭",
+        "source": "光明网《亭子中的古人生活》引《园冶》",
+        "year": ""
+      },
+      "after": {
+        "title": "山水前的轻型茶亭（参考图）",
+        "source": "提供资料中的茶亭式构筑与低坐场景参考图，原作者、项目及年代未核实",
+        "year": ""
+      },
+      "note": "《园冶》及所列报道仅为亭中生活的主题参照，不将图中富士山场景认定为书中建筑或中国古代实物。",
+      "sources": []
+    },
+    {
+      "id": "M-D15",
+      "before": {
+        "title": "《卡里加里博士的小屋》",
+        "source": "导演罗伯特维内,1920",
+        "year": ""
+      },
+      "after": {
+        "title": "《卡里加里博士的小屋》",
+        "source": "罗伯特·维内电影《卡里加里博士的小屋》（1920）为视觉参照；所配模型式舞台图作者与年代未核实",
+        "year": ""
+      },
+      "note": "1920仅指原电影年份，不作为所配模型图的制作日期。",
+      "sources": []
+    },
+    {
+      "id": "M-D19-host",
+      "before": {
+        "title": "中东/南亚经典客厅",
+        "source": "主要聚焦沙特阿拉伯、卡塔尔，阿曼等地区的经典客厅文化",
+        "year": ""
+      },
+      "after": {
+        "title": "卧榻上的独处（绘画参考图）",
+        "source": "提供资料中的卧榻与私人室内绘画参考图，画家、作品名及地点未核实",
+        "year": ""
+      },
+      "note": "不由东方题材绘画推导地区真实生活方式；与客身份同编号图保留独立记录。",
+      "sources": []
+    },
+    {
+      "id": "M-D35",
+      "before": {
+        "title": "首尔之家",
+        "source": "Do Ho Suh（徐道获）𝗔𝗿𝘁 𝗮𝗻𝗱 𝗗𝗲𝘀𝗶𝗴𝗻\n𝗜𝗻𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻, 𝗟𝗶𝘃𝗶𝗻𝗴",
+        "year": ""
+      },
+      "after": {
+        "title": "织物中的家（徐道获作品参考）",
+        "source": "徐道获织物建筑作品相关资料；所配图的具体作品名、版本与摄影出处未核实",
+        "year": ""
+      },
+      "note": "MOCA所藏1999年《Seoul Home…》为绿色丝织建筑，不能直接以该馆年份、材料或完整题名标注本条黄色织物图像。",
+      "sources": [
+        {
+          "title": "MOCA：Do Ho Suh — Seoul Home/L.A. Home/New York Home…",
+          "url": "https://www.moca.org/artworks/seoul-homela-homenew-york-homebaltimore-homelondon-homeseattle-homela-home"
+        },
+        {
+          "title": "Smithsonian American Art Museum：Do Ho Suh — Almost Home",
+          "url": "https://americanart.si.edu/exhibitions/suh"
+        }
+      ]
+    },
+    {
+      "id": "M-D42",
+      "before": {
+        "title": "牢笼",
+        "source": "Louise Bourgeois\n1911-2010",
+        "year": ""
+      },
+      "after": {
+        "title": "围合中的记忆（Cells主题参考图）",
+        "source": "路易丝·布尔乔亚Cells系列主题参考图；具体作品名称、年代与图片出处未核实",
+        "year": ""
+      },
+      "note": "NGV一手资料用于Cells系列的背景，不据此把本图标作该馆《Cell (glass spheres and hands)》；原始1911–2010仅为艺术家生卒年。",
+      "sources": [
+        {
+          "title": "National Gallery of Victoria：Louise Bourgeois’s Cell (glass spheres and hands)",
+          "url": "https://www.ngv.vic.gov.au/essay/louise-bourgeoiss-cell-glass-spheres-and-hands-2/"
+        }
+      ]
+    }
+  ]
+}
