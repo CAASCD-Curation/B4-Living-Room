@@ -1,0 +1,10 @@
+# 仓库工作文档，不参与线上部署
+参考资料/
+*.json
+*.txt
+*.bat
+README.md
+网站说明-v22.md
+wrangler.toml
+.assetsignore
+.gitignore

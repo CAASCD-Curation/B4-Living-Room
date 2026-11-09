@@ -1,42 +1,23 @@
-# 客厅图志 · Living Room Atlas
+# 几分熟 · How at home are you?（v22 · 主站）
 
-一座关于「客厅」的概念档案 —— 4 形态 × 5 分类轴 × 32 情绪，200 条目 / 250 图像。
+通过客、伴、主与四个独立分面，阅读客厅中的关系。
+143 条档案 · 5 张展览图片 · 22 种家具 · 四个分面值 · 作者与时间 · 背景描述 · 选题理由 · 关键词。
 
 ## 🌐 在线访问
 
 **https://b4-living-room.2736024602.workers.dev**
 
-> 部署方式：本地 `npm run build` 后执行 `npx wrangler deploy`（使用根目录 `wrangler.toml`，发布 `dist/`）。
+> 纯静态网站，无构建步骤。更新部署：仓库根目录执行 `npx wrangler deploy`（部署根目录下的网页文件，`参考资料/` 等文档已被 `.assetsignore` 排除，不会上传）。
 
-## 第三版网站 · living-room-v22
+## 网站文件
 
-`living-room-v22/` 是**另一个独立网站**——「几分熟 / How at home are you?」（纯静态 HTML/JS，无构建步骤），通过客、伴、主与四个独立分面阅读客厅中的关系。
+- `index.html` + `*-v22.js` / `*.css`（页面逻辑与样式，数据内嵌于 `data.js`）
+- `assets/`（images 作品图、fonts 四款 Helvetica 字体、icons、exhibition）
+- `打开网站.bat` — 本地双击打开（Windows）
+- `网站说明-v22.md` — 界面与功能详细说明
+- `参考资料/` — 需求与重构过程文档
+- `布局与书柜规则_v22.json` 等 — 资料核对与布局规则存档
 
-- 在线演示：**https://living-room-v22.2736024602.workers.dev**
-- 网页文件在 `living-room-v22/site/`，部署配置 `living-room-v22/wrangler.toml`（与主站互不影响）
-- 更新部署：在 `living-room-v22/` 目录下执行 `npx wrangler deploy`
-- 该网站**不参与主站构建**，主站的构建与部署完全不受影响
+## 历史版本
 
-## 第二版网站 · living-room-v2（⚠️ 暂时版）
-
-`living-room-v2/` 是**另一个独立网站**——「客厅关系档案 / LIVING ROOM」第二版（纯静态 HTML/JS，无构建步骤），**目前仍在修改中，内容为暂时版，后续还会再做改动**。
-
-- 在线演示：**https://living-room-v2.2736024602.workers.dev**
-- 网页文件在 `living-room-v2/site/`，部署配置 `living-room-v2/wrangler.toml`（与主站互不影响）
-- 更新部署：在 `living-room-v2/` 目录下执行 `npx wrangler deploy`
-- 该网站**不参与主站构建**，主站的构建与部署完全不受影响
-
-## 技术栈
-
-- Vite 7 + React 19 + TypeScript
-- Tailwind CSS + shadcn/ui
-- Three.js（3D 客厅场景）
-
-## 本地开发
-
-```bash
-npm install
-npm run dev      # 启动开发服务器
-npm run build    # 构建（输出到 dist/）
-npm run preview  # 预览构建产物
-```
+- 旧版「客厅图志 · Living Room Atlas」（Vite + React + Three.js）与「客厅关系档案 v2」已下线，代码保留在 git 历史中，可随时找回。
